@@ -1,5 +1,6 @@
 #! /usr/bin/python
 import csv
+import os
 
 from HTMLParser import HTMLParser
 class myHTMLParser(HTMLParser):
@@ -51,12 +52,13 @@ for line in f.readlines():
 			mystr = mystr + 'END TR\n'
 			mystr = 'START TR\n'
 
-with open('testing123.csv', 'wb') as csvfile:
-	csv_writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-	csv_writer.writerow(['Time', 'Country', 'URL', 'OS'])
 
+tf = open("output.csv", "w")
+tf.write("Time,Country,URL,OS\n")
 print total
 for thing in total:
-	for a in thing:
-		print a
-	print '\n'
+	tf.write("%s,%s,%s,%s\n" % (thing[0],thing[1],thing[2],thing[3]))
+	#for a in thing:
+		#print a
+	#print '\n'
+tf.close()
