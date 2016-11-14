@@ -24,7 +24,7 @@ mystr = 'START TR\n'
 counter = 0
 total = []
 current = []
-important = [1, 6, 8, 9]
+important = [1, 2, 3, 4, 5, 6, 8, 9]
 for line in f.readlines():
 	td = False
 	parser.feed(line)
@@ -34,6 +34,10 @@ for line in f.readlines():
 			if counter in important:
 				if counter is 1:
 					current.append(line.lstrip()[4:-7])
+				elif counter is 2:
+					current.append(line.lstrip()[4:-11].split('>')[-1])
+				elif counter is 3 or counter is 4 or counter is 5:
+					current.append(line.lstrip()[4:-7])		
 				elif counter is 6:
 					current.append(line.lstrip()[4:-9].split('"')[-1])
 				elif counter is 8:
@@ -54,10 +58,10 @@ for line in f.readlines():
 
 
 tf = open("output.csv", "w")
-tf.write("Time,Country,URL,OS\n")
+tf.write("Time,Notifier,H,M,R,Country,URL,OS\n")
 print total
 for thing in total:
-	tf.write("%s,%s,%s,%s\n" % (thing[0],thing[1],thing[2],thing[3]))
+	tf.write("%s,%s,%s,%s,%s,%s,%s,%s\n" % (thing[0],thing[1],thing[2],thing[3],thing[4],thing[5],thing[6],thing[7]))
 	#for a in thing:
 		#print a
 	#print '\n'
