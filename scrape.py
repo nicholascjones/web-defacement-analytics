@@ -25,6 +25,7 @@ counter = 0
 total = []
 current = []
 important = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+R = False
 for line in f.readlines():
 	td = False
 	parser.feed(line)
@@ -66,12 +67,16 @@ for line in f.readlines():
 						print 'r'
 						offset+=1
 						current.append("R")
+						R = True
 					else:
 						print 'no'
 						current.append('')
 				elif counter is 7+offset: #Location
 					print 'Location'
+					if R:
+						current = current[:-1]
 					current.append(line.split('"')[-2])
+					R = False
 				elif counter is 9+offset: #Domain
 					print 'Domain'
 					current.append(line.split('>')[1][:-1])
