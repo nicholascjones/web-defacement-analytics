@@ -17,7 +17,7 @@ class myHTMLParser(HTMLParser):
 			mybool = False
 
 
-f = open('sample2.txt','r')
+f = open('http:_zone-h.org_archive_page=5.html','r')
 parser = myHTMLParser()
 mybool = False
 mystr = 'START TR\n'
@@ -90,7 +90,7 @@ for line in f.readlines():
 			mystr = 'START TR\n'
 
 
-tf = open("output.csv", "w")
+tf = open("output.csv", "a")
 tf.write("Time,Notifier,H,M,R,Country,Domain,OS\n")
 print total
 for thing in total:
