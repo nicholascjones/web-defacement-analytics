@@ -1,6 +1,7 @@
 import requests
 import json
 import csv
+from urlparse import urlparse
 
 urlList = []
 
@@ -8,7 +9,9 @@ with open('output.csv', 'rb') as cf:
 	rdr = csv.reader(cf, delimiter=',')
 	for row in rdr:
 		if row[6] != 'Domain':
-			urlList.append(row[6])
+			p = urlparse(row[6])
+			m = p.path.split('/')[0]
+			urlList.append(m)
 
 #print urlList
 
@@ -34,11 +37,20 @@ for u in urlList:
 
 
 print "incomplete domains:"
-print incompleteDomains
+print len(incompleteDomains)
+#print incompleteDomains
+for i in incompleteDomains:
+	print i
+print len(noArchive)
 print "\nno archive:"
-print noArchive
+#print noArchive
+for i in noArchive:
+	print str(i)
 print "\nall good:"
-print allGood
+print len(allGood)
+#print allGood
+for i in allGood:
+	print str(i)
 	
 	
 	
