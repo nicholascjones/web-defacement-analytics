@@ -2,7 +2,7 @@ import os
 import string
 from urlparse import urlparse
 
-with open("./blacklists/ads/urls")as f:
+with open("./urls.txt")as f:
 	uL = f.read().splitlines()
 
 #print uL
