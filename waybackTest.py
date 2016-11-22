@@ -52,7 +52,7 @@ for u in urlList:
 			#print 0
 		else:
 			allGood.append(u)
-			archivedDomains.append(uStr)
+			archivedDomains.append(q['archived_snapshots']['closest']['url'])
 			#print 1
 
 """
