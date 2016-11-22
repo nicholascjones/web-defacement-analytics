@@ -2,7 +2,7 @@
 
 import requests
 import sys
-#from bs4 import BeautifulSoup
+from bs4 import *
 
 f = open('archivedSites.txt', 'r')
 for line in f:
@@ -10,10 +10,10 @@ for line in f:
 	print url
 	try:
 		response = requests.get(url)
-		# parse html
-		#soup = BeautifulSoup(response.content, "html.parser")
+		#parse html
+		soup = BeautifulSoup(response.content, "html.parser")
 		print "Website: " + line
-		#for link in soup.find_all('a'):
-			#print link.get('href')
+		for link in soup.find_all('a'):
+			print link.get('href')
 	except:
 		print "Unexpected error: ", sys.exc_info()[0]
