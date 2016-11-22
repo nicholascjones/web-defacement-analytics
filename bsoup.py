@@ -15,5 +15,6 @@ for line in f:
 			response = requests.get(url)
 			#parse html
 			soup = BeautifulSoup(response.content, "html.parser")
+			print soup.prettify()
 		except:
 			print "Unexpected errors: ", sys.exc_info()[0]
