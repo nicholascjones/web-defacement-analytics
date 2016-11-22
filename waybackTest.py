@@ -8,10 +8,19 @@ urlList = []
 with open('output.csv', 'rb') as cf:
 	rdr = csv.reader(cf, delimiter=',')
 	for row in rdr:
-		if row[6] != 'Domain':
-			p = urlparse(row[6])
-			m = p.path.split('/')[0]
-			urlList.append(m)
+		print row
+		#if row[6] != 'Domain':
+		p = urlparse(row[6])
+		m = p.path.split('/')[0]
+		urlList.append(m)
+
+"""
+print urlList
+print len(urlList)
+"""
+
+for u in urlList:
+	print u
 
 #print urlList
 
@@ -20,6 +29,7 @@ incompleteDomains = []
 noArchive = []
 
 for u in urlList:
+
 	
 	if u[-3:] == "...":
 		#print "flag"
@@ -35,7 +45,7 @@ for u in urlList:
 		else:
 			allGood.append(u)
 
-
+"""
 print "incomplete domains:"
 print len(incompleteDomains)
 #print incompleteDomains
@@ -51,6 +61,7 @@ print len(allGood)
 #print allGood
 for i in allGood:
 	print str(i)
+"""
 	
 	
 	
