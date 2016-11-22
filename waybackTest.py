@@ -8,7 +8,7 @@ urlList = []
 with open('outputTest.csv', 'rU') as cf:
 	rdr = csv.reader(cf, delimiter= ',')
 	for row in rdr:
-		print row
+		#print row
 		if row[6] != 'Domain':
 			p = urlparse(row[6])
 			m = p.path.split('/')[0]
@@ -29,25 +29,31 @@ allGood = []
 incompleteDomains = []
 noArchive = []
 
+archivedDomains = []
+
 for u in urlList:
 
 	
 	if u[-3:] == "...":
 		#print "flag"
 		incompleteDomains.append(u)
-		print 0
+		#print 0
+		archivedDomains.append(0)
 	else:
 		uStr = "http://archive.org/wayback/available?url=" + u
+		
 		#print uStr
 		z = requests.get(uStr)
 		q = z.json()
 		#print q
 		if not q['archived_snapshots']:
 			noArchive.append(u)
-			print 0
+			archivedDomains.append(0)
+			#print 0
 		else:
 			allGood.append(u)
-			print 1
+			archivedDomains.append(uStr)
+			#print 1
 
 """
 print "incomplete domains:"
@@ -66,6 +72,8 @@ print len(allGood)
 for i in allGood:
 	print str(i)
 """
+for x in archivedDomains:
+	print x
 	
 	
 	
