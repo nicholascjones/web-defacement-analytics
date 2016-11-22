@@ -1,5 +1,6 @@
 #!/usr/local/python
 
+import urllib2
 import requests
 import sys
 from bs4 import *
@@ -7,13 +8,10 @@ from bs4 import *
 f = open('archivedSites.txt', 'r')
 for line in f:
 	url = "http://"+line
-	print url
+	print "Requesting at: " + url
 	try:
-		response = requests.get(url)
+		response = urllib2.urlopen(url)
 		#parse html
-		soup = BeautifulSoup(response.content, "html.parser")
-		print "Website: " + line
-		for link in soup.find_all('a'):
-			print link.get('href')
+		#soup = BeautifulSoup(response.read(), "html.parser")
 	except:
-		print "Unexpected error: ", sys.exc_info()[0]
+		print "Unexpected errors: ", sys.exc_info()[0]
