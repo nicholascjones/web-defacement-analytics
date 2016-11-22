@@ -5,14 +5,14 @@ from urlparse import urlparse
 
 urlList = []
 
-with open('output.csv', 'rb') as cf:
-	rdr = csv.reader(cf, delimiter=',')
+with open('outputTest.csv', 'rU') as cf:
+	rdr = csv.reader(cf, delimiter= ',')
 	for row in rdr:
 		print row
-		#if row[6] != 'Domain':
-		p = urlparse(row[6])
-		m = p.path.split('/')[0]
-		urlList.append(m)
+		if row[6] != 'Domain':
+			p = urlparse(row[6])
+			m = p.path.split('/')[0]
+			urlList.append(m)
 
 """
 print urlList
@@ -20,7 +20,8 @@ print len(urlList)
 """
 
 for u in urlList:
-	print u
+	#print u
+	pass
 
 #print urlList
 
@@ -34,6 +35,7 @@ for u in urlList:
 	if u[-3:] == "...":
 		#print "flag"
 		incompleteDomains.append(u)
+		print 0
 	else:
 		uStr = "http://archive.org/wayback/available?url=" + u
 		#print uStr
@@ -42,8 +44,10 @@ for u in urlList:
 		#print q
 		if not q['archived_snapshots']:
 			noArchive.append(u)
+			print 0
 		else:
 			allGood.append(u)
+			print 1
 
 """
 print "incomplete domains:"

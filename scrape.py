@@ -95,12 +95,15 @@ for line in f.readlines():
 			mystr = 'START TR\n'
 
 
-tf = open("output.csv", "a")
+i = 0
+tf = open("o1.csv", "a")
 tf.write("Time,Notifier,H,M,R,Country,Domain,OS\n")
 print total
 for thing in total:
+	i += 1
 	tf.write("%s,%s,%s,%s,%s,%s,%s,%s\n" % (thing[0],thing[1],thing[2],thing[3],thing[4],thing[5],thing[6],thing[7]))
 	for a in thing:
 		print a
 	print 'end\n'
 tf.close()
+print i
