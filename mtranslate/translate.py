@@ -1,5 +1,6 @@
 ## translate.py
 import string
+import operator
 from mtranslate import translate
 
 f = file("t.txt").read()
@@ -16,6 +17,17 @@ for word in f.split():
 		if w.isalpha():
 			wordList.append(w.lower())
 
-print wordList
+freq = {}
+
+#print wordList
+for word in wordList:
+	if word in freq.keys():
+		freq[word] += 1
+	else:
+		freq[word] = 1
+
+print freq
+
+#print sorted(freq.items(), key = )
 
 
