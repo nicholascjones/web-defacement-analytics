@@ -1,17 +1,20 @@
 #!/usr/local/python
 
-import urllib2
 import requests
 import sys
 from bs4 import *
 
-f = open('archivedSites.txt', 'r')
+f = open('archivedUrls.txt', 'r')
 for line in f:
-	url = "http://"+line
-	print "Requesting at: " + url
-	try:
-		response = urllib2.urlopen(url)
-		#parse html
-		#soup = BeautifulSoup(response.read(), "html.parser")
-	except:
-		print "Unexpected errors: ", sys.exc_info()[0]
+	url = line
+	if line == '0\n':
+		continue
+	else:
+		try:
+			print "Requesting at: " + url
+			response = requests.get(url)
+			#parse html
+			soup = BeautifulSoup(response.content, "html.parser")
+			print soup.prettify()
+		except:
+			print "Unexpected errors: ", sys.exc_info()[0]
