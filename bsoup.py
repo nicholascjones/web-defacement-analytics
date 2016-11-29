@@ -1,20 +1,19 @@
 #!/usr/local/python
 
-import requests
+import urllib2
 import sys
+import html2text
 from bs4 import *
 
 f = open('archivedUrls.txt', 'r')
 for line in f:
 	url = line
-	if line == '0\n':
-		continue
-	else:
+	if line != '0\n':
 		try:
 			print "Requesting at: " + url
-			response = requests.get(url)
+			response = urllib2.urlopen(url)
 			#parse html
-			soup = BeautifulSoup(response.content, "html.parser")
-			print soup.prettify()
+			soup = BeautifulSoup(response.read(), "html.parser")
+			print html2text.html2text(soup.prettify())
 		except:
 			print "Unexpected errors: ", sys.exc_info()[0]
