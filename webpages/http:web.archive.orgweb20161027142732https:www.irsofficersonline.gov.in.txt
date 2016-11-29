@@ -1,0 +1,872 @@
+[ ![Wayback Machine](/static/images/toolbar/wayback-toolbar-logo.png) ](/web/
+"Wayback Machine home page" ) |  |  |  |  [ JUN
+](/web/20160604042453/http://www.irsofficersonline.gov.in/ "4 Jun 2016" ) |
+OCT  |  Nov  
+---|---|---  
+[ ![Previous capture](/static/images/toolbar/wm_tb_prv_on.png)
+](/web/20161022192837/http://www.irsofficersonline.gov.in/ "19:28:37 Oct 22,
+2016" ) |  27  |  ![Next capture](/static/images/toolbar/wm_tb_nxt_off.png)  
+[ ** 2015 ** ](/web/20151006235617/http://www.irsofficersonline.gov.in/ "6 Oct
+2015" ) |  2016  |  2017  
+[ 236 captures ](/web/20161027142732*/https://www.irsofficersonline.gov.in/
+"See a list of every capture for this URL" )
+
+3 Feb 11 - 27 Oct 16
+
+|  [
+
+![sparklines](/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:010003332733_2012:-1:8333b4635337_2013:-1:632761984734_2014:-1:373354102214_2015:-1:235221322211_2016:9:558611000500)
+
+]()  
+Close  [ Help ](http://faq.web.archive.org/ "Get some help using the Wayback
+Machine" )  
+  
+[ ![](images/irs-logo1.jpg)
+](/web/20161027142732/http://www.irsofficersonline.gov.in/)
+
+For IRS officers only
+
+  * [ History of IRS ](HistoryOfIrs.aspx)
+  * [ About us ](AboutUs.aspx)
+  * [ Official Communique ](OfficialCommunique.aspx)
+  * [ Profile &amp; Cadre Management Gateway ](CadderGateway.aspx)
+  * [ CBDT Corridor ](CBDT.aspx)
+  * [ DG System's Corner ](DGSystemCorner.aspx)
+  * [ NADT Atrium ](NADT.aspx)
+  * [ Picture Gallery ](ViewAlbums.aspx)
+  * [ View IPR ](/web/20161027142732/http://cms.irsofficersonline.gov.in/cadre/public_ipr_report.php)
+  * [ Upload IPR ](/web/20161027142732/http://cms.irsofficersonline.gov.in/cadre/manage-irs-ipr.php)
+  * [ IRS Community ](IRSCommunity.aspx)
+  * [ Contact us ](ContactUs.aspx)
+
+  * [ Transfer Policy ](OfficialCommuniqueSection.aspx?SectionId=10)
+  * [ Transfer, Posting &amp; Promotion ](TransferPromotion.aspx)
+  * [ DPC/ACR Matters ](OfficialCommuniqueSection.aspx?SectionId=2)
+  * [ Vacancy / Deputation Circular ](OfficialCommuniqueSection.aspx?SectionId=3)
+  * [ Training Opportunities ](OfficialCommuniqueSection.aspx?SectionId=4)
+  * [ Communication to CCITs/DGITs ](OfficialCommuniqueSection.aspx?SectionId=6)
+  * [ Useful Circulars / Notifications ](OfficialCommuniqueSection.aspx?SectionId=7)
+  * [ CBDT Initiatives ](OfficialCommuniqueSection.aspx?SectionId=11)
+  * [ Restricted Communications ](OfficialCommuniqueSection.aspx?SectionId=12)
+  * [ Cadre Review Matters ](OfficialCommuniqueSection.aspx?SectionId=13)
+  * [ Press Release &amp; Misc. Notifications ](OfficialCommuniqueSection.aspx?SectionId=5)
+  * [ Old website Archive ](OfficialArchive.aspx)
+  * [ Fixation of Seniority ](OfficialCommuniqueSection.aspx?SectionId=14)
+  * 
+
+  * [ Overview ](CBDTOverview.aspx)
+  * [ Chairman &amp; Members ](CBDTCorridor.aspx)
+  * [ Past Chairmen ](CBDTPastChairman.aspx)
+  * [ Press Release ](/web/20161027142732/http://www.incometaxindia.gov.in/press_release.asp)
+  * 
+
+  * [ Overview ](NADTAcademyOverview.aspx)
+  * [ Batch Photos ](NADTAttrium.aspx)
+  * [ NADT Picture Gallery ](NADTAttrium2.aspx)
+  * [ Training Calender ](NADTTraining.aspx)
+  * [ Orders &amp; Announcements ](CCADGITPressRelease.aspx?rgn=dgittramha)
+  * [ NADT Soft Board ](NADTSoftBoard.aspx)
+  * 
+
+  * [ IRS Association Portico ](AssociationPortico.aspx)
+  * [ Achiever's Pavilion ](AchieverPavilion.aspx)
+  * [ Case Study Foyer ](CaseStudyListing.aspx)
+  * [ Ideas Lounge ](IdeasLoungeListing.aspx)
+  * [ Creative Courtyard ](CreativeCourtyard.aspx)
+  * [ Magazine Kiosk ](MagazineKiosk.aspx)
+  * [ Personal Announcements Notice Board ](PersonalAnnouncementBoard.aspx)
+  * [ Retired IRS Officer's Patio ](RetieredIRS.aspx)
+  * [ Query Window ](QueryWindowListing.aspx)
+  * 
+  
+
+Search
+
+Simply Search  Order  Notification  Date(DD/MM/YYYY)  File  Civil Code  CMS
+Community  Web Portal
+
+![](images/let-corn.png)
+
+Login to Web Portal
+
+UserName
+
+Password
+
+![](images/corn-right.png)
+
+![](images/pass-left.png)
+
+[ Forgot Password ](ForgotPassword.aspx)
+
+![](images/pass-right.png)
+
+[ ![test](images/logintocms.png)
+](/web/20161027142732/http://cms.irsofficersonline.gov.in/cadre/index.php)
+
+![](images/opinion-poll.png)
+
+![](images/search-botm.gif)
+
+![](images/ulili-icon.gif)
+
+  * [ List of Holidays ](Utilities.aspx)
+  * [ I.T Guest Houses ](Utilities.aspx)
+  * [ Hotel tie ups &amp; (other) Guest Houses ](Utilities.aspx)
+  * [ Downloadable Logo ](Utilities.aspx)
+  * [ Laptop Repair Escalation Matrix ](Utilities.aspx)
+  * [ Administrative Handbook 2013 ](Utilities.aspx)
+  * [ Administrative Handbook-Delhi ](Utilities.aspx)
+  * [ HOTEL TIE-UP IN RANCHI ](Utilities.aspx)
+  * [ Hotel tie-ups compiled by DIT(Infra) ](Utilities.aspx)
+  * [ Hotel tie-ups compiled by DIT(Infra) ](Utilities.aspx)
+  * [ Administrative Hand Book 2016 ](Utilities.aspx)
+  * [ ITBA Investigation Module Excel Utilities ](Utilities.aspx)
+  * [ ITBA Investigation Module Excel Utilities - TEP ](Utilities.aspx)
+  * [ ITBA Investigation Module Excel Utilities - TEP, STR &amp; Other Investigation ](Utilities.aspx)
+
+![](images/contact-hub.gif)
+
+  * [ Officer Search ](ContactHub.aspx#OfficerSearch)
+  * [ Office Search ](ContactHub.aspx#OfficeSearch)
+  * [ Telephone Directory of CCIT ](ContactHub.aspx#TelephoneDirectory)
+  * [ Station Directory ](ContactHub.aspx#StationDirectory)
+  * [ Civil List ](ContactHub.aspx#CivilList)
+  * [ IRS Officers on Deputation ](ContactHub.aspx#Deputation)
+
+  
+  
+
+![](images/myplanner.gif)
+
+  * [ Planner ](Planner.aspx)
+
+  
+
+![](images/usefullinks.gif)
+
+  * [ Valediction function of 65th Batch ](/web/20161027142732/http://www.purplestream.com/nadt/)
+  * [ Finance Minister inaugurates DTRTI Bangalore campu ](/web/20161027142732/http://dtrti.purplestream.in/)
+  * [ OLTAS DASHBOARD ](/web/20161027142732/https://onlineservices.tin.nsdl.com/TIN/JSP/security/LoginForFM.jsp)
+  * [ India Image ](/web/20161027142732/http://indiaimage.nic.in/)
+  * [ Ministry of Personnel,Public Grievances and Pensio ](/web/20161027142732/http://persmin.nic.in/)
+  * [ Judgments ](/web/20161027142732/http://judis.nic.in/)
+
+[ more links ](UsefullLinkList.aspx)
+
+  
+
+[ ![](images/book.gif) ](VisitorNoteBook.aspx)
+
+[ Visitors Notebook ](VisitorNoteBook.aspx)  
+Share your views and opinions  
+and help us serve you better
+
+  * [ Suggestion Box ](SuggestionForm.aspx "Suggestion Box" )
+  * [ Restructuring 2013 ](Restructuring.aspx "Restructuring 2013" )
+
+![](images/visit-img.jpg)
+
+23828632
+
+Chairman's Desk
+
+Chairperson's D.O. Letter dated 26/10/2016  
+  
+Chairperson's DO Letter - Budget Collection: Need to monitor Corporate Tax
+more closely and to improve both arrear and current demand collections - reg.
+
+Chairperson's Message to Team-Income Tax - reg.  
+  
+Chairperson's Message to Team-Income Tax - reg.
+
+Disposal of Public Grievances on priority  
+  
+Chairperson's D.O. Letter - Disposal of Public Grievances on priority
+
+Publicity Campaign for Income Declaration Scheme, 2016  
+  
+Chairperson's D.O. letter - Publicity Campaign for Income Declaration Scheme,
+2016 in partnership with branches of ICAI
+
+*    
+  
+* 
+
+[ ... Read More ](ColloquiumLisitngs.aspx)
+
+  
+
+  * [ 1 ](javascript:showStoryOne\(\))
+  * [ 2  ](javascript:showStoryTwo\(\))
+  * [ 3  ](javascript:showStoryThree\(\))
+  * [ 4  ](javascript:showStoryFour\(\))
+  * [ 5  ](javascript:showStoryFive\(\))
+
+![](images/home-header1.jpg)
+
+[ ![](images/hindi.jpg)
+](/web/20161027142732/http://www.irsofficersonline.org/hindi/Default.aspx) [
+Login
+](/web/20161027142732/https://www.irsofficersonline.gov.in/IRSLogin.aspx)
+
+  * About us 
+    * [ Overview ](AboutUs.aspx)
+    * [ History of IRS ](HistoryOfIrs.aspx)
+    * [ CBDT Corridor ](CBDT.aspx)
+    * [ Overview - CBDT Corridor ](CBDTOverview.aspx)
+    * [ Chairman &amp; Members ](CBDTCorridor.aspx)
+    * [ Past Chairmen ](CBDTPastChairman.aspx)
+    * [ Press Release ](/web/20161027142732/http://www.incometaxindia.gov.in/press_release.asp)
+  * [ CCA/DGIT Annexe ](CCADGITAnnexe.aspx)
+  * [ IRS Community ](IRSCommunity.aspx)
+    * [ IRS Association Portico ](AssociationPortico.aspx)
+    * [ Achiever's Pavilion ](AchieverPavilion.aspx)
+    * [ Case Study Foyer ](CaseStudyListing.aspx)
+    * [ Ideas Lounge ](IdeasLoungeListing.aspx)
+    * [ Creative Courtyard ](CreativeCourtyard.aspx)
+    * [ Magazine Kiosk ](MagazineKiosk.aspx)
+    * [ Personal Announcements Notice Board ](PersonalAnnouncementBoard.aspx)
+    * [ Retired IRS Officer's Patio ](RetieredIRS.aspx)
+    * [ Query Window ](QueryWindowListing.aspx)
+  * [ Media Center ](ViewAlbums.aspx)
+  * Utilities 
+    * [ Utilities ](Utilities.aspx)
+    * [ Contact Hub ](ContactHub.aspx#TelephoneDirectory)
+    * [ My Planner ](Planner.aspx)
+    * [ Useful Links ](UsefullLinkList.aspx)
+  * [ Contact us ](ContactUs.aspx)
+
+Nomination for the course on "The Techniques of Investigation in Business
+ERPs" at NADT from 8th to 11th of November, 2016.Chairperson, CBDT
+congratulates 'Team-Income Tax' for making IDS-2016 a huge success.
+***
+
+In Focus ** (For IRS officers only) **
+
+  * ** 
+  * Transfer/Placement Guidelines for IRS officers 2010 - reg 
+  * ***** 
+  * ***** 
+  * ***** 
+
+A Thought A Day
+
+The only devils in the world are those running in our own hearts. That is
+where the battle should be fought.
+
+Mahatma Gandhiji
+
+Direct Taxes Institutions
+
+![](images/center-icon.gif)
+
+[ Central Board of Direct  
+Taxes Corridor ](CBDT.aspx)
+
+![](images/acad-icon.gif)
+
+[ National Academy of  
+Direct Taxes Atrium ](NADT.aspx)
+
+![](images/irs-icon.gif)
+
+[ IRS Association Portico ](AssociationPortico.aspx)
+
+![](images/executive-icon.gif)
+
+[ Profile &amp; Cadre Management Gateway ](CadderGateway.aspx)
+
+![](images/direct-botom.gif)
+
+[ DG System's Corner ](DGSystemCorner.aspx)  
+
+Stay updated with the latest events &amp; happenings
+
+[ Official Communique ** (For IRS officers only) ** ](OfficialCommunique.aspx)
+
+[ General Election to 134-Aravakurichi AC in the State of Tamil Nadu, 2016 -
+Appointment of Expenditure Observer (Shri P. K. Singh, IRS)- reg.
+](javascript:;)
+
+Dated : 27/10/2016
+
+[ Bye-elections, 2016 announced by the Commission vide its Press Note No.
+ECI/PN/58/2016, dated 17th October, 2016 - Expenditure Observer matter (N.C.
+Roy, IRS)- reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ Bye-elections, 2016 announced by the Commission vide its Press Note No.
+ECI/PN/58/2016, dated 17th October, 2016 - Appointment of Expenditure
+Observer(Shri I.K. Zhimomi, IRS) - reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ Bye-elections, 2016 announced by the Commission vide its Press Note No.
+ECI/PN/58/2016, dated 17th October, 2016 - Appointment of Expenditure Observer
+(Sh. Saurabh Dubey, IRS) - reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ Office Memorandum - Video Conference on 31.10.2016 at 12:30 P.M. - reg.
+](javascript:;)
+
+Dated : 27/10/2016
+
+[ Bye-elections, 2016 announced by the Commission vide its Press Note No.
+ECI/PN/58/2016, dated 17th October, 2016 - Appointment of Expenditure Observer
+- reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ Office Memorandum - Video Conference on 31.10.2016 at 12:30 P.M. - reg.
+](javascript:;)
+
+Dated : 27/10/2016
+
+[ ITBA - Administrative Functions Instruction No. 3 - Launch of Income Tax
+Business Application (ITBA) - Administration Functions Module Phase - 3
+(Registration of Valuers) - reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ ITBA - Administrative Functions Instruction No. 2 - Launch of Income Tax
+Business Application (ITBA) - Administration Functions Module Phase - 2
+(Gratuity, Superannuation and Provident Fund Approval) - reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ All India course on Management and Soft Skills from 17-11-2016 to 18-11-2016
+for officials of the rank of Inspectors of Income Tax - reg. ](javascript:;)
+
+Dated : 27/10/2016
+
+[ Chairperson's DO Letter - Budget Collection: Need to monitor Corporate Tax
+more closely and to improve both arrear and current demand collections - reg.
+](javascript:;)
+
+Dated : 27/10/2016
+
+[ Office Memorandum - Calling for applications for posting of IRS officer to
+the post of First Secretary in the Income-Tax Overseas Unit (ITOU) at Indian
+Missions abroad - reg. ](javascript:;)
+
+Dated : 26/10/2016
+
+[ Order u/s 119 of Income-tax Act, 1961 - Issue of Intimation under section
+143(1) of the Income-tax Act, 1961 beyond the prescribed time in non-scrutiny
+cases - reg. ](javascript:;)
+
+Dated : 26/10/2016
+
+[ Circular No. 36/2016 - Taxability of the compensation received by the land
+owners for the land acquired under the Right to Fair Compensation and
+Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013
+('RFCTLARR Act') - reg. ](javascript:;)
+
+Dated : 25/10/2016
+
+[ Observance of Vigilance Awareness Week - 2016 - reg. ](javascript:;)
+
+Dated : 25/10/2016
+
+[ Study Leave to pursue research on the subject of "Evolution of cross border
+transaction and transfer pricing in India and China, University of Law School,
+Washington, D.C. - Shri Mohanish Verma, CIT(A), Karnal - reg. ](javascript:;)
+
+Dated : 24/10/2016
+
+[ Order No A-155/2016 - Permission to Ms. K. Haritha to visit Ex-India during
+Child Care Leave - reg. ](javascript:;)
+
+Dated : 24/10/2016
+
+[ Order No. 182 of 2016 - Revocation of Order No. 188 of 2012, 189 of 2012
+dated 07.10.2012 and Order No. 185 of 2015 dated 30.07.2015 - reg.
+](javascript:;)
+
+Dated : 24/10/2016
+
+[ Order No. 180 of 2016 - Appointment of Shri Dheeraj Bhatnagar (88004) as
+Joint Secretary, Department of Disinvestment and Public Assets Management,
+Ministry of Finance on deputation - reg. ](javascript:;)
+
+Dated : 24/10/2016
+
+[ Order No. 181 of 2016 - Transfer and Posting in the Grade of CIT-Reg.
+](javascript:;)
+
+Dated : 22/10/2016
+
+[ Forwarding of Deficient ACR/APARs in respect of Income Tax Officers - reg.
+](javascript:;)
+
+Dated : 21/10/2016
+
+[ Empanelment of IRS(IT) officers of 1991 Batch for appointment as Joint
+Secretary or equivalent by DoPT, GOI under the Central Staffing Scheme - reg.
+](javascript:;)
+
+Dated : 21/10/2016
+
+[ Launch of Property Return and Intimation module in HRMS - Income Tax
+Business Application(ITBA) - reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Nomination for the course on "The Techniques of Investigation in Business
+ERPs" at NADT from 8th to 11th of November, 2016. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Order No. 179 of 2016 - Posting of Shri Raja Raam Sah (95029) as Additional
+CIT(OSD) in the office of Principal DGIT(Vigilance), New Delhi - reg.
+](javascript:;)
+
+Dated : 21/10/2016
+
+[ Rajswa Gyan Sangam - Annual Conference of Tax Administrators held on 16-17
+June, 2016 at Vigyan Bhawan, New Delhi and the issue of 58 vacant land pieces
+- reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Bye-elections, 2016 announced by the Commission vide its Press Note No.
+ECI/PN/58/2016, dated 17th October, 2016 - Appointment of Expenditure Observer
+- reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ General Elections from 134-Aravakurichi AC and 174- Thanajavur AC in the
+state of Tamil Nadu, 2016 - Appointment of Expenditure Observer - Shri Satish
+Chandra - reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Forwarding/uploading vacancy circular for the post of Additional Director
+General in Central Economic Intelligence Bureau (CEIB) - reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Forwarding/uploading vacancy circular for the post at the level of as Joint
+Director/Additional Director in CEIB - reg. ](javascript:;)
+
+Dated : 21/10/2016
+
+[ Forwarding/uploading vacancy circular for the post of Deputy Director in
+CEIB - reg. ](javascript:;)
+
+Dated : 20/10/2016
+
+[ Notification No. 95/2016 - ITA II, CBDT - reg. ](javascript:;)
+
+Dated : 20/10/2016
+
+[ Transfer and Postings of officers at the level of AC/DCIT and JC/Addl.CIT to
+International Taxation/Transfer Pricing - Clarification - reg. ](javascript:;)
+
+Dated : 19/10/2016
+
+[ Order No. 178 of 2016 - Selection of Shri Sudhanshu Dhar Mishra (06007) for
+induction as Superintendent of Police in Central Bureau of Investigation on
+deputation basis - reg. ](javascript:;)
+
+Dated : 19/10/2016
+
+[ Training Programme on Soft Skills on 01st &amp; 02nd December, 2016 -
+Request for Nominations - reg. ](javascript:;)
+
+Dated : 19/10/2016
+
+[ Management Development Programme for 45th Batch of IRS (Yr. 1991) at NADT on
+17th &amp; 18th November, 2016 - Nominations - reg. ](javascript:;)
+
+Dated : 19/10/2016
+
+[ Notification No. 01 of 2016 - Acceptance of resignation of Shri Paramjit
+Singh (07644), ADIT(I&amp;CI;), Ludhiana from the Government Service - reg.
+](javascript:;)
+
+Dated : 19/10/2016
+
+[ Notification No. 02 of 2016 - Acceptance of resignation of Smt. Rajni B.
+Gohil (09511), DDIT(Inv.), Godhra from the Government Service - reg.
+](javascript:;)
+
+Dated : 19/10/2016
+
+[ Implementation of "End User machine management" through Active Directory(AD)
+Policy under ITBA Project - reg. ](javascript:;)
+
+Dated : 19/10/2016
+
+[ Three days Course on Ethics at Sardar Vallabhbhai Patel National Police
+Academy, Hyderabad from 30.11.2016 to 02.12.2016 - Inviting nominations - reg.
+](javascript:;)
+
+Dated : 18/10/2016
+
+[ Modifications to the Instruction No. 7/2016 for engagement of Standing
+Counsels to represent the Income Tax Department before High Courts and other
+judicial forums - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Modifications to the Instruction No. 6/2016 for engagement of Special Public
+Prosecutors (SPPs) to represent the Income Tax Department before Courts of
+Session and its subordinate courts - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Uploading data with regard to government land on the web-portal created for
+the purpose of "Centralized databank of inventory of all government land
+including that belonging to government land including that belonging to
+government controlled statutory Authorities and PSUs - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Notification No. 94/2016 - Amendment of Income tax Rules - Prescribing
+manner of determination of amount received by the company in respect of share
+- Section 115QA - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Order under Section 119 of the Income-tax Act, 1961 - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Casual Labour engaged in the Income Tax Department - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Requisition of inventory of Quarters, Guesthouses and Dormitories for
+Quarter allotment system (module) in HRMS - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Quarter detail capture format in respect of Quarters, Guesthouses and
+Dormitories along with instructions in Excel format - reg. ](javascript:;)
+
+Dated : 18/10/2016
+
+[ Exercise to ensure integrity and accuracy of statistics of Demand reported
+in CAP-I and the CPC - reg. ](javascript:;)
+
+Dated : 17/10/2016
+
+[ Order No. A-161/2016 - Acceptance of resignation of Smt. Rajni B. Gohil
+(09511), Godhra from Government Service w.e.f 31.05.2016 - reg.
+](javascript:;)
+
+Dated : 17/10/2016
+
+[ Order No. A-159/2016 - Rejection of Voluntary Retirement Notice of Shri
+Sudhir Ramdas Raokadnur (10554), DDIT(Inv.), Vapi - reg. ](javascript:;)
+
+Dated : 17/10/2016
+
+[ Implementation of the Direct Tax Dispute Resolution Scheme, 2016 - reg.
+](javascript:;)
+
+Dated : 14/10/2016
+
+[ Calling for applications for filling up of vacancies at the level of Under
+Secretary in the Other Taxes &amp; Wealth Tax Division of CBDT - reg.
+](javascript:;)
+
+Dated : 14/10/2016
+
+[ Notification No. 18 of 2016 - Selection Grade (NFSG) in the PB-4 of Rs.
+37400-67000 + Grade Pay of Rs. 8700 to the officers in the grade of Joint
+Commissioners of Income Tax - reg. ](javascript:;)
+
+Dated : 14/10/2016
+
+[ Implementation of the Direct Tax Dispute Resolution Scheme, 2016 - reg.
+](javascript:;)
+
+Dated : 14/10/2016
+
+[ Calling for willingness for posting of Tax Assistants for posting in
+CPC(TDS) - reg. ](javascript:;)
+
+Dated : 14/10/2016
+
+[ Forwarding/uploading vacancy circular for the posts of Additional Director
+General, Joint Director General and Deputy Director General in Competition
+Commission of India - reg. ](javascript:;)
+
+Dated : 14/10/2016
+
+[       / Non-availability of
+APARs - reg. ](javascript:;)
+
+Dated : 13/10/2016
+
+[ Instruction No. 11 of 2016 - The Income Declaration Scheme, 2016 - reg.
+](javascript:;)
+
+Dated : 13/10/2016
+
+[ Observance of Vigilance Awareness Week - 2016 - reg. ](javascript:;)
+
+Dated : 13/10/2016
+
+[ Circular No. 35/2016 - Applicability of TDS provisions of Section 194-I of
+the Income-tax Act, 1961 on lump sum lease premium paid for acquisition of
+long term lease - reg. ](javascript:;)
+
+Dated : 13/10/2016
+
+[ Order No. 177 of 2016 - Posting of Smt. Chaitali Panmei (87096) as CIT(OSD)
+in the office of Principal CCIT, Delhi - reg. ](javascript:;)
+
+Dated : 13/10/2016
+
+[ Order No. A-157/2016 - Rejection of Voluntary Retirement Notice of Shri Ram
+Swaroop Meena (85070), Pr.CIT, Bikaner - reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Order No-A- 156/2016 - Acceptance of Voluntary Retirement Notice of Shri
+K.D. Bhatt (09512) w.e.f. 10.10.2016 - reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Status of APARs/NRCs of 2012 batch of IRS officers - reporting period
+2014-15 and 2015-16 - reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Removal of deficiency in the APARs for the 2011 batch of IRS officers -
+Status report of APARs received in/sent to the JS(Admn.) from the Directorate
+of IT(HRD), New Delhi - reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Order No. 176 of 2016 - Appointment of Shri Manoj Pandey (92064) as
+Advisor(Law) in Competition Commission of India, New Delhi on deputation basis
+- reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Order No. 175 of 2016 - Transfer and Postings of officers in the grade of
+Assistant/Deputy Commissioner of Income Tax - reg. ](javascript:;)
+
+Dated : 10/10/2016
+
+[ Forwarding/uploading vacancy circular for the post at the level of as Joint
+Director/Additional Director in CEIB - reg. ](javascript:;)
+
+Dated : 07/10/2016
+
+[ Training Programme on "Personal Excellence" by Art of Living Foundation at
+Bengaluru from 7-11 November, 2016 - reg. ](javascript:;)
+
+Dated : 07/10/2016
+
+[ Change in date of birth of Shri A. Selvaraj, IRS officer of 1972 batch -
+reg. ](javascript:;)
+
+Dated : 07/10/2016
+
+[ Providing information regarding "Private Hospitals, Nursing Homes/Medical
+Clinics, Medical colleges/Research Institutes, Diagnostic Centre, Pathological
+Labs, other medical supplies agencies/stores" - reg. ](javascript:;)
+
+Dated : 06/10/2016
+
+[ Order No. A-153/2016 - Extra-ordinary leave for 180 days to Shri Prashant
+Kumar Mishra (07027), JCIT(OSD), Bhopal - reg. ](javascript:;)
+
+Dated : 06/10/2016
+
+[ Welfare and Protection of interest of workers - reg. ](javascript:;)
+
+Dated : 06/10/2016
+
+[ Forwarding/uploading vacancy circular for the different posts in Armed
+Forces Tribunal, Principal Bench - reg. ](javascript:;)
+
+Dated : 06/10/2016
+
+[ Office Memorandum - Regarding Use of Space Technology in Central Board of
+Excise and Customs (CBEC) and Central Board of Direct Taxes (CBDT) - reg.
+](javascript:;)
+
+Dated : 06/10/2016
+
+[ Order No. 174 of 2016 - Additional charge of Member(A&amp;J;) and zonal
+charges to Shri Gopal Mukherjee, Member(Revenue), CBDT - reg. ](javascript:;)
+
+Dated : 06/10/2016
+
+[ Removal of deficiency in the APARs for the 2007 left over &amp; 2008 Batch
+of IRS officers - reg. ](javascript:;)
+
+Dated : 05/10/2016
+
+[ Filling up of post of Pr. Administrative Officer - Matter - reg
+](javascript:;)
+
+Dated : 05/10/2016
+
+[ Deficiency list of ACRs/APARs of IRS(IT) Officers of 2011 Batch - reg.
+](javascript:;)
+
+Dated : 04/10/2016
+
+[ Final Vacancy position in the Cadre of ITI &amp; TA as on 30.09.2016 after
+Inter Charge Transfer - Reminder - reg. ](javascript:;)
+
+Dated : 04/10/2016
+
+[ Chairperson's Message to Team-Income Tax - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Order No. 173 of 2016 - Appointment of Shri Rajesh Kumar Kedia (95028) as
+Director(TPL-1) in CBDT, Department of Revenue - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Inviting applications for being nominated in OECD Global Relations Training
+Programme 2016 - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Office Memorandum - Video Conference on 04.10.2016 at 10:30 A.M. - reg.
+](javascript:;)
+
+Dated : 03/10/2016
+
+[ Order No. 172 of 2016 - Posting of Shri Rajiv Kumar (00018) as Additional
+CIT(OSD) in the office of Principal CCIT, Delhi region -reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Order No. 171 of 2016 - Transfers/Postings of officers in the grade of
+Additional/Joint Commissioner of Income Tax (Local Changes) - reg.
+](javascript:;)
+
+Dated : 03/10/2016
+
+[ Call for applications or the 6th "Japan-IMF Macroeconomic Seminar for Asia
+(JIMS)" during February 20-24, 2017, in Tokyo, Japan - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Office Memorandum - Revision of rates of damages for unauthorized occupation
+of general pool residential accommodation and damages for subletting of
+general pool residential accommodation with effect from 01.07.2016 throughout
+the country - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Requests for Exchange of Information from field officers in time barring
+cases - reg. ](javascript:;)
+
+Dated : 03/10/2016
+
+[ Order No. 170 of 2016 - Additional charge(s) to the officers in the grade of
+Pr.CCIT/Pr.DGIT/CCIT - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Order No. 169 of 2016 - Posting of Shri Manoj Joshi (87049), DIT(Exam) as
+OSD in the Directorate of Income Tax (HRD) - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Order u/s 120 sub-section (1) of the Income-tax Act, 1961 - reg.
+](javascript:;)
+
+Dated : 30/09/2016
+
+[ Request for suggestions from the field formations for consideration during
+the forthcoming budgetary exercise - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Order under Section 119 of the Income-tax Act, 1961 dated 9th September,
+2016 - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Withdrawal of Voluntary Retirement Notice of Smt. V Madhu Vani, CIT(A)-41,
+Mumbai - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Study Leave in respect of Shri M. Anil Kumar (90005), CIT(Appeals), LTU,
+Bengaluru - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Course on "Emerging issues in Investigation" at NADT on 20th &amp; 21st
+October, 2016 - Request for Nominations - reg. ](javascript:;)
+
+Dated : 30/09/2016
+
+[ Uploading of Form -1 filed under the Income Declaration Scheme, 2016 - reg.
+](javascript:;)
+
+Dated : 30/09/2016
+
+[ Tentative deficiency list of ACRs/APARs of IRS(IT) officers of 1984 batch -
+reg. ](javascript:;)
+
+Dated : 29/09/2016
+
+[ View More ](OfficialCommunique.aspx)
+
+![](images/cornner1.gif)
+
+![](images/corrner2.gif)
+
+[ IRS Community ](IRSCommunity.aspx)
+
+  * [ Achievers pavilion ](AchieverPavilion.aspx)   
+Achievements in various spheres of life by serving or retired IRS officers and
+their family members.
+
+  * [ Case study foyers ](CaseStudyListing.aspx)   
+Noteworthy case studies based on real life assessments, surveys, searches,
+appellate orders, ITAT cases or other administrative issues
+
+  * [ Ideas lounge ](IdeasLoungeListing.aspx)   
+Thought provoking ideas on issues like tax administration, governance,
+management, policies etc.
+
+  * [ Creative courtyard ](CreativeCourtyard.aspx)   
+Stories, essays, poems, sketches, cartoons, paintings, photographs by serving
+or retired IRS officers and their family members
+
+  * [ Magazine kiosk ](MagazineKiosk.aspx)   
+Departmental magazines from different stations and regions
+
+  * [ Personal announcements notice board ](PersonalAnnouncementBoard.aspx)   
+Births, marriages, demises etc. announcements from serving or retired IRS
+officers
+
+  * [ Retired IRS officer's patio ](RetieredIRS.aspx)   
+Contact details, messages for and from retired IRS officers
+
+  * [ Query Window ](QueryWindowListing.aspx)   
+General queries on any topic from an officer to be replied by any visitor to
+the portal
+
+![](images/corn1.gif)
+
+![](images/corn2.gif)
+
+  
+  
+
+[ FAQs ](faq.aspx) | [ Contact Us ](ContactUs.aspx) | [ Privacy Policy
+](javascript:openwindow\(\);) | [ Sitemap ](sitemap.aspx) | [ Disclaimer
+](javascript:openwindow2\(\);)
+
+[ ![](images/rss-feedicon.gif) ](rssFeed.aspx)
+

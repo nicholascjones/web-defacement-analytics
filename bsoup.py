@@ -7,13 +7,19 @@ from bs4 import *
 
 f = open('archivedUrls.txt', 'r')
 for line in f:
-	url = line
-	if line != '0\n':
+	url = line.strip()
+	if url != '0':
 		try:
 			print "Requesting at: " + url
 			response = urllib2.urlopen(url)
 			#parse html
 			soup = BeautifulSoup(response.read(), "html.parser")
-			print html2text.html2text(soup.prettify())
+			filename = './webpages/' + url.replace('/', '') + '.txt'
+			fi = open(filename, 'w')
+			text = html2text.html2text(soup.prettify())
+			text = text.encode('ascii', 'ignore')
+			fi.write(text)
+			fi.close()
 		except:
-			print "Unexpected errors: ", sys.exc_info()[0]
+			print "Error with " + url
+f.close()
