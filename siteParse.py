@@ -1,12 +1,40 @@
 ## siteParse.py
 ## get list of words from each parsed site textfile
 
+import string
 
-f = open('./websites/http:web.archive.orgweb20150121040201http:mpenvis.nic.in:80.txt')
+lst = []
+
+f = open('./webpages/http:web.archive.orgweb20150121040201http:mpenvis.nic.in:80.txt')
+
+i = 0
 
 for line in f:
-	print line
-	break
+	for w in line.split():
+		#print w
+		#print w[1:-1]
+		if w[1:-1].isalpha():
+			print w
+			#print "is alpha!"
+			#print w[1:-1]
+			if not w[0].isalpha():
+				w = w[1:]
+			if not w[-1].isalpha():
+				w = w[:-1]
+
+			w = w.lower()
+			#print w.lower()
+			lst.append(w)
+
+		else:
+			pass
+			#print "blah"
+			#print w[1:-1]
+		#print w[1:-2]
+		#if isalpha(w[])
+
+
+print lst
 
 
 
