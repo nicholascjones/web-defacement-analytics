@@ -6,6 +6,10 @@ import os
 mList = []
 
 
+exList = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec','wayback','machine','home','page','every','capture','list','captures','url','close','help','see']
+exSet = set(exList)
+
+
 for x,y,z in os.walk("./webpages/"):
 	sList = z
 
@@ -34,8 +38,8 @@ for fil in sList:
 					w = w[:-1]
 
 				w = w.lower()
-				#print w.lower()
-				lst.append(w)
+				if w not in exSet and len(w) >= 3:
+					lst.append(w)
 
 			else:
 				pass
@@ -58,33 +62,3 @@ for li in mList:
 	ii += 1
 
 
-
-"""
-			fi = open(filename, 'w')
-			text = html2text.html2text(soup.prettify())
-			text = text.encode('ascii', 'ignore')
-			fi.write(text)
-			fi.close()
-"""
-
-
-"""
-f = open('archivedUrls.txt', 'r')
-for line in f:
-	url = line.strip()
-	if url != '0':
-		try:
-			print "Requesting at: " + url
-			response = urllib2.urlopen(url)
-			#parse html
-			soup = BeautifulSoup(response.read(), "html.parser")
-			filename = './webpages/' + url.replace('/', '') + '.txt'
-			fi = open(filename, 'w')
-			text = html2text.html2text(soup.prettify())
-			text = text.encode('ascii', 'ignore')
-			fi.write(text)
-			fi.close()
-		except:
-			print "Error with " + url
-f.close()
-"""
