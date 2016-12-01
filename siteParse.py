@@ -1,45 +1,72 @@
 ## siteParse.py
 ## get list of words from each parsed site textfile
-
 import string
+import os
 
-lst = []
+mList = []
 
-f = open('./webpages/http:web.archive.orgweb20150121040201http:mpenvis.nic.in:80.txt')
 
-i = 0
+for x,y,z in os.walk("./webpages/"):
+	sList = z
 
-for line in f:
-	for w in line.split():
-		#print w
-		#print w[1:-1]
-		if w[1:-1].isalpha():
-			print w
-			#print "is alpha!"
+
+for fil in sList:
+
+	lst = []
+
+	fstr = './webpages/' + str(fil)
+
+	f = open(fstr)
+
+	i = 0
+
+	for line in f:
+		for w in line.split():
+			#print w
 			#print w[1:-1]
-			if not w[0].isalpha():
-				w = w[1:]
-			if not w[-1].isalpha():
-				w = w[:-1]
+			if w[1:-1].isalpha():
+				#print w
+				#print "is alpha!"
+				#print w[1:-1]
+				if not w[0].isalpha():
+					w = w[1:]
+				if not w[-1].isalpha():
+					w = w[:-1]
 
-			w = w.lower()
-			#print w.lower()
-			lst.append(w)
+				w = w.lower()
+				#print w.lower()
+				lst.append(w)
 
-		else:
-			pass
-			#print "blah"
-			#print w[1:-1]
-		#print w[1:-2]
-		#if isalpha(w[])
-
-
-print lst
+			else:
+				pass
+				#print "blah"
+				#print w[1:-1]
+			#print w[1:-2]
+			#if isalpha(w[])
 
 
+	mList.append(lst)
 
 
-f.close()
+	f.close()
+
+
+ii = 0
+for li in mList:
+	print str(ii) + "\n\n\n\n\n\n"
+	print li
+	ii += 1
+
+
+
+"""
+			fi = open(filename, 'w')
+			text = html2text.html2text(soup.prettify())
+			text = text.encode('ascii', 'ignore')
+			fi.write(text)
+			fi.close()
+"""
+
 
 """
 f = open('archivedUrls.txt', 'r')
