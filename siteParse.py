@@ -14,7 +14,7 @@ for x,y,z in os.walk("./allwebpages/"):
 	aList = z
 
 
-for fil in sList:
+for fil in aList:
 
 	lst = []
 
@@ -49,7 +49,13 @@ for fil in sList:
 			#if isalpha(w[])
 
 
-	mList.append(lst)
+	lStr = " ".join(lst)
+	print lStr
+	print "\n\n"
+
+	#mList.append(lst)
+
+
 
 
 	f.close()
