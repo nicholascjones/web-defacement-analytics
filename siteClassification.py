@@ -4,10 +4,13 @@ from urlparse import urlparse
 
 with open("./urls.txt")as f:
 	uL = f.read().splitlines()
+	pass
 
 #print uL
 
+#urlList = ['facebook.com','yahoo.com','nick.com','si.com','zone-h.com','youtube.com','reddit.com']
 urlList = []
+
 
 for s in uL:
 	p = urlparse(s)
@@ -20,6 +23,7 @@ for s in uL:
 	if z:
 		#print p.path
 		urlList.append(z)
+
 
 
 
@@ -73,7 +77,32 @@ for u in urlList:
 
 #print urlTest
 
+"""
+for w in urlTest:
+	print w
+	#print urlTest[w]
+	for cat in urlTest[w]:
+		if urlTest[w][cat] == 1:
+			print cat
+	print '\n\n\n'
+"""
 
+
+tf = open("co.csv","w")
+
+for w in urlTest:
+	tf.write(w)
+	tf.write("\n")
+	#print urlTest[w]
+	for cat in urlTest[w]:
+		if urlTest[w][cat] == 1:
+			tf.write(cat)
+			tf.write('\n')
+	tf.write('\n')
+tf.close()
+
+
+"""
 tf = open("classOutput.csv", "w")
 
 st = "url"
@@ -94,7 +123,7 @@ for key,value in urlTest.iteritems():
 
 tf.close()
 
-
+"""
 
 
 
