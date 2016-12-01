@@ -10,7 +10,7 @@ exList = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec
 exSet = set(exList)
 
 
-for x,y,z in os.walk("./allwebpages/"):
+for x,y,z in os.walk("./webpages/"):
 	sList = z
 
 
@@ -18,7 +18,7 @@ for fil in sList:
 
 	lst = []
 
-	fstr = './allwebpages/' + str(fil)
+	fstr = './webpages/' + str(fil)
 
 	f = open(fstr)
 
