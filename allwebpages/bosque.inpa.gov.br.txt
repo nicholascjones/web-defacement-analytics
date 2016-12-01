@@ -1,0 +1,77 @@
+[ ![logotype](/bosque/templates/amadeon/images/logo.png) ](/bosque/index.php)
+
+[ ![bosque](/bosque/templates/amadeon/images/login.png)
+](http://www.facebook.com/profile.php?id=100005420804768 "bosque da cincia" )
+
+    * [ Home ](/bosque/)
+    * [ Objetivos ](/bosque/index.php/obj)
+    * [ Atraes ](/bosque/index.php/login)
+      * [ Trilhas Educativas ](/bosque/index.php/login/trilhas)
+      * [ Peixe-Boi ](/bosque/index.php/login/pxb)
+      * [ Ariranhas ](/bosque/index.php/login/ariranhas)
+      * [ Casa da Cincia ](/bosque/index.php/login/casadaciencia)
+      * [ Lago Amaznico ](/bosque/index.php/login/lago)
+      * [ Viveiro dos Jacars ](/bosque/index.php/login/jacares)
+      * [ Outras Atraes ](/bosque/index.php/login/outras)
+    * [ Visitao ](/bosque/index.php/acesso)
+      * [ Normas para visita ](/bosque/index.php/acesso/normas-para-visita)
+      * [ Normas para agendamento de visita ](/bosque/index.php/acesso/normas-para-agendamento-de-visita)
+      * [ Termo de responsabilidade ](/bosque/index.php/acesso/termo-de-responsabilidade)
+    * [ Imagens ](/bosque/index.php/imagens2)
+    * [ Contato ](/bosque/index.php/contact)
+    * [ Agendamento de Visitas em Grupo ](/bosque/index.php/2016-05-25-18-17-35)
+      * [ Sistema de Agendamento ](http://abc-bosque.inpa.gov.br/)
+      * [ Tutorial Sistema ABC ](http://portal.inpa.gov.br/arquivos/Tutorial_ABC.pdf)
+
+[ ![Mapa](/bosque/templates/amadeon/images/slide1.jpg)
+](http://bosque.inpa.gov.br/index.php/acesso)
+
+[ ![Voce Sabia](/bosque/templates/amadeon/images/slide2.jpg)
+](/bosque/index.php/component/content/article?id=87)
+
+[ ![Atracoes](/bosque/templates/amadeon/images/slide3.jpg)
+](http://bosque.inpa.gov.br/index.php/login)
+
+##  [ SOBRE O BOSQUE ](/bosque/index.php/using-joomla/extensions/components
+/content-component/article-category-list/24-sobre)
+
+I  naugurado em 1 de abril de 1995, como parte das comemoraes do 40
+aniversrio do Instituto Nacional de Pesquisas da Amaznia - INPA.
+Concretizou-se, assim, um antigo sonho de abrir as portas do Instituto ao
+pblico.
+
+O [ Bosque da Cincia ](http://bosque.inpa.gov.br/bosque/) que  uma rea de
+aproximadamente 13 (treze) hectares, localizado no permetro urbano da cidade
+de Manaus na Zona Central - Leste. Projetado e estruturado para fomentar e
+promover o desenvolvimento do programa de ** Difuso Cientfica ** e de **
+Educao Ambiental ** do INPA, ao mesmo tempo preservando os aspectos da
+biodiversidade existente no local.
+
+Entre os seus objetivos pretende oferecer  populao uma nova opo de lazer
+com carter scio-cientfico e cultural, propiciando aos visitantes interesse
+pelo meio ambiente, alm de oferecer atrativos tursticos e entretenimento.
+
+![Fonte: Em Tempo](http://www.emtempo.com.br/aet/wp-content/uploads/2016/10
+/bosque-da-ciencia.jpg)  
+
+* * *
+
+** **
+
+** THE SCIENCE GROVE PARK  **
+
+It was inaugurated on April 1st 1995. Its opening celebrated the 40  th
+anniversary of the National Institute for Amazonian Research (INPA).
+
+The Science Grove consist of about 32.000 acres situated at the Ecologic Green
+Corridor on the mid-west of Manaus urban area. The main objectives of the
+Science Grove are:
+
+** \- ** To develop and promote INPAs program for technologic, scientific and innovatory vulgarization of Amazonian topics. 
+
+** \- ** To offer a leisure option to local population that may contribute to cultural education and environmental awareness. 
+
+Copyright 2012 - 2016 bosque.  design by globbers
+
+![top](/bosque/templates/amadeon/images/top.jpg)
+

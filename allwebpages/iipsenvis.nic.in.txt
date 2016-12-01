@@ -1,0 +1,296 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF" )
+
+#  ENVIS Centre on Population and Environment
+
+Hosted by  [ International Institute for Population Sciences,Mumbai
+](http://iips.png " International Institute for Population Sciences,Mumbai" )  
+Sponsored by  [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forests & Climate
+Change, Govt of India" )
+
+![ENVIS](/images/envis_logo.png) ![IIPS](/WriteReadData/ThemeImage/iips.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ IIPS Centre ](/Content/About_137.aspx)
+    * [ Courses ](/Content/Courses_3932.aspx)
+    * [ Faculty ](/Content/Faculty_3933.aspx)
+    * [ ENVIS Member ](/Content/envis_5109.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/enviscentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * Related Links 
+    * [ List of Related Links ](/Content/ENVIS_4192.aspx)
+
+![](WriteReadData/ModuleIcon/login_icon.png)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=5c7201a9-7133-41e3-8341-a8a23531d087) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=635084556304331211)
+](CaptchaAudio.axd?guid=5c7201a9-7133-41e3-8341-a8a23531d087)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/Publication.png)
+
+##  PUBLICATION
+
+  * [ Newsletter ](PublicationCommon.aspx?LinkId=626)
+  * [ Books and Relevant Link ](PublicationCommon.aspx?LinkId=625)
+  * [ Policy Brief ](PublicationCommon.aspx?LinkId=698)
+
+Last Updated:22/06/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/GLOSSARY.png)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:13/04/2015
+
+![](/WriteReadData/ModuleImage/IIPSFIG2.jpg)
+
+##  Population and Environment Database
+
+Population and Environment center at IIPS collects and disseminates
+information on Population and Environment.
+
+  * [ Water ](/Database/envis_4347.aspx)
+  * [ Maps ](/Database/Envis_4581.aspx)
+  * [ Agriculture ](/Database/envis_4617.aspx)
+  * [ Family Health Survey ](/Database/envis_4618.aspx)
+
+Last Updated:28/11/2016
+
+[ More &gt;&gt; ](/Database/envis_4347.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/NEWS1.PNG) [ Maharashtra: Now digi..
+](ViewGeneralLatestNews.aspx?Id=5283&Year=2016 "Details" )
+
+[ Indias carbon emissi.. ](ViewGeneralLatestNews.aspx?Id=5282&Year=2016
+"Details" )
+
+Last Updated:15/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/soil_health_card.jpg)
+
+  * [ Kisan Diwas.. ](/ViewMajorActivity.aspx?Id=5193&Year=2016)
+  * [ Customized Hands-On GI.. ](/ViewMajorActivity.aspx?Id=5192&Year=2016)
+  * [ Impact assessment of d.. ](/ViewMajorActivity.aspx?Id=5191&Year=2016)
+
+Last Updated:15/02/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/Upcoming_1.PNG)
+
+##  UPCOMING EVENTS
+
+  * [ ICSD 2017  5th Internation.... ](ViewEvents.aspx?Id=5241&Year=2016)
+  * [ SDC 2017  5th Annual Susta.... ](ViewEvents.aspx?Id=5242&Year=2016)
+  * [ RDC 2017  Rural Developmen.... ](ViewEvents.aspx?Id=5243&Year=2016)
+
+Last Updated:14/10/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Annual%20Performance%20Reportnews_img.png)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![WR_Group](/WriteReadData/Photogallery/IMG_6384.JPG) ](/ViewAlbum.aspx)
+  * [ ![HWS Report](/WriteReadData/Photogallery/IMG_6378.JPG) ](/ViewAlbum.aspx)
+  * [ ![HWS Report](/WriteReadData/Photogallery/IMG_6379.JPG) ](/ViewAlbum.aspx)
+  * [ ![Brain storming session](/WriteReadData/Photogallery/IMG_6382.JPG) ](/ViewAlbum.aspx)
+  * [ ![Envis Center Logo](/WriteReadData/Photogallery/IMG_5936.JPG) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Portal launched by the Honourable  Minister Shri Prakash Javadekar](/WriteReadData/Photogallery/IMG_6000.JPG) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Portal: http://envis.nic.in/](/WriteReadData/Photogallery/IMG_6001.JPG) ](/ViewAlbum.aspx)
+  * [ ![Display](/WriteReadData/Photogallery/IMG_5967.JPG) ](/ViewAlbum.aspx)
+  * [ ![Release of Android Mobile APP](/WriteReadData/Photogallery/DSC_4086.JPG) ](/ViewAlbum.aspx)
+  * [ ![Release of Knowledge Products / Information](/WriteReadData/Photogallery/DSC_4064.JPG) ](/ViewAlbum.aspx)
+  * [ ![Demonstration on ](/WriteReadData/Photogallery/IMG_6050.JPG) ](/ViewAlbum.aspx)
+  * [ ![GIS1](/WriteReadData/Photogallery/IMG_20160118_141419.jpg) ](/ViewAlbum.aspx)
+  * [ ![GIS2](/WriteReadData/Photogallery/IMG_20160118_141435.jpg) ](/ViewAlbum.aspx)
+  * [ ![GIS3](/WriteReadData/Photogallery/IMG_20160118_141458.jpg) ](/ViewAlbum.aspx)
+  * [ ![GIS4](/WriteReadData/Photogallery/IMG_20160121_135859.jpg) ](/ViewAlbum.aspx)
+  * [ ![GIS5](/WriteReadData/Photogallery/IMG_20160121_135859.jpg) ](/ViewAlbum.aspx)
+  * [ ![GIS6](/WriteReadData/Photogallery/IMG_20160121_140002.jpg) ](/ViewAlbum.aspx)
+  * [ ![Collage Work C1](/WriteReadData/Photogallery/c1.png) ](/ViewAlbum.aspx)
+  * [ ![Collage Work C2](/WriteReadData/Photogallery/c2.png) ](/ViewAlbum.aspx)
+  * [ ![Drawing D1](/WriteReadData/Photogallery/c3.png) ](/ViewAlbum.aspx)
+  * [ ![Drawing D2](/WriteReadData/Photogallery/c4.png) ](/ViewAlbum.aspx)
+  * [ ![Drawing D3](/WriteReadData/Photogallery/c5.png) ](/ViewAlbum.aspx)
+  * [ ![Drawing D4](/WriteReadData/Photogallery/c6.png) ](/ViewAlbum.aspx)
+  * [ ![Drawing D5](/WriteReadData/Photogallery/c8.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P1](/WriteReadData/Photogallery/c7.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P2](/WriteReadData/Photogallery/c9.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P3](/WriteReadData/Photogallery/c10.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P4](/WriteReadData/Photogallery/c11.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P5](/WriteReadData/Photogallery/c12.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P6](/WriteReadData/Photogallery/c13.png) ](/ViewAlbum.aspx)
+  * [ ![Photography P7](/WriteReadData/Photogallery/c14.png) ](/ViewAlbum.aspx)
+  * [ ![Poetry P1](/WriteReadData/Photogallery/c15.png) ](/ViewAlbum.aspx)
+  * [ ![Poetry P2](/WriteReadData/Photogallery/c16.png) ](/ViewAlbum.aspx)
+  * [ ![Poetry P3](/WriteReadData/Photogallery/c17.png) ](/ViewAlbum.aspx)
+  * [ ![Photo P1](/WriteReadData/Photogallery/c18.png) ](/ViewAlbum.aspx)
+  * [ ![Photo P2](/WriteReadData/Photogallery/c19.png) ](/ViewAlbum.aspx)
+  * [ ![Photo P3](/WriteReadData/Photogallery/c20.png) ](/ViewAlbum.aspx)
+  * [ ![Photo P4](/WriteReadData/Photogallery/c21.png) ](/ViewAlbum.aspx)
+  * [ ![HWS:Training for trainer](/WriteReadData/Photogallery/HW1.png) ](/ViewAlbum.aspx)
+  * [ ![H1: Patient registration](/WriteReadData/Photogallery/Patient Registration.JPG) ](/ViewAlbum.aspx)
+  * [ ![H2: Health problem specified by patients](/WriteReadData/Photogallery/Health problem specified by patients.JPG) ](/ViewAlbum.aspx)
+  * [ ![H4:Literacy program](/WriteReadData/Photogallery/Literacy program.JPG) ](/ViewAlbum.aspx)
+  * [ ![H5: Effort for getting eduacted](/WriteReadData/Photogallery/Effort for getting eduacted.JPG) ](/ViewAlbum.aspx)
+  * [ ![H3:Team](/WriteReadData/Photogallery/Team of Medical and literacy.JPG) ](/ViewAlbum.aspx)
+  * [ ![Pop-Envis Team-Training to Field Investigator](/WriteReadData/Photogallery/-1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Dr. R.B.Bhagat discussing the housing condition in slums](/WriteReadData/Photogallery/-2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Dr. K.C.Das discussing on housing,water and sanitation in slums](/WriteReadData/Photogallery/-3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Coordinator explianing Envis activities](/WriteReadData/Photogallery/-4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Briefing field investigator for data collection](/WriteReadData/Photogallery/-5.jpg) ](/ViewAlbum.aspx)
+  * [ ![MSG1](/WriteReadData/Photogallery/DSCN0332.jpg) ](/ViewAlbum.aspx)
+  * [ ![MGS2](/WriteReadData/Photogallery/DSCN0358.jpg) ](/ViewAlbum.aspx)
+  * [ ![MGS3](/WriteReadData/Photogallery/DSCN0355.jpg) ](/ViewAlbum.aspx)
+  * [ ![MGS4](/WriteReadData/Photogallery/DSCN9995.jpg) ](/ViewAlbum.aspx)
+  * [ ![MGS5](/WriteReadData/Photogallery/DSCN0362.jpg) ](/ViewAlbum.aspx)
+  * [ ![Interview1](/WriteReadData/Photogallery/P9130017.JPG) ](/ViewAlbum.aspx)
+  * [ ![interview2](/WriteReadData/Photogallery/P9130023.JPG) ](/ViewAlbum.aspx)
+  * [ ![Interview](/WriteReadData/Photogallery/P9130027.JPG) ](/ViewAlbum.aspx)
+  * [ ![photo_1](/WriteReadData/Photogallery/New Image1.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_2](/WriteReadData/Photogallery/World_Pop2.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_3](/WriteReadData/Photogallery/World_Pop3.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_4](/WriteReadData/Photogallery/World_Pop4.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_5](/WriteReadData/Photogallery/World_Pop5.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_6](/WriteReadData/Photogallery/World_Pop6.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_7](/WriteReadData/Photogallery/World_Pop7.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_8](/WriteReadData/Photogallery/World_Pop8.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_9](/WriteReadData/Photogallery/World_Pop9.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_10](/WriteReadData/Photogallery/World_Pop10.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_11](/WriteReadData/Photogallery/World_Pop11.jpg) ](/ViewAlbum.aspx)
+  * [ ![World_Pop_1](/WriteReadData/Photogallery/World_Pop1.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_2](/WriteReadData/Photogallery/New Image2.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_3](/WriteReadData/Photogallery/New Image3.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_4](/WriteReadData/Photogallery/New Image4.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_5](/WriteReadData/Photogallery/New Image5.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_6](/WriteReadData/Photogallery/New Image6.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo_7](/WriteReadData/Photogallery/New Image7.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo2](/WriteReadData/Photogallery/2.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo3](/WriteReadData/Photogallery/3.gif) ](/ViewAlbum.aspx)
+  * [ ![photo5](/WriteReadData/Photogallery/5.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo6](/WriteReadData/Photogallery/6.jpg) ](/ViewAlbum.aspx)
+  * [ ![photo11](/WriteReadData/Photogallery/11.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kid.png)
+
+##  KIDS CENTER
+
+  * [ Video Library and Relevan ](/KidsCentre/Video Library and Relevan_4062.aspx)
+  * [ Books and Related Link ](/KidsCentre/Books and Related Link_4152.aspx)
+  * [ Books Link 1 ](/KidsCentre/Books Link 1_4153.aspx)
+  * [ Population and Environmen ](/KidsCentre/Population and Environmen_4182.aspx)
+
+Last Updated:07/11/2016
+
+[ More&gt;&gt; ](/KidsCentre/Video Library and Relevan_4062.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Bibliography_icon.gif)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :17/02/2016
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\)\(1\).png)
+](http://www.india.gov.in "www.india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nic.png) ](http://www.nic.in "www.nic.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bhuvan.png) ](http://bhuvan.nrsc.gov.in/
+"bhuvan.nrsc.gov.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/fb.png) ](http://www.facebook.com
+/International-Institute-for-Population-Sciences-1476960509279381/
+"www.facebook.com/International-Institute-for-Population-
+Sciences-1476960509279381/" )  
+  
+---|---|---|---  
+  
+##  Total Visitor:  1458132
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC-IIPS_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Disclaimer ](/Content/Discalimer-IIPS_170.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre on
+Population and Environment  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

@@ -1,0 +1,26 @@
+|  ![](../images/i1.jpg)  
+---  
+![](../images/i2.jpg)  
+---  
+![](../images/i3.jpg)  
+---  
+![](../images/i4.jpg) |  |  ![](../images/i5.jpg) |  |  |  
+---|---  
+|  
+  
+---  
+User Name  |  
+Password  |  
+Enter Text From Image  |  ![](CaptchaImage.aspx)  
+|  
+|  ![](../images/bullet_2.gif) |  Forgot Password?  |  |  
+---|---|---|---  
+![](../images/i6.jpg)  
+  
+Best Viewed in 1024 x 768 Resolution using IE 5.5 and above.  
+  
+---  
+|   Copyright 2009. Ministry of Tourism, India. All Rights Reserved.  |  **
+Support: ** Email: pmissupport-tour@nic.in, Phone No.-011 23018532  
+---|---
+

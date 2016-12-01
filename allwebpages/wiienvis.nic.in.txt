@@ -1,0 +1,252 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF&CC" )
+
+#  ENVIS Centre on Wildlife &amp; Protected Areas
+
+Hosted by  [ Wildlife Institute of India, Dehradun ](http://www.wii.gov.in/ "
+Wildlife Institute of India, Dehradun" )  
+Sponsored by  [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forests & Climate
+Change, Govt of India " )
+
+![ENVIS](/images/envis_logo.png) ![Wildlife Institute of
+India](/WriteReadData/ThemeImage/dehradun_logo.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ Introduction ](/Content/Introduction_137.aspx)
+    * [ Organization Structure ](/Content/organization_144.aspx)
+    * [ WII-ENVIS Centre Team ](/Content/WII-ENVIS-Team_8003.aspx)
+    * [ What's New ](/Content/WhatsNew_8004.aspx)
+    * [ Government Policy Documents ](/Content/gpd_8100.aspx)
+    * [ All Publications ](/Content/publications_8380.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/enviscentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+    * [ National Networks ](/Content/nn_8101.aspx)
+    * [ Global Networks ](/Content/gn_8102.aspx)
+    * [ Non-Governmental Networks ](/Content/ngn_8103.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+  * [ Feedback ](/Feedback.aspx)
+    * [ Feedback Corner ](/Content/feedbackcorner_8399.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * [ Related Links ](/Content/relatedlinks_386.aspx)
+    * [ Rules and Regulations ](/Content/RulesRegulations_8037.aspx)
+
+![](WriteReadData/ModuleIcon/login_icon.png)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=23fb9a28-dc7e-4a75-8648-b3110e0dafe6) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=634720091076760915)
+](CaptchaAudio.axd?guid=23fb9a28-dc7e-4a75-8648-b3110e0dafe6)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](Content/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/publication_icon.png)
+
+##  PUBLICATION
+
+  * [ E-News ](PublicationCommon.aspx?LinkId=626)
+  * [ Bulletin ](PublicationCommon.aspx?LinkId=627)
+  * [ Annual Reports ](PublicationCommon.aspx?LinkId=900)
+
+Last Updated:21/11/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Glossaryglossary_icon.png)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:16/09/2016
+
+![](/WriteReadData/ModuleImage/Tiger_GS-Bhardwaj.gif)
+
+##  Wildlife &amp; Protected Areas (Subject Area)
+
+This Centre offers training program, academic courses and advisory in wildlife
+research and management &amp; actively engaged in research on biodiversity
+related issues...
+
+  * [ Sites of Conservation Importance ](/Database/ConservationAreas_844.aspx)
+  * [ Protected Areas of India ](/Database/Protected_Area_854.aspx)
+  * [ Species ](/Database/Species_1067.aspx)
+
+Last Updated:21/11/2016
+
+[ More &gt;&gt; ](/Database/ConservationAreas_844.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/bugun-liocichla_2.jpg)
+
+  * [ Opportunities in Wild.. ](/ViewGeneralLatestNews.aspx?Id=8369&Year=2016)
+  * [ Launch of ENVIS Bulle.. ](/ViewGeneralLatestNews.aspx?Id=8572&Year=2016)
+  * [ XIV WII-FODS Wildlif.. ](/ViewGeneralLatestNews.aspx?Id=8569&Year=2016)
+
+Last Updated:21/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/Rhododendron_GS-Rawat.gif)
+
+  * [ Launch of ENVIS Bullet.. ](/ViewMajorActivity.aspx?Id=8571&Year=2016)
+  * [ XIV WII-FODS Wildlife.. ](/ViewMajorActivity.aspx?Id=8570&Year=2016)
+  * [ MoEFCC team visit to W.. ](/ViewMajorActivity.aspx?Id=8566&Year=2016)
+
+Last Updated:06/10/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  UPCOMING EVENTS
+
+  * [ ICECAPS Workshop 2016.... ](ViewEvents.aspx?Id=8574&Year=2016)
+  * [ XIV Wildlife and Environmen.... ](ViewEvents.aspx?Id=8556&Year=2016)
+
+Last Updated:07/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Annual%20Performance%20Reportnews_img.png)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/WHD2016_ \(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Greater One horned Rhinoceros \(Rhinoceros unicornis\) ](/WriteReadData/Photogallery/rhino_Anant Pande.JPG) ](/ViewAlbum.aspx)
+  * [ ![Asiatic Lion \(Panthera leo persica\)](/WriteReadData/Photogallery/Lion2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Asiatic Golden Cat \(Pardofelis temminckii\)](/WriteReadData/Photogallery/Golden cat-pakke.jpg) ](/ViewAlbum.aspx)
+  * [ ![Slender-billed Vulture \(Gyps tenuirostris\)](/WriteReadData/Photogallery/Slender billed vulture_Anant Pande.JPG) ](/ViewAlbum.aspx)
+  * [ ![Cinereous Vulture ](/WriteReadData/Photogallery/cin_vul1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Red-headed Vulture \(Sarcogyps calvus\)](/WriteReadData/Photogallery/red_hd_vulture1.jpg) ](/ViewAlbum.aspx)
+  * [ ![White-winged Wood Duck](/WriteReadData/Photogallery/winged wood duck.jpg) ](/ViewAlbum.aspx)
+  * [ ![Great Indian Bustard](/WriteReadData/Photogallery/GIB_ Bopanna Ittira Ponnappa.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kids_icon.png)
+
+##  KIDS CENTER
+
+  * [ Wildlife and Environment ](/KidsCentre/Wildlife and Environment _815.aspx)
+  * [ Youth National Scholarshi ](/KidsCentre/Youth National Scholarshi_1268.aspx)
+  * [ World Heritage Biodiversi ](/KidsCentre/World Heritage Biodiversi_1269.aspx)
+
+Last Updated:08/11/2016
+
+[ More&gt;&gt; ](/KidsCentre/Wildlife and Environment _815.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Bibliographybiblio_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :16/09/2016
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\).png) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/logo3.png) ](http://www.wii.gov.in/
+"www.wii.gov.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/facebook.jpg) ](http://www.facebook.com/pages
+/Wildlife-Institute-of-India-ENVIS-Centre/1543299422552695
+"www.facebook.com/pages/Wildlife-Institute-of-India-ENVIS-
+Centre/1543299422552695" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/envis\(1\).jpg) ](http://www.envis.nic.in
+"www.envis.nic.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/moef\(1\).jpg)
+](http://www.moef.nic.in/index.php "www.moef.nic.in/index.php" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bhuvan.jpg)
+](http://www.bhuvan.nrsc.gov.in/bhuvan_links.php
+"www.bhuvan.nrsc.gov.in/bhuvan_links.php" )  
+  
+---|---|---|---|---|---  
+  
+##  Total Visitor:  1958709
+
+  * [ Privacy Policy ](/Content/Privacy-WII_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC-WII_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Help_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer-WII_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre on Wildlife
+&amp; Protected Areas  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

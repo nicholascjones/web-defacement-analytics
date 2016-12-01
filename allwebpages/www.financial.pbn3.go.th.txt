@@ -1,0 +1,523 @@
+[x] 
+
+|  |  |  **  **   
+---  
+  
+  
+|  [ ![English](images/imlang/blank.png) ](javascript:doTranslate\('th|en'\)
+"English" ) [ ![Chinese \(Simplified\)](images/imlang/blank.png)
+](javascript:doTranslate\('th|zh-CN'\) "Chinese \(Simplified\)" ) [ ![Chinese
+\(Traditional\)](images/imlang/blank.png) ](javascript:doTranslate\('th|zh-
+TW'\) "Chinese \(Traditional\)" ) [ ![French](images/imlang/blank.png)
+](javascript:doTranslate\('th|fr'\) "French" ) [
+![German](images/imlang/blank.png) ](javascript:doTranslate\('th|de'\)
+"German" ) [ ![Italian](images/imlang/blank.png)
+](javascript:doTranslate\('th|it'\) "Italian" ) [
+![Japanese](images/imlang/blank.png) ](javascript:doTranslate\('th|ja'\)
+"Japanese" ) [ ![Korean](images/imlang/blank.png)
+](javascript:doTranslate\('th|ko'\) "Korean" ) [
+![Portuguese](images/imlang/blank.png) ](javascript:doTranslate\('th|pt'\)
+"Portuguese" ) [ ![Russian](images/imlang/blank.png)
+](javascript:doTranslate\('th|ru'\) "Russian" ) [
+![Spanish](images/imlang/blank.png) ](javascript:doTranslate\('th|es'\)
+"Spanish" ) [ ![Vietnamese](images/imlang/blank.png)
+](javascript:doTranslate\('th|vi'\) "Vietnamese" ) [
+![Thai](images/imlang/blank.png) ](javascript:doTranslate\('th|th'\) "Thai" )
+Select Language  English  Arabic  Bulgarian  Chinese (Simplified)  Chinese
+(Traditional)  Croatian  Czech  Danish  Dutch  Finnish  French  German  Greek
+Hindi  Italian  Japanese  Korean  Norwegian  Polish  Portuguese  Romanian
+Russian  Spanish  Swedish  Catalan  Filipino  Hebrew  Indonesian  Latvian
+Lithuanian  Serbian  Slovak  Slovenian  Ukrainian  Vietnamese  Albanian
+Estonian  Galician  Hungarian  Maltese  Thai  Turkish  
+  
+---  
+[ ![](templates/cli3/images/menu/menu_01.png) ](index.php) |  [
+![](templates/cli3/images/menu/menu_02.png) ](?name=news) |  [
+![](templates/cli3/images/menu/menu_03.png) ](?name=webboard) |  [
+![](templates/cli3/images/menu/menu_04.png) ](?name=gallery) |  [
+![](templates/cli3/images/menu/menu_05.png) ](?name=gbook) |  [
+![](templates/cli3/images/menu/menu_06.png) ](?name=admin)  
+|  ![](templates/cli3/images/config/headerread1.jpg)  
+---  
+|  |  |    
+---  
+|  |
+
+  * [  ](index.php)
+
+  
+---  
+  
+  * [  ](index.php?name=gallery)
+
+  
+  
+  * [  ](index.php?name=calendar)
+
+  
+  
+  * [ / ](index.php?name=news)
+
+  
+  
+  * [  ](http://www.financial.pbn3.go.th/?name=page&file=page&op=vision)
+
+  
+  
+  * [  ](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=mission)
+
+  
+  
+  * [  ](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=goal)
+
+  
+  
+  * [  ](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=Values)
+
+  
+  
+  * [  ](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=sumperson)
+
+  
+  
+  * [ Administrator ](index.php?name=admin "Administrator" )
+
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  ![](images/menu/graduatelogin.gif) |  Username :  |  
+---|---  
+Password :  |  
+![](capcha/val_img.php?width=60&height=25&characters=4) |  
+[ [  ] ](?name=member&file=index) | [ [  ]
+](?name=member&file=forget_pwd)  
+![](images/admin/members\[1\].png)   1    
+---  
+![](images/admin/i_member\[1\].gif)   0    
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|
+
+[ ![](/UserFiles/Image/58.png)
+](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=egp)
+
+[ ![](/UserFiles/Image/59.png)
+](http://www.financial.pbn3.go.th/index.php?name=page&file=page&op=sum59)
+
+|  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](images/fader.gif) |  ![](images/topfader.gif)  
+|
+
+|  
+---  
+|  ![](images/pic/news-tl.gif) |  |  ![](images/pic/news-tr.gif)  
+---|---|---  
+|  ![](templates/cli3/images/menu/cli3_news1.png)  
+|
+
+![](images/17.png) [ ** [ 23/../2559 ] ** 
+.. 2560   
+](index.php?name=news&file=readnews&id=46)  
+  
+---  
+  
+( 7 / )  admin
+
+![](images/17.png) [ ** [ 23/../2559 ] ** 
+.. 2560  / 
+](index.php?name=news&file=readnews&id=45)  
+  
+( 5 / )  admin
+
+![](images/17.png) [ ** [ 18/../2559 ] ** 
+: (  )
+](index.php?name=news&file=readnews&id=44)  
+  
+( 40 / )  admin
+
+![](images/17.png) [ ** [ 11/../2559 ] **  
+.. 2559  ](index.php?name=news&file=readnews&id=43)  
+  
+( 12 / )  admin
+
+![](images/17.png) [ ** [ 31/../2559 ] **  2560
+](index.php?name=news&file=readnews&id=40)  
+  
+( 21 / )  admin
+
+![](images/17.png) [ ** [ 31/../2559 ] **  
+
+](index.php?name=news&file=readnews&id=39)  
+  
+( 21 / )  admin
+
+![](images/17.png) [ ** [ 28/../2559 ] ** 
+  .. 2560
+](index.php?name=news&file=readnews&id=38)  
+  
+( 25 / )  admin
+
+![](images/17.png) [ ** [ 28/../2559 ] **
+
+](index.php?name=news&file=readnews&id=37)  
+  
+( 14 / )  admin
+
+![](images/17.png) [ ** [ 28/../2559 ] **
+
+ 13 ](index.php?name=news&file=readnews&id=36)  
+  
+( 14 / )  admin
+
+![](images/17.png) [ ** [ 15/../2559 ] ** 
+  0412.4/335 ](index.php?name=news&file=readnews&id=29)  
+  
+( 87 / )  admin  [ ![](images/admin/2_15.gif)
+](index.php?name=news&category=1)  
+|  ![](images/pic/news-bl.gif) |  |  ![](images/pic/news-br.gif)  
+  
+|    
+---  
+|  |  |  
+![](images/menu/textmenu_gallery.gif)  
+|  [ ![](images/admin/open.gif) **  Gallery   **
+](?name=gallery)  
+---  
+  
+|  |  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1478881474/thb_11.jpg)
+](?name=gallery&op=gallery_detail&id=19) |  
+|  |  
+** [  2559 - 2560 ](?name=gallery&op=gallery_detail&id=19) **  
+( 11/../2559 )  
+
+ 3  2559  
+ ... [  ](?name=gallery&op=gallery_detail&id=19)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1478881123/thb_24.jpg)
+](?name=gallery&op=gallery_detail&id=18) |  
+|  |  
+** [  e-bidding ](?name=gallery&op=gallery_detail&id=18) **  
+( 11/../2559 )  
+
+ 4  2559  
+ ... [  ](?name=gallery&op=gallery_detail&id=18)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1476218557/thb_IMG_6325.JPG)
+](?name=gallery&op=gallery_detail&id=17) |  
+|  |  
+** [       ](?name=gallery&op=gallery_detail&id=17) **  
+( 11/../2559 )  
+
+**        3  2559    17 ... [  ](?name=gallery&op=gallery_detail&id=17) **  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1475005007/thb_IMG_6064.JPG)
+](?name=gallery&op=gallery_detail&id=16) |  
+|  |  
+** [       ](?name=gallery&op=gallery_detail&id=16) **  
+( 27/../2559 )  
+
+    
+  27  2559 
+
+
+... [  ](?name=gallery&op=gallery_detail&id=16)  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1474743564/thb_IMG_5719.JPG)
+](?name=gallery&op=gallery_detail&id=15) |  
+|  |  
+** [      ](?name=gallery&op=gallery_detail&id=15) **  
+( 24/../2559 )  
+
+   
+  24
+ 2559  ... [ 
+](?name=gallery&op=gallery_detail&id=15)  
+  
+[ 16 ]  
+  
+  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  |  |  ** 3 ** |   :  ** admin **  
+3/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=news&id=42 "pdf"
+) [ ![](images/printButton.png) ](print.php?name=news&file=readprint&id=42
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=news&id=42)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=203574583fe3cc31b3c7.34818873) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](images/icon/Apps.png) ](?name=news&file=readnews&id=42)  
+![](images/a.gif) [ **   **
+](?name=news&file=readnews&id=42) ( 25 / 0 )  
+
+ 
+
+[ ....  ](?name=news&file=readnews&id=42)  
+|  ** 31 ** |   :  ** admin **  
+31/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=news&id=41 "pdf"
+) [ ![](images/printButton.png) ](print.php?name=news&file=readprint&id=41
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=news&id=41)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=203976583fe3cc31ccc1.97835593) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](images/icon/Apps.png) ](?name=news&file=readnews&id=41)  
+![](images/a.gif) [ **    **
+](?name=news&file=readnews&id=41) ( 19 / 0 )  
+
+  
+  
+( 8) 
+
+[ ....  ](?name=news&file=readnews&id=41)  
+|  ** 25 ** |   :  ** admin **  
+25/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=news&id=35 "pdf"
+) [ ![](images/printButton.png) ](print.php?name=news&file=readprint&id=35
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=news&id=35)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=473861583fe3cc73b0a6.06796551) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](images/icon/Apps.png) ](?name=news&file=readnews&id=35)  
+![](images/a.gif) [ **  (2) **
+](?name=news&file=readnews&id=35) ( 16 / 0 )  
+
+  
+
+
+[ ....  ](?name=news&file=readnews&id=35)  
+|  ** 25 ** |   :  ** admin **  
+25/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=news&id=34 "pdf"
+) [ ![](images/printButton.png) ](print.php?name=news&file=readprint&id=34
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=news&id=34)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=474254583fe3cc73c937.29727121) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](images/icon/Apps.png) ](?name=news&file=readnews&id=34)  
+![](images/a.gif) [ **  (1) **
+](?name=news&file=readnews&id=34) ( 22 / 0 )  
+
+  
+
+
+[ ....  ](?name=news&file=readnews&id=34)  
+  
+![](images/17.png) [ (25/../2559)  ** 
+ **
+](http://www.financial.pbn3.go.th/index.php?name=news&file=readnews&id=33)  
+  
+( 15 / 0 )  admin
+
+![](images/17.png) [ (28/../2559)  **  ATM **
+](http://www.financial.pbn3.go.th/index.php?name=news&file=readnews&id=32)  
+  
+( 49 / 0 )  admin
+
+![](images/17.png) [ (25/../2559)  **
+ **
+](http://www.financial.pbn3.go.th/index.php?name=news&file=readnews&id=31)  
+  
+( 58 / 0 )  admin
+
+![](images/17.png) [ (8/../2559)  **
+ **
+](http://www.financial.pbn3.go.th/index.php?name=news&file=readnews&id=28)  
+  
+( 89 / 0 )  admin
+
+![](images/17.png) [ (8/../2559)  ** 
+  ..3 **
+](http://www.financial.pbn3.go.th/index.php?name=news&file=readnews&id=27)  
+  
+( 92 / 0 )  admin  [ ![](images/rss.jpg) ](modules/rss/news.xml) |  [
+![](images/admin/2_15.gif) ](index.php?name=news&category=2)  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  |  |   ...3  
+---  
+|
+
+![](/UserFiles/Image/3670700797415.jpg)
+
+|  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  |  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_17.jpg)
+](index.php?name=gallery&file=readgal&id=1261) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_16.jpg)
+](index.php?name=gallery&file=readgal&id=1260) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_15.jpg)
+](index.php?name=gallery&file=readgal&id=1259) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_14.jpg)
+](index.php?name=gallery&file=readgal&id=1258) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_13.jpg)
+](index.php?name=gallery&file=readgal&id=1257) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_12.jpg)
+](index.php?name=gallery&file=readgal&id=1256) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_11.jpg)
+](index.php?name=gallery&file=readgal&id=1255) |  
+  
+---|---  
+  
+|  
+---  
+|  [ ![](images/gallery/gal_1478881474/thb_10.jpg)
+](index.php?name=gallery&file=readgal&id=1254) |  
+  
+---|---  
+  
+|  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  
+|  ![](images/ip.gif) **  27/../2559 **  
+---  
+**  ** 1  IP  ** **  
+---  
+|
+
+|  ![](images/human.gif)   |
+
+1   
+  
+---|---  
+![](images/group2.gif)   |
+
+49   
+  
+![](images/group2.gif)   |
+
+  
+  
+![](images/see.gif)   |
+
+49   
+  
+![](images/member2.gif)   |
+
+7570   
+  
+![](images/group.gif)   |
+
+7570   
+  
+** IP  ** 66.254.248.70  ** **  
+  
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/7.gif)
+![](modules/useronline/styles/57chevy/5.gif)
+![](modules/useronline/styles/57chevy/7.gif)
+![](modules/useronline/styles/57chevy/0.gif)  
+(Show/hide IP)  
+  
+** |  66.254.248  .xxx  | 
+
+1/../2559  
+  
+---|---  
+**  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](templates/cli3/images/config/footer.png)  
+---  
+  
+**  **   
+54/2  4    67160  
+ LOAD  1.1587510108948  
+@2010-2012 under [ GNU General Public License
+](http://www.gnu.org/copyleft/gpl.html) Edit&amp;Applied; by [ Chudsagorn
+phikulthong ](http://maxtom.sytes.net/ "" )
+
+Power by : [ ATOMYMAXSITE 2.5 ](http://maxtom.sytes.net)
+

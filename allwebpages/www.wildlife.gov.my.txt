@@ -1,0 +1,368 @@
+  * [ ![Bahasa Malaysia](/media/mod_falang/images/ms_my.gif) ](/index.php/ms/)
+  * [ ![English \(UK\)](/media/mod_falang/images/en.gif) ](/index.php/en/)
+
+A-  A  A+
+
+[ A ](javascript:chooseStyle\('contrast', 60\)) [ A
+](javascript:chooseStyle\('default', 60\)) |  Arial  |  PT Sans  |  Century  |
+
+![jata](/images/images/header/jata.png) AGENSI DI BAWAH KERAJAAN MALAYSIA  
+---  
+  
+Carian
+
+[
+
+![HEADERdesign 2](/images/images/banner/HEADERdesign-2.png)
+
+](http://www.wildlife.gov.my)
+
+  * [ ![Laman Web Rasmi Jabatan Perlindungan Hidupan Liar & Taman Negara Semenanjung Malaysia](/images/images/icon/home.png) Laman Web Rasmi Jabatan Perlindungan Hidupan Liar &amp; Taman Negara Semenanjung Malaysia  ](/index.php/ms/)
+  * [ INFO _ _ ](http://www.wildlife.gov.my/index.php/ms/)
+
+    * MENGENAI KAMI _ _
+      * [ Perutusan Ketua Pengarah ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/perutusan-ketua-pengarah)
+      * [ Latar Belakang ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/latar-belakang)
+      * [ Objektif ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/objektif)
+      * [ Kod Etika Jabatan ](http://www.wildlife.gov.my/images/document/penerbitan/kodetikaperhilitan.pdf)
+      * [ Piagam Pelanggan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/piagam-pelanggan)
+      * [ Logo Jabatan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/logo-jabatan)
+      * [ Direktori ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/2016-04-12-01-28-44)
+      * [ Lokasi ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/2016-04-25-02-06-43)
+      * [ Laporan Prestasi Pencapaian Piagam Pelanggan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/laporan-prestasi-pencapaian-piagam-pelanggan-2016)
+      * [ Laporan Penggunaan Aplikasi Perkhidmatan Atas Talian ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/laporan-penggunaan-aplikasi-perkhidmatan-atas-talian)
+
+    * STRUKTUR ORGANISASI _ _
+      * [ Menteri &amp; Timbalan Menteri ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/menteri-timbalan-menteri)
+      * [ Pengurusan Atasan ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/pengurusan-atasan)
+      * [ Ketua Pegawai Maklumat (CIO) ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/ketua-pegawai-maklumat-cio)
+      * [ Carta Organisasi ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/carta-organisasi)
+
+    * BAHAGIAN _ _
+      * [ Kawasan Perlindungan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/kawasan-perlindungan)
+      * [ Penguatkuasaan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/penguatkuasaan)
+      * [ Konservasi Biodiversiti ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/konservasi-biodiversiti)
+      * [ Ekopelancongan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/ekopelancongan)
+      * [ Konservasi Exsitu ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/konservasi-exsitu)
+      * [ Institut Biodiversiti ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/institut-biodiversiti)
+      * [ Taman Zoologi ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/taman-zoologi)
+      * [ Juruperunding ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/juruperunding)
+      * [ Pengurusan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/pengurusan)
+
+  * [ AWAM _ _ ](http://www.wildlife.gov.my/index.php/ms/)
+
+    * LOG PELAWAT _ _
+      * [ Login/ Logout ](/index.php/ms/2016-04-25-02-58-00/2016-06-24-07-22-00/login-logout)
+      * [ Pendaftaran ](/index.php/ms/2016-04-25-02-58-00/2016-06-24-07-22-00/register)
+
+    * PERKHIDMATAN _ _
+      * [ Sistem e-Permit ](http://epermit.dagangnet.com/epermit.jsp)
+      * [ Sistem e-Aduan ](http://apps.wildlife.gov.my/e_aduan/index.php)
+      * [ Sistem e-Bayaran ](http://www.nre.gov.my/ms-my/Pages/ePayment.aspx)
+      * [ Status e-Aduan ](http://apps.wildlife.gov.my/estatus/index.php)
+      * [ Borang Pertanyaan ](http://apps.wildlife.gov.my/maklum/maklumbalas.php)
+      * [ Borang Maklumbalas Kepuasan Pelanggan ](http://apps.wildlife.gov.my/soalselidik/borang.php)
+      * [ e-Penyertaan ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/e-penyertaan)
+      * [ Soalan Lazim ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/soalam-lazim)
+      * [ Alamat Pejabat Negeri/PTJ ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/alamat-pejabat-negeri-ptj)
+      * [ Carian Spesies ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/2016-04-27-02-31-48)
+      * [ Hotline ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/hotline)
+      * [ Careline ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/careline)
+      * [ Perkhidmatan mySMS ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/perkhidmatan-mysms)
+      * [ Sistem e-Lesen ](https://secure.wildlife.gov.my/ekpm/)
+
+    * PUSAT EKOPELANCONGAN _ _
+      * [ Paya Indah Wetlands ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-41-01)
+      * [ Pusat Konservasi Gajah Kebangsaan Kuala Gandah ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-42-10)
+      * [ Taman Negara Kelantan, Kuala Koh ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-58-20)
+      * [ Taman Negara Pulau Pinang ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/peta)
+      * [ Taman Negara Pahang, Sungai Relau, Merapoh ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/brosur)
+      * [ Taman Negara Terengganu, Tanjung Mentong ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/taman-negara-terengganu-tanjung-mentong)
+      * [ Taman Negara Pahang, Kuala Tahan ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/taman-negara-pahang-kuala-tahan)
+      * [ Tapak RAMSAR Tasek Bera ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/tapak-ramsar-tasek-bera)
+    * BENGKEL/ KURSUS _ _
+      * [ Kalendar ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/kalender-program)
+      * [ Kursus Pemandu Pelancong ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/kursus-pemandu-pelancong)
+      * [ Latihan Industri ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/latihan-industri)
+
+  * [ PEROLEHAN _ _ ](http://www.wildlife.gov.my/index.php/ms/)
+
+    * SENARAI IKLAN _ _
+      * [ Sebutharga ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/sebutharga)
+      * [ Tender ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/tender)
+      * [ eBidding ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/ebidding)
+
+    * SENARAI KEPUTUSAN _ _
+      * [ Keputusan Sebutharga ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-sebutharga)
+      * [ Keputusan Tender ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-tender)
+      * [ Keputusan eBidding ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-ebidding)
+
+  * [ WARGA _ _ ](http://www.wildlife.gov.my/index.php/ms/)
+
+    * LOG STAFF _ _
+      * Login/ Logout 
+      * [ Pendaftaran ](/index.php/ms/2016-05-13-02-16-56/2016-05-16-02-53-15/register)
+
+    * PAUTAN _ _
+      * [ Puspanita ](http://www.wildlife.gov.my/puspanita/)
+      * [ Laporan eAduan ](http://apps.wildlife.gov.my/e_aduan/tindakan/index.php)
+      * [ HRMIS ](http://www.eghrmis.gov.my/)
+      * [ Webmail 1GovUC ](https://webmail2.1govuc.gov.my/)
+      * [ e-Lesen ](https://secure.wildlife.gov.my/ekpm/)
+      * [ e-Profiling ](http://apps.wildlife.gov.my/eprofiling/)
+      * [ SPAset ](http://10.2.180.5/portalspa/login.cfm)
+
+_ _ Button
+
+_ _ Button
+
+  * [ ![Laman Web Rasmi Jabatan Perlindungan Hidupan Liar & Taman Negara Semenanjung Malaysia](/images/images/icon/home.png) Laman Web Rasmi Jabatan Perlindungan Hidupan Liar &amp; Taman Negara Semenanjung Malaysia  ](/index.php/ms/)
+  * [ INFO ](http://www.wildlife.gov.my/index.php/ms/)
+    * MENGENAI KAMI 
+      * [ Perutusan Ketua Pengarah ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/perutusan-ketua-pengarah)
+      * [ Latar Belakang ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/latar-belakang)
+      * [ Objektif ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/objektif)
+      * [ Kod Etika Jabatan ](http://www.wildlife.gov.my/images/document/penerbitan/kodetikaperhilitan.pdf)
+      * [ Piagam Pelanggan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/piagam-pelanggan)
+      * [ Logo Jabatan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/logo-jabatan)
+      * [ Direktori ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/2016-04-12-01-28-44)
+      * [ Lokasi ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/2016-04-25-02-06-43)
+      * [ Laporan Prestasi Pencapaian Piagam Pelanggan ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/laporan-prestasi-pencapaian-piagam-pelanggan-2016)
+      * [ Laporan Penggunaan Aplikasi Perkhidmatan Atas Talian ](/index.php/ms/2016-04-11-03-50-17/2016-04-11-03-57-37/laporan-penggunaan-aplikasi-perkhidmatan-atas-talian)
+    * STRUKTUR ORGANISASI 
+      * [ Menteri &amp; Timbalan Menteri ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/menteri-timbalan-menteri)
+      * [ Pengurusan Atasan ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/pengurusan-atasan)
+      * [ Ketua Pegawai Maklumat (CIO) ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/ketua-pegawai-maklumat-cio)
+      * [ Carta Organisasi ](/index.php/ms/2016-04-11-03-50-17/carta-organisasi/carta-organisasi)
+    * BAHAGIAN 
+      * [ Kawasan Perlindungan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/kawasan-perlindungan)
+      * [ Penguatkuasaan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/penguatkuasaan)
+      * [ Konservasi Biodiversiti ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/konservasi-biodiversiti)
+      * [ Ekopelancongan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/ekopelancongan)
+      * [ Konservasi Exsitu ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/konservasi-exsitu)
+      * [ Institut Biodiversiti ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/institut-biodiversiti)
+      * [ Taman Zoologi ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/taman-zoologi)
+      * [ Juruperunding ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/juruperunding)
+      * [ Pengurusan ](/index.php/ms/2016-04-11-03-50-17/2016-04-25-02-12-43/pengurusan)
+  * [ AWAM ](http://www.wildlife.gov.my/index.php/ms/)
+    * LOG PELAWAT 
+      * [ Login/ Logout ](/index.php/ms/2016-04-25-02-58-00/2016-06-24-07-22-00/login-logout)
+      * [ Pendaftaran ](/index.php/ms/2016-04-25-02-58-00/2016-06-24-07-22-00/register)
+    * PERKHIDMATAN 
+      * [ Sistem e-Permit ](http://epermit.dagangnet.com/epermit.jsp)
+      * [ Sistem e-Aduan ](http://apps.wildlife.gov.my/e_aduan/index.php)
+      * [ Sistem e-Bayaran ](http://www.nre.gov.my/ms-my/Pages/ePayment.aspx)
+      * [ Status e-Aduan ](http://apps.wildlife.gov.my/estatus/index.php)
+      * [ Borang Pertanyaan ](http://apps.wildlife.gov.my/maklum/maklumbalas.php)
+      * [ Borang Maklumbalas Kepuasan Pelanggan ](http://apps.wildlife.gov.my/soalselidik/borang.php)
+      * [ e-Penyertaan ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/e-penyertaan)
+      * [ Soalan Lazim ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/soalam-lazim)
+      * [ Alamat Pejabat Negeri/PTJ ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/alamat-pejabat-negeri-ptj)
+      * [ Carian Spesies ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/2016-04-27-02-31-48)
+      * [ Hotline ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/hotline)
+      * [ Careline ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/careline)
+      * [ Perkhidmatan mySMS ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-36-10/perkhidmatan-mysms)
+      * [ Sistem e-Lesen ](https://secure.wildlife.gov.my/ekpm/)
+    * PUSAT EKOPELANCONGAN 
+      * [ Paya Indah Wetlands ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-41-01)
+      * [ Pusat Konservasi Gajah Kebangsaan Kuala Gandah ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-42-10)
+      * [ Taman Negara Kelantan, Kuala Koh ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-58-20)
+      * [ Taman Negara Pulau Pinang ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/peta)
+      * [ Taman Negara Pahang, Sungai Relau, Merapoh ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/brosur)
+      * [ Taman Negara Terengganu, Tanjung Mentong ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/taman-negara-terengganu-tanjung-mentong)
+      * [ Taman Negara Pahang, Kuala Tahan ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/taman-negara-pahang-kuala-tahan)
+      * [ Tapak RAMSAR Tasek Bera ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-02-34-43/tapak-ramsar-tasek-bera)
+    * BENGKEL/ KURSUS 
+      * [ Kalendar ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/kalender-program)
+      * [ Kursus Pemandu Pelancong ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/kursus-pemandu-pelancong)
+      * [ Latihan Industri ](/index.php/ms/2016-04-25-02-58-00/2016-05-10-07-05-38/latihan-industri)
+  * [ PEROLEHAN ](http://www.wildlife.gov.my/index.php/ms/)
+    * SENARAI IKLAN 
+      * [ Sebutharga ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/sebutharga)
+      * [ Tender ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/tender)
+      * [ eBidding ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-19-43/ebidding)
+    * SENARAI KEPUTUSAN 
+      * [ Keputusan Sebutharga ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-sebutharga)
+      * [ Keputusan Tender ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-tender)
+      * [ Keputusan eBidding ](/index.php/ms/2016-05-10-07-11-27/2016-05-16-02-37-34/keputusan-ebidding)
+  * [ WARGA ](http://www.wildlife.gov.my/index.php/ms/)
+    * LOG STAFF 
+      * Login/ Logout 
+      * [ Pendaftaran ](/index.php/ms/2016-05-13-02-16-56/2016-05-16-02-53-15/register)
+    * PAUTAN 
+      * [ Puspanita ](http://www.wildlife.gov.my/puspanita/)
+      * [ Laporan eAduan ](http://apps.wildlife.gov.my/e_aduan/tindakan/index.php)
+      * [ HRMIS ](http://www.eghrmis.gov.my/)
+      * [ Webmail 1GovUC ](https://webmail2.1govuc.gov.my/)
+      * [ e-Lesen ](https://secure.wildlife.gov.my/ekpm/)
+      * [ e-Profiling ](http://apps.wildlife.gov.my/eprofiling/)
+      * [ SPAset ](http://10.2.180.5/portalspa/login.cfm)
+
+  * ![SeminarBioD](/images/banners/seminarBioD.png)
+  * ![ISMS2016](/images/banners/ISMS2016.png)
+  * [ ![soalselidik](/images/banners/hebahan-epenyertaan-Edit.png) ](http://www.wildlife.gov.my/index.php/ms/kepuasan-pelanggan-berkaitan-kesedaran-awam)
+  * ![ptp](/images/images/banner/ptp.jpg)
+  * [ ![jenayahHL](/images/banners/aduanjenayahHL.jpg) ](http://apps.wildlife.gov.my/ewcc/borang.php)
+
+![Previous](/modules/mod_djimageslider/themes/default/images/prev.png)
+![Next](/modules/mod_djimageslider/themes/default/images/next.png)
+![Play](/modules/mod_djimageslider/themes/default/images/play.png)
+![Pause](/modules/mod_djimageslider/themes/default/images/pause.png)
+
+###  MUTAKHIR
+
+[ SEMINAR BIODIVERSITI 2016 ](/index.php/ms/mutakhir/164-seminar-
+biodiversiti-2016 "SEMINAR BIODIVERSITI 2016" )  
+
+Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) Semenanjung
+Malaysia telah menganjurkan Seminar Biodiversiti 2016 pada 21 - 25 Novembe...
+
+[ Expert Lecture Series Bil. 3/2016... ](/index.php/ms/mutakhir/160-expert-
+lecture-series-bil-3-2016-history-for-a-better-future "Expert Lecture Series
+Bil. 3/2016 - History for a better future" )  
+
+Jabatan PERHILITAN Semenanjung Malaysia dengan kerjasama Kesatuan Pekerja-
+pekerja Jabatan PERHILITAN Semenanjung Malaysia telah menganjurkanExpe...
+
+###  PENGUMUMAN
+
+[ PENUTUPAN PENDAKIAN KE GUNUNG TAHAN... ](/index.php/ms/pengumuman/149
+-penutupan-pendakian-ke-gunung-tahan "PENUTUPAN PENDAKIAN KE GUNUNG TAHAN" )  
+
+[ PENUTUPAN SEMENTARA TITIAN KANOPI DI... ](/index.php/ms/pengumuman/148
+-penutupan-sementara-titian-kanopi-di-taman-negara-kelantan-kuala-koh
+"PENUTUPAN SEMENTARA TITIAN KANOPI DI TAMAN NEGARA KELANTAN, KUALA KOH" )  
+
+[ Perintah Pemuliharaan Hidupan Liar (Musim... ](/index.php/ms/pengumuman/147
+-perintah-pemuliharaan-hidupan-liar-musim-tutup-2016 "Perintah Pemuliharaan
+Hidupan Liar \(Musim Tutup\) 2016" )  
+
+[ Call for Paper for Journal... ](/index.php/ms/pengumuman/5-call-for-paper
+"Call for Paper for Journal of Wildlife and Parks" )  
+
+###  PERKHIDMATAN ONLINE
+
+[ ![pelesenan](/images/images/icon/pelesenan.jpg)
+](/index.php/ms/bahagian/69-perlesenan) |  [
+![dataterbuka](/images/images/icon/dataterbuka.png) ](/index.php/ms/data-
+terbuka/55-data-terbuka-kerajaan) |  [
+![eaduan](/images/images/icon/eaduan.jpg)
+](http://apps.wildlife.gov.my/e_aduan/index.php) |  [
+![epermit](/images/images/icon/epermit.jpg)
+](http://epermit.dagangnet.com/epermit.jsp)  
+---|---|---|---  
+[ ![Maklumbalas](/images/images/icon/Maklumbalas.jpg)
+](http://apps.wildlife.gov.my/soalselidik/borang.php) |  [
+![pertanyaan](/images/images/icon/pertanyaan.jpg)
+](http://apps.wildlife.gov.my/maklum/maklumbalas.php) |  [
+![eko](/images/images/icon/eko.jpg) ](/index.php/ms/info/112-pusat-
+ekopelancongan) |  [ ![eparticipan](/images/images/icon/eparticipan.png)
+](/index.php/ms/e-penyertaan/63-e-penyertaan)  
+[ ![muatturun](/images/images/icon/muatturun.jpg)
+](/index.php/ms/penerbitan/70-muatturun) |  [
+![penerbitan](/images/images/icon/penerbitan.jpg)
+](/index.php/ms/penerbitan/64-senarai-penerbitan) |
+![jurnal](/images/images/icon/jurnal.png) |  [
+![media](/images/images/icon/media.png) ](/index.php/ms/galeri/78-galeri-
+multimedia)  
+  
+** INFORMASI **
+
+** Jabatan Perlindungan Hidupan Liar dan Taman Negara (PERHILITAN) **
+
+** Semenanjung Malaysia **
+
+Km 10, Jalan Cheras
+
+56100 Kuala Lumpur
+
+Tel : 03-90866800    Fax : 03-90752873
+
+Email : webmaster[at]wildlife[dot]gov[dot]my
+
+|  |
+
+** ** TAG POPULAR ** **
+
+** **
+
+  * [ HariSukanNegara ](/index.php/ms/component/tags/tag/20-harisukannegara)
+  * [ Wildlife ](/index.php/ms/component/tags/tag/19-wildlife)
+  * [ ekopelancongan ](/index.php/ms/component/tags/tag/24-ekopelancongan)
+
+** **
+
+|  |
+
+** PAUTAN PILIHAN **
+
+[ ![footer1M](/images/images/icon/pautan/footer1M.png)
+](http://1malaysia.com.my/) [
+![footermygovernment](/images/images/icon/pautan/footermygovernment.png)
+](https://www.malaysia.gov.my/) [
+![footerMSC](/images/images/icon/pautan/footerMSC.png)
+](http://www.mscmalaysia.my/) ![logo nrebaru](/images/images/icon/ikonjabatan
+/logo-nrebaru.png)
+
+[ ![logo instun](/images/images/icon/ikonjabatan/logo-instun.png)
+](https://www.instun.gov.my/index.php/ms/) [ ![logo
+jas](/images/images/icon/ikonjabatan/logo-jas.png)
+](http://www.doe.gov.my/portalv1/) [ ![logo
+jktpg](/images/images/icon/ikonjabatan/logo-jktpg.png)
+](http://www.kptg.gov.my/) [ ![logo jmg](/images/images/icon/ikonjabatan/logo-
+jmg.png) ](http://www.jmg.gov.my/) [ ![logo
+jupem](/images/images/icon/ikonjabatan/logo-jupem.png)
+](https://www.jupem.gov.my/index.php?action=main)
+
+[ ![JPSM](/images/images/icon/ikonjabatan/JPSM.png)
+](http://www.forestry.gov.my/) [ ![logo
+biokeselamatan](/images/images/icon/ikonjabatan/logo-biokeselamatan.png)
+](http://www.nre.gov.my/ms-my/Pages/Jabatan-Biokeselamatan.aspx) [ ![logo
+frim](/images/images/icon/ikonjabatan/logo-frim.png)
+](http://www.frim.gov.my/) [ ![logo nahrim](/images/images/icon/ikonjabatan
+/logo-nahrim.png) ](http://www.nahrim.gov.my/) [ ![logo taman
+laut](/images/images/icon/ikonjabatan/logo-taman-laut.png)
+](http://www.dmpm.nre.gov.my/) [ ![logo water](/images/images/icon/ikonjabatan
+/logo-water.png) ](http://www.water.gov.my/)
+
+|  |
+
+** MEDIA SOSIAL **
+
+[ ![Facebook icon](/images/images/icon/mediasosial/Facebook-icon.png)
+](https://www.facebook.com/Jabatan-Perhilitan-Semenanjung-
+Malaysia-208535215826654/?fref=ts) [ ![Twitter
+icon](/images/images/icon/mediasosial/Twitter-icon.png)
+](https://twitter.com/PERHILITAN) [ ![Youtube
+icon](/images/images/icon/mediasosial/Youtube-icon.png)
+](https://vimeo.com/jabatanperhilitan) [ ![RSS
+icon](/images/images/icon/mediasosial/RSS-icon.png) ](/index.php/ms/info/60
+-langganan-rss) [ ![WEBSITE](/images/images/icon/mediasosial/WEBSITE.png)
+](/index.php/ms/info/61-kod-qr) [ ![Mobile
+icon](/images/images/icon/mediasosial/Mobile-icon.png) ](/index.php/ms/info/62
+-responsif-web)  
+  
+---|---|---|---|---|---|---  
+|  |
+
+** STATISTIK **
+
+Jumlah Pelawat :  593860
+
+Kemaskini : 29 November 2016.  
+  
+totop
+
+[ BANTUAN ](/index.php/ms/footer/98-bantuan) | [ HUBUNGI KAMI
+](/index.php/ms/footer/47-hubungi-kami) |  [ PETA LAMAN
+](/index.php/ms/petalaman?view=html&id=2) | [ PENAFIAN
+](/index.php/ms/footer/48-penafian) | [ DASAR KESELAMATAN
+](/index.php/ms/footer/49-dasar-keselamatan) | [ DASAR PRIVASI
+](/index.php/ms/footer/50-dasar-privasi)
+
+Paparan Terbaik Menggunakan Google Chrome dengan resolusi minimum 1280 x 768.
+IOS dan Andriod dengan Keupayaan Susun Atur Responsif.
+
+Hakcipta Terpelihara  Jabatan Perlindungan Hidupan Liar Dan Taman Negara
+(PERHILITAN) Semenanjung Malaysia
+

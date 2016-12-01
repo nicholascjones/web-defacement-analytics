@@ -1,0 +1,55 @@
+![banner](/Images/banner_h.jpg)
+
+![](/Images/logo_mot.png)
+
+Financial Accounting System
+
+##  For  IndiaTourism overseas offices
+
+|
+
+Welcome  
+  
+---  
+  
+#  Website Links
+
+  * [ Ministry of Tourism ](http://tourism.gov.in/)
+  * [ India Tourism offices in India ](http://tourism.gov.in/AboutUS/TourismOfficeIndia.aspx)
+  * [ IndiaTourism Offices Overseas ](http://tourism.gov.in/AboutUS/TourismOfficeIndia.aspx)
+  * [ Overseas Marketing Division ](http://tourism.gov.in/AboutUs/DivisionDetails.aspx?DID=64)
+  * [ Overseas Promotion Guidelines ](http://tourism.gov.in/TourismDivision/AboutDivision.aspx?Name=Overseas%20Promotion)
+  * [ FAS User Manual ](../OpenPage.aspx)
+  * [ FAS Support ](../Support.aspx)
+
+|  |
+
+Sign in to FAS
+
+|  User Id:  |  
+---|---  
+Password:  |  
+Captcha:  |  
+|
+
+![Captcha](CaptchaImage.axd?guid=ee8cdd95-f35c-4bca-a9d4-f253636e533b)
+
+|  
+|  
+|  
+|  [ Forgot Pasword ](../ForgotPassword.aspx)  
+  
+[
+
+  * ![banner1](/Images/Footer1.jpg)
+](http://www.incredibleindia.org "Incredible India" ) [
+
+  * ![banner2](/Images/Footer3.jpg)
+](http://www.india.gov.in "Incredible India" )
+
+  
+  
+Copyright (c) 2013 National Informatics Centre  
+Department of Electronics and Information Technology  
+Government of India.
+

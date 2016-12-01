@@ -1,0 +1,21 @@
+#  IPSSA Locri
+
+  * Vai al contenuto 
+  * Vai alla navigazione principale e login 
+
+##  Nav view search
+
+###  Navigazione
+
+###  Cerca
+
+Sei qui:  Home
+
+###  Menu Principale
+
+  * [ Home ](/index.php)
+  * [ Amministrazione Trasparente ](http://trasparenza-pa.net/?codcli=sg28235)
+  * [ Albo Online ](https://www.albipretorionline.com/sg28235)
+
+#  Home
+

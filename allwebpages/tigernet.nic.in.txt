@@ -1,0 +1,53 @@
+because every tiger counts...
+
+![](images/LeftLogo.png) |  tigernet,  a directory of tigers and other
+wildlife mortality.  
+  
+The Official Database of the National Tiger Conservation Authority  
+(A Statutory Body under the Ministry of Environment and Forests, Govt. of
+India)  |  
+---|---|---  
+![](images/TrafficLogo.png)  
+  
+  * [ ** Statistics  ** ](Alluser/Default.aspx)
+  * [ ** About NTCA  ** ](Alluser/AboutNTCA.aspx)
+  * [ ** About TRAFFIC  ** ](Alluser/AboutTRAFFIC.aspx)
+  * [ ** News  ** ](Alluser/News.aspx)
+  * [ ** Parliament  ** ](Alluser/Parliament.aspx)
+  * [ ** General Articles  ** ](Alluser/GeneralArticles.aspx)
+  * [ ** MAP  ** ](Alluser/Map2.0.aspx)
+  * [ ** Contact Us  ** ](Alluser/ContactUs.aspx)
+
+![Photo by: Gobind Sagar Bhardwaj](images/tigerBg.jpg) |
+
+  
+
+![Updating Page...](/images/25-1.gif) Updating Page...
+
+  
+|  |  |  Log In  
+---  
+User Name:  |  |  
+Password:  |  
+[ Forgot Password ? ](ForgotPassword.aspx)  
+  
+####  Request Registration:
+
+Field Directors of Tiger Reserves and Chief Wildlife Wardens of tiger range
+states are requested to register, so that they can provide information to this
+database.  
+  
+Please send in your request by following this [ Link ](Registation.aspx) .  
+  
+####  Give us Information:
+
+As a concerned citizen, is there any information on tiger or other wildlife
+mortality or crime that you would like to share with us? We look forward to
+your support.  
+  
+To provide information -- [ CLICK HERE ](GUI.aspx) .  
+  
+Copyright 2010 [ NTCA ](http://www.projecttiger.nic.in) / [ TRAFFIC India
+](http://www.traffic.org/) All rights reserved. Site Managed by Envis Centre,
+WWF India.
+

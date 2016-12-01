@@ -1,0 +1,220 @@
+![](core_main/images/space_shadow.gif) |  |  |  
+---  
+[ ![](core_main/images/1.png) ](index.php?show_flash_subject=1&mod=&path=
+"Hide Banner" ) [ ![](core_main/images/eng.jpg)
+](index.php?language=2&mod=&path= "Eng" ) |  .
+
+#   
+
+|  [ ![](core_main/images/login.gif) ](index.php?mod=login&path=user)  
+---|---|---  
+|  
+---  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?t=1&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=44&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=gallery&path=web/gallery&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=project&path=web/project&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](http:///www.facebook.com/pages//584595134924971?ref=ts&fref=ts)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=site_map&path=web/site_map&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=39&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=42&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=40&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=43&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=blog&path=web/blog&id_sub_menu=45&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=download&path=web/download/&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=faqs&path=web/faqs/&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)    ](index.php?mod=link&path=web/link/&namemenu=  )
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=webboard&path=web/webboard/&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=gbook&path=web/gbook/&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=subject_open&path=lms/subject&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)  (Portfolio)  ](web1/user/admin)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)  MMS  ](index.php?mod=mms_main&path=mms&namemenu= MMS)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)  e-Library  ](index.php?mod=elibrary_main&path=e-library&namemenu= e-Library)
+
+  
+  
+|  ![](core_main/images/border/line_01.gif) |  |
+![](core_main/images/border/line_03.gif)  
+---|---|---  
+|  |  
+---  
+![](core_main/images/border/line_07.gif) |  |
+![](core_main/images/border/line_09.gif)  
+|  
+---  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=director_chart&path=web/director_chart&id_sub_menu=35&namemenu=)
+
+  
+  
+  * [ ![](web1/theme/v20/menu.jpg)   ](index.php?mod=director_chart&path=web/director_chart&id_sub_menu=36&namemenu=)
+
+  
+  
+  
+|  [ ![](web1/web/module_sponser/pici7jmw.jpg) ](http://pbn3.go.th/web/ ".
+.3" )  
+[ ![](web1/web/module_sponser/piccrxh7.jpg) ](http://www.obec.go.th/ "" )  
+[ ![](web1/web/module_sponser/pice7fwy.jpg) ](http://www.kroobannok.com/
+"" )  
+[ ![](web1/web/module_sponser/picxpkf6.jpg) ](http://www.kruwandee.com/
+"" )  
+[ ![](web1/web/module_sponser/wziPIU16NJfr.png) ](http://www.hongpakkroo.com/
+"" )  
+  
+|  [ ![](web1/web/module_sponser/pic2jgmw.jpg) ](http://www.dlit.ac.th/
+" DLIT \(DLIT Classroom\)" )  
+[ ![](web1/web/module_sponser/picf2yug.jpg)
+](http://www.tepeonline.org/elearning/index.php "tepeonline" )  
+[ ![](web1/web/module_sponser/picn93qu.jpg)
+](http://www.etvthai.tv/stream/home.aspx "etvthai" )  
+[ ![](web1/web/module_sponser/pic73t8n.jpg) ](http://202.143.185.125/neof/
+"SMART OFFICE" )  
+[ ![](web1/web/module_sponser/picqtj1f.jpg)
+](http://www.trueplookpanya.com/home "" )  
+[ ![](web1/web/module_sponser/pict7uw9.jpg) ](http://ag-ebook.lib.ku.ac.th
+/org-shelf/King-Rama9.php "" )  
+|  [ ![](core_main/images/p.gif) ](index.php?Y=2016&m=11) |   2559  |
+[ ![](core_main/images/n.gif) ](index.php?Y=2017&m=1)  
+---|---|---  
+  |    |    |    |    |    |    
+27  |  28  |  29  |  30  |  ** [ 1
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=1&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+** |  [ 2
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=2&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 3
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=3&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))  
+[ 4
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=4&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 5
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=5&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 6
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=6&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 7
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=7&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 8
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=8&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 9
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=9&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 10
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=10&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))  
+[ 11
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=11&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 12
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=12&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 13
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=13&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 14
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=14&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 15
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=15&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 16
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=16&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 17
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=17&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))  
+[ 18
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=18&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 19
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=19&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 20
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=20&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 21
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=21&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 22
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=22&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 23
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=23&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 24
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=24&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))  
+[ 25
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=25&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 26
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=26&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 27
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=27&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 28
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=28&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 29
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=29&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 30
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=30&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))
+|  [ 31
+](javascript:open_window\('core_main/module/web/calendar/showevent.php?per=&date=31&month=12&year=2016&dbname=pbn3_nongmaisor&folder_web=web1&language=1'\))  
+1  |  2  |  3  |  4  |  5  |  6  |  7  
+ 1  2559  
+|  ![](core_main/images/useronline.gif) |   ** 1  **   
+---|---  
+![](core_main/images/com.gif) |   IP  66.254.248.70  
+![](core_main/images/online.gif) |    ** 9,480 **  
+|   ?  
+---  
+  
+  
+  
+  
+  
+  
+---  
+|  
+** :   ** .5 . . .  ** Tel ** :  0830232023  ** Email ** :  jetsarin2702@hotmail.com   
+---  
+![](core_main/images/space_shadow.gif)
+

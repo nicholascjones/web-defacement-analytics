@@ -1,0 +1,468 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF&CC" )
+
+#  ENVIS Centre: Sikkim  
+Status of Environment and Related Issues
+
+Hosted by  [ Forests, Environment &amp; Wildlife Management Department,
+Government of Sikkim ](http://www.sikkimforest.gov.in/ "  Forests, Environment
+& Wildlife Management Department, Government of Sikkim" )  
+Sponsored by  [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forests & Climate
+Change, Govt of India " )
+
+![ENVIS](/images/envis_logo.png) ![Sikkim](/WriteReadData/ThemeImage/sikkim-
+logo.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ Introduction ](/Content/Introduction_137.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * [ Related Links ](/Content/relatedlinks_386.aspx)
+
+![](WriteReadData/ModuleIcon/Login.jpg)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=7505d23e-e63a-4244-aa10-8a5b0249c8ca) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=635412819947247631)
+](CaptchaAudio.axd?guid=7505d23e-e63a-4244-aa10-8a5b0249c8ca)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" ) [ Help ](/Help.aspx "Help" ) [ ** Forgot
+**
+](javascript:__doPostBack\('ctl00$ContentPlaceHolder1$Home1$btnForgot',''\))
+
+![](WriteReadData/ModuleIcon/publication_icon.png)
+
+##  PUBLICATION
+
+  * [ Newsletter ](PublicationCommon.aspx?LinkId=2660)
+  * [ Pamphlet ](PublicationCommon.aspx?LinkId=2661)
+  * [ Books ](PublicationCommon.aspx?LinkId=2662)
+  * [ Journals &amp; Scientific Papers ](PublicationCommon.aspx?LinkId=2663)
+
+Last Updated:17/11/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/glossary-icon-lg.jpg)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:15/10/2014
+
+##  Sikkim, Status of Environment and Related Issues
+
+  * [ Agriculture ](/Database/Agriculture_777.aspx)
+  * [ Biodiversity ](/Database/Biodiversity_776.aspx)
+  * [ Climate ](/Database/Climate_778.aspx)
+  * [ Demography ](/Database/Demography_779.aspx)
+  * [ Disaster ](/Database/Disaster_787.aspx)
+  * [ Ecotourism ](/Database/Ecotourism_782.aspx)
+  * [ Energy ](/Database/Energy_775.aspx)
+  * [ Forest Resource ](/Database/ForestResource_786.aspx)
+  * [ Land &amp; Water ](/Database/LandWater_780.aspx)
+  * [ Natural Resources ](/Database/NaturalResources_790.aspx)
+  * [ Pollution ](/Database/Pollution_791.aspx)
+  * [ Rivers ](/Database/Rivers_781.aspx)
+  * [ Sericulture ](/Database/Sericulture_784.aspx)
+  * [ Soil and Minerals ](/Database/SoilandMinerals_783.aspx)
+  * [ Solid Waste ](/Database/SolidWaste_789.aspx)
+  * [ Water Resource ](/Database/WaterResource_788.aspx)
+  * [ Wildlife ](/Database/Wildlife_785.aspx)
+  *   * ** [ ISBEID Report ](isbeid.aspx) **
+
+Last Updated:22/11/2016
+
+[ More &gt;&gt; ](/Database/Agriculture_777.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/latest-news20.gif)
+
+  * [ Heritage Trees of Sik.. ](/ViewGeneralLatestNews.aspx?Id=4962&Year=2016)
+  * [ RFP for Brief Documen.. ](/ViewGeneralLatestNews.aspx?Id=5147&Year=2016)
+  * [ Wildlife Estimation U.. ](/ViewGeneralLatestNews.aspx?Id=5122&Year=2016)
+  * [ Marks Obtained by FG .. ](/ViewGeneralLatestNews.aspx?Id=5121&Year=2016)
+
+Last Updated:28/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/Major-Activity2.gif)
+
+  * [ National Green Corps.. ](/ViewMajorActivity.aspx?Id=2955&Year=2016)
+  * [ Online Research Permit.. ](/ViewMajorActivity.aspx?Id=5120&Year=2016)
+  * [ NEAC - National Enviro.. ](/ViewMajorActivity.aspx?Id=2952&Year=2016)
+  * [ Swachhagraha.. ](/ViewMajorActivity.aspx?Id=5085&Year=2016)
+
+Last Updated:12/11/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/calendar_eng_icon.jpg)
+
+##  UPCOMING EVENTS
+
+  * [ Dec 2 - National Pollution .... ](ViewEvents.aspx?Id=5153&Year=2016)
+  * [ Dec 3- International Day of.... ](ViewEvents.aspx?Id=5154&Year=2016)
+  * [ Dec 4 - Chemical Disaster P.... ](ViewEvents.aspx?Id=5155&Year=2016)
+
+Last Updated:30/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/business-graph-icon-150x150.jpg)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![GSP20161](/WriteReadData/Photogallery/Day1-29-Sep2016.JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20162](/WriteReadData/Photogallery/Day1-29-Sep2016 \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20163](/WriteReadData/Photogallery/Day1-29-Sep2016 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20164](/WriteReadData/Photogallery/Day2-30-Sep2016 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20165](/WriteReadData/Photogallery/Day2-30-Sep2016 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20166](/WriteReadData/Photogallery/Press-Release-web.jpg) ](/ViewAlbum.aspx)
+  * [ ![GSP20167](/WriteReadData/Photogallery/Day1-29-Sep2016 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSp20168](/WriteReadData/Photogallery/Day1-29-Sep2016 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![GSP20169](/WriteReadData/Photogallery/Day2-30-Sep2016.JPG) ](/ViewAlbum.aspx)
+  * [ ![Panch Pokhari](/WriteReadData/Photogallery/Panch Pokhri  High altitude lake \(Medium\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Kalo Pokhari](/WriteReadData/Photogallery/Kalo Pokhari \(bakcha chu river source North Sikkim.JPG) ](/ViewAlbum.aspx)
+  * [ ![Majur Pokhari](/WriteReadData/Photogallery/Majurpokhri.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-19](/WriteReadData/Photogallery/WED2016 \(27\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-28](/WriteReadData/Photogallery/WED2016 \(28\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-29](/WriteReadData/Photogallery/WED2016 \(29\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-33](/WriteReadData/Photogallery/WED2016 \(33\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-34](/WriteReadData/Photogallery/WED2016 \(34\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-35](/WriteReadData/Photogallery/WED2016 \(35\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-37](/WriteReadData/Photogallery/WED2016 \(37\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-38](/WriteReadData/Photogallery/WED2016 \(38\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-42](/WriteReadData/Photogallery/WED2016 \(42\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-44](/WriteReadData/Photogallery/WED2016 \(44\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-9](/WriteReadData/Photogallery/WED2016 \(16\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-10](/WriteReadData/Photogallery/WED2016 \(17\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-11](/WriteReadData/Photogallery/WED2016 \(18\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-12](/WriteReadData/Photogallery/WED2016 \(19\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-13](/WriteReadData/Photogallery/WED2016 \(20\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-14](/WriteReadData/Photogallery/WED2016 \(21\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-15](/WriteReadData/Photogallery/WED2016 \(22\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-16](/WriteReadData/Photogallery/WED2016 \(23\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-17](/WriteReadData/Photogallery/WED2016 \(24\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WEd16-18](/WriteReadData/Photogallery/WED2016 \(26\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-1](/WriteReadData/Photogallery/WED2016.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-2](/WriteReadData/Photogallery/WED2016 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-3](/WriteReadData/Photogallery/WED2016 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-4](/WriteReadData/Photogallery/WED2016 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-5](/WriteReadData/Photogallery/WED2016 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-6](/WriteReadData/Photogallery/WED2016 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-7](/WriteReadData/Photogallery/WED2016 \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-8](/WriteReadData/Photogallery/WED2016 \(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![WED16-9](/WriteReadData/Photogallery/WED2016 \(15\).JPG) ](/ViewAlbum.aspx)
+  * [ ![bs1](/WriteReadData/Photogallery/IMG_3409.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs2](/WriteReadData/Photogallery/IMG_3411.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs3](/WriteReadData/Photogallery/IMG_3422.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs4](/WriteReadData/Photogallery/IMG_3425.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs5](/WriteReadData/Photogallery/IMG_3428.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs6](/WriteReadData/Photogallery/IMG_3437.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs7](/WriteReadData/Photogallery/IMG_3466.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs8](/WriteReadData/Photogallery/IMG_3478.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs9](/WriteReadData/Photogallery/IMG_3497.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs10](/WriteReadData/Photogallery/IMG_3513.jpg) ](/ViewAlbum.aspx)
+  * [ ![bs11](/WriteReadData/Photogallery/IMG_3578.jpg) ](/ViewAlbum.aspx)
+  * [ ![Zaluk](/WriteReadData/Photogallery/7-Zaluk.jpg) ](/ViewAlbum.aspx)
+  * [ ![Tarey Bhir](/WriteReadData/Photogallery/1-Tarey-Bhir-South-Sikkim.jpg) ](/ViewAlbum.aspx)
+  * [ ![Yumthang Valley](/WriteReadData/Photogallery/2-Yumthang-Valley-North-Sik.jpg) ](/ViewAlbum.aspx)
+  * [ ![Temi Garden](/WriteReadData/Photogallery/6-Temi-Tarku.jpg) ](/ViewAlbum.aspx)
+  * [ ![Prek Chu Trek](/WriteReadData/Photogallery/5-Prek-Chu-valley.jpg) ](/ViewAlbum.aspx)
+  * [ ![Lachung](/WriteReadData/Photogallery/4-Lachung.jpg) ](/ViewAlbum.aspx)
+  * [ ![Green Roads](/WriteReadData/Photogallery/3-Green-Roads.jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands Day](/WriteReadData/Photogallery/Wetland-day.jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands day1](/WriteReadData/Photogallery/Wetland-day-\(1\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands day2](/WriteReadData/Photogallery/Wetland-day-\(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands day3](/WriteReadData/Photogallery/Wetland-day-\(3\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands day4](/WriteReadData/Photogallery/Wetland-day-\(4\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Wetlands day5](/WriteReadData/Photogallery/Wetland-day-\(5\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS1](/WriteReadData/Photogallery/SECAS.jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS2](/WriteReadData/Photogallery/SECAS-\(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS3](/WriteReadData/Photogallery/SECAS-\(3\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS4](/WriteReadData/Photogallery/SECAS-\(4\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS5](/WriteReadData/Photogallery/SECAS-\(5\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS6](/WriteReadData/Photogallery/SECAS-\(6\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS7](/WriteReadData/Photogallery/SECAS-\(7\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS8](/WriteReadData/Photogallery/SECAS-\(8\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS9](/WriteReadData/Photogallery/SECAS-\(9\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS10](/WriteReadData/Photogallery/SECAS-\(10\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS11](/WriteReadData/Photogallery/SECAS-\(11\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS12](/WriteReadData/Photogallery/SECAS-\(12\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS13](/WriteReadData/Photogallery/SECAS-\(13\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D1](/WriteReadData/Photogallery/D1.JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-1](/WriteReadData/Photogallery/D1 \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-2](/WriteReadData/Photogallery/D1 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-3](/WriteReadData/Photogallery/D1 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-5](/WriteReadData/Photogallery/D1 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-6](/WriteReadData/Photogallery/D1 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-7](/WriteReadData/Photogallery/D1 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-8](/WriteReadData/Photogallery/D1 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-10](/WriteReadData/Photogallery/D1 \(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-11](/WriteReadData/Photogallery/D1 \(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-12](/WriteReadData/Photogallery/D1 \(12\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-13](/WriteReadData/Photogallery/D1 \(13\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D1-SPO](/WriteReadData/Photogallery/D2 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-4](/WriteReadData/Photogallery/D2 \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-8](/WriteReadData/Photogallery/D2 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-5](/WriteReadData/Photogallery/D2 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-6](/WriteReadData/Photogallery/D2 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-7](/WriteReadData/Photogallery/D2 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-9](/WriteReadData/Photogallery/D2 \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-10](/WriteReadData/Photogallery/D2 \(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![D2-11](/WriteReadData/Photogallery/D2-\(11\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3](/WriteReadData/Photogallery/D3.jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-1](/WriteReadData/Photogallery/D3-\(1\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-2](/WriteReadData/Photogallery/D3-\(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-5](/WriteReadData/Photogallery/D3-\(5\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-8](/WriteReadData/Photogallery/D3-\(8\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-9](/WriteReadData/Photogallery/D3-\(9\).jpg) ](/ViewAlbum.aspx)
+  * [ ![D3-10](/WriteReadData/Photogallery/D3-\(10\).jpg) ](/ViewAlbum.aspx)
+  * [ ![SoE](/WriteReadData/Photogallery/SoE.JPG) ](/ViewAlbum.aspx)
+  * [ ![Inaugural seesion of the inception Workshop](/WriteReadData/Photogallery/SoE0.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE1](/WriteReadData/Photogallery/SoE1.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE2](/WriteReadData/Photogallery/SoE2.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE3](/WriteReadData/Photogallery/SoE3.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE4](/WriteReadData/Photogallery/SoE4.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE5](/WriteReadData/Photogallery/SoE5.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE6](/WriteReadData/Photogallery/SoE6.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE7](/WriteReadData/Photogallery/SoE7.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE8](/WriteReadData/Photogallery/SoE8.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE9](/WriteReadData/Photogallery/SoE9.JPG) ](/ViewAlbum.aspx)
+  * [ ![SoE11](/WriteReadData/Photogallery/SoE-11.jpg) ](/ViewAlbum.aspx)
+  * [ ![SoE12](/WriteReadData/Photogallery/SoE-12.jpg) ](/ViewAlbum.aspx)
+  * [ ![SoE13](/WriteReadData/Photogallery/SoE-13.jpg) ](/ViewAlbum.aspx)
+  * [ ![SoE10](/WriteReadData/Photogallery/SoE10.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon- 7](/WriteReadData/Photogallery/Greenathon-7.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-8](/WriteReadData/Photogallery/Greenathon-8.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-9](/WriteReadData/Photogallery/Greenathon-9.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-10](/WriteReadData/Photogallery/Greenathon-10.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-11](/WriteReadData/Photogallery/Greenathon-11.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-12](/WriteReadData/Photogallery/Greenathon-12.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-13](/WriteReadData/Photogallery/Greenathon-13.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-14](/WriteReadData/Photogallery/Greenathon-14.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon- 15](/WriteReadData/Photogallery/Greenathon-15.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon- 16](/WriteReadData/Photogallery/Greenathon-16.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon - 1](/WriteReadData/Photogallery/Greenathon-1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-2](/WriteReadData/Photogallery/Greenathon-2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon - 3](/WriteReadData/Photogallery/Greenathon-3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon - 4](/WriteReadData/Photogallery/Greenathon-4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon - 5](/WriteReadData/Photogallery/Greenathon-5.jpg) ](/ViewAlbum.aspx)
+  * [ ![Greenathon-6](/WriteReadData/Photogallery/Greenathon-6.jpg) ](/ViewAlbum.aspx)
+  * [ ![Ten Minutes to Earth 2015 - 1](/WriteReadData/Photogallery/TME-1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Ten Minutes to Earth 2015 - 2](/WriteReadData/Photogallery/TME-2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Ten Minutes to Earth 2015 - 3](/WriteReadData/Photogallery/TME-3.jpg) ](/ViewAlbum.aspx)
+  * [ ![ Ten Minutes to Earth 2015 - 4](/WriteReadData/Photogallery/TME-4.jpg) ](/ViewAlbum.aspx)
+  * [ ![ Ten Minutes to Earth 2015 - 5](/WriteReadData/Photogallery/TME-5.jpg) ](/ViewAlbum.aspx)
+  * [ ![ Ten Minutes to Earth 2015 - 6](/WriteReadData/Photogallery/TME-6.jpg) ](/ViewAlbum.aspx)
+  * [ ![Ten Minutes to Earth 2015 - 7](/WriteReadData/Photogallery/TME-7.jpg) ](/ViewAlbum.aspx)
+  * [ ![Ten Minutes to Earth 2015 - 8](/WriteReadData/Photogallery/TME-8.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kailash Manasarovar Yatra 2015](/WriteReadData/Photogallery/KM-flagoff.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kailash Manasarovar Yatra 2015](/WriteReadData/Photogallery/KM-flagoff-\(1\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Kailash Manasarovar Yatra 2015](/WriteReadData/Photogallery/KM-flagoff-\(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Kailash Manasarovar Yatra 2015](/WriteReadData/Photogallery/KM-flagoff-\(11\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Kailash Manasarovar Yatra 2015](/WriteReadData/Photogallery/KM-flagoff-\(12\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Local participants at Paryavaran Mahotasav 2015 flag off programme at M G Marg Gangtok on June 15](/WriteReadData/Photogallery/PM-2015-\(1\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Seedling distribution vans mobilized to reach free seedlings to people](/WriteReadData/Photogallery/PM-2015-\(5\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Honourable Minister Forests Shri T W Lepcha handing garbage disposal bags for vehicles to taxi drive](/WriteReadData/Photogallery/PM-2015-\(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Distribution of seedlings](/WriteReadData/Photogallery/PM-2015-\(3\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Signature Campaign at M G Marg](/WriteReadData/Photogallery/PM-2015-\(6\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Students signing on the pledge](/WriteReadData/Photogallery/PM-2015-\(7\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Honourbale Minister Culture Shri G M Gurung taking part in the Paryavaran Mahotsav at Zero Point Gan](/WriteReadData/Photogallery/PM-2015-\(11\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Minister Shri G M Gurung with Forest Officers at Mahotsav Information Booth at Zero Point Gangtok](/WriteReadData/Photogallery/PM-2015-\(12\).jpg) ](/ViewAlbum.aspx)
+  * [ ![A young girl with a sapling amidst forest officials at seedling distribution booth at Zero Point Gan](/WriteReadData/Photogallery/PM-2015-\(9\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Local people taking away seedlings from seedling distribution booth at Deorali Bazaar](/WriteReadData/Photogallery/PM-2015-\(13\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Forest officials taking stock of seedling distribution at Deorali Booth](/WriteReadData/Photogallery/PM-2015-\(14\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Sikkim Paryavaran Mahotsav 2015 kicks off on June 15](/WriteReadData/Photogallery/PM-2015.jpg) ](/ViewAlbum.aspx)
+  * [ ![Honourable Minister Forests Shi T W Lepcha flags off seedling distribution vans on June 15 2015](/WriteReadData/Photogallery/PM-2015-\(4\).jpg) ](/ViewAlbum.aspx)
+  * [ ![RMDD Minister Shri S B Subedi addressing the gathering](/WriteReadData/Photogallery/DSC_3616.JPG) ](/ViewAlbum.aspx)
+  * [ ![Vote of Thanks by Principal Scientist \(SPCB\) Dr Gopal Pradhan](/WriteReadData/Photogallery/DSC_3628.JPG) ](/ViewAlbum.aspx)
+  * [ ![About 600 participants witnessed the WED 2015 programme at Gangtok](/WriteReadData/Photogallery/DSC_3375.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(Best JHS\) - Rabitar JHS, South Sikkim](/WriteReadData/Photogallery/DSC_3558.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(Best PS\) - Titribotey PS, East Sikkim](/WriteReadData/Photogallery/DSC_3572.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(Best Pvt. School\) - St Xaviers School, Pakyong, East Sikkim](/WriteReadData/Photogallery/DSC_3582.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(Winner\) - Sonamati Memorial Govt SSS, Khamdong, East Sikkim](/WriteReadData/Photogallery/DSC_3599.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(SSS/SS\) - Singhik SS, North Sikkim](/WriteReadData/Photogallery/DSC_3516.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(SSS/SS\) - South Regu SS, East Sikkim](/WriteReadData/Photogallery/DSC_3537.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(SSS/SS\) - Yangang SSS, South Sikkim](/WriteReadData/Photogallery/DSC_3551.JPG) ](/ViewAlbum.aspx)
+  * [ ![Release of Publications on Tinjurey Ecotourism Festival 2015](/WriteReadData/Photogallery/DSC_3408.JPG) ](/ViewAlbum.aspx)
+  * [ ![Display of ENVIS Documentary on Green School Programme Sikkim](/WriteReadData/Photogallery/DSC_3434.JPG) ](/ViewAlbum.aspx)
+  * [ ![Release of Eco-Club Grants to Schools](/WriteReadData/Photogallery/DSC_3438.JPG) ](/ViewAlbum.aspx)
+  * [ ![Release of Eco-Club Grants to Schools](/WriteReadData/Photogallery/DSC_3449.JPG) ](/ViewAlbum.aspx)
+  * [ ![Forests Minister Shri T W Lepcha addressing the gathering ](/WriteReadData/Photogallery/DSC_3464.JPG) ](/ViewAlbum.aspx)
+  * [ ![State Green School Awardee \(SSS/SS\) - Hee Yangthang SSS, West Sikkim](/WriteReadData/Photogallery/DSC_3499.JPG) ](/ViewAlbum.aspx)
+  * [ ![Honourable Minister \(RMDD\) Shri S B Subedi planting Rhododendron sapling](/WriteReadData/Photogallery/DSC_3300.JPG) ](/ViewAlbum.aspx)
+  * [ ![Honourable Minister \(Forests\) Shri T W Lepcha planting Rhododendron sapling](/WriteReadData/Photogallery/DSC_3326.JPG) ](/ViewAlbum.aspx)
+  * [ ![Honourable Minister \(Health\) Shri A K Ghatani planting Rhododendron sapling](/WriteReadData/Photogallery/DSC_3346.JPG) ](/ViewAlbum.aspx)
+  * [ ![PCCF cum Pr Secretary Dr Thomas Chandy welcoming the Guest and the Gathering](/WriteReadData/Photogallery/DSC_3396.JPG) ](/ViewAlbum.aspx)
+  * [ ![wg1](/WriteReadData/Photogallery/wg1.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg2](/WriteReadData/Photogallery/wg2.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg3](/WriteReadData/Photogallery/wg3.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg4](/WriteReadData/Photogallery/wg4.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg5](/WriteReadData/Photogallery/wg5.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg6](/WriteReadData/Photogallery/wg6.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg7](/WriteReadData/Photogallery/wg7.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg8](/WriteReadData/Photogallery/wg8.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg9](/WriteReadData/Photogallery/wg9.jpg) ](/ViewAlbum.aspx)
+  * [ ![wg10](/WriteReadData/Photogallery/wg10.jpg) ](/ViewAlbum.aspx)
+  * [ ![Swachh Bharat Swastha Sikkim](/WriteReadData/Photogallery/1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Smt Kalawati Subba, Chiarperson SPCB leading the cleanliness drive](/WriteReadData/Photogallery/2.jpg) ](/ViewAlbum.aspx)
+  * [ ![PCCF cum Pr Secretary clearing clogged drains](/WriteReadData/Photogallery/3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Cleaning parking premises ](/WriteReadData/Photogallery/4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Officers and staffs cleaning up the office premise](/WriteReadData/Photogallery/5.jpg) ](/ViewAlbum.aspx)
+  * [ ![Cleaning up all nooks](/WriteReadData/Photogallery/6.jpg) ](/ViewAlbum.aspx)
+  * [ ![Clean up drive](/WriteReadData/Photogallery/7.jpg) ](/ViewAlbum.aspx)
+  * [ ![Swachh Bharat Pledge](/WriteReadData/Photogallery/8.jpg) ](/ViewAlbum.aspx)
+  * [ ![Swastha Bharat Swachh Sikkim pledge](/WriteReadData/Photogallery/9.jpg) ](/ViewAlbum.aspx)
+  * [ ![Recycle bins to tourist affected areas](/WriteReadData/Photogallery/10.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/After a walking in mosaic alpine zone you cross many fresh water lakes.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/After a days walk resting on natural cardet gives relief.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/After an Ardous Trekking, Hungry, Thirsty, waiting fire to boil water.jpg) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/Amongst the silence rocks.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/Clean river indicated sound Catchment.jpg) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/Crossing Broken cane Bridge - Life and death challenge.jpg) ](/ViewAlbum.aspx)
+  * [ ![7](/WriteReadData/Photogallery/Greetings with Chief of Masaimara Community kenya.jpg) ](/ViewAlbum.aspx)
+  * [ ![8](/WriteReadData/Photogallery/Hills, Mountains and Rivers make you Strong.jpg) ](/ViewAlbum.aspx)
+  * [ ![9](/WriteReadData/Photogallery/We were at the equator Kenya.jpg) ](/ViewAlbum.aspx)
+  * [ ![10](/WriteReadData/Photogallery/Sky is the Limit.jpg) ](/ViewAlbum.aspx)
+  * [ ![Memencho Lake](/WriteReadData/Photogallery/Memencho Lake.jpg) ](/ViewAlbum.aspx)
+  * [ ![Gurudongmar-lake](/WriteReadData/Photogallery/Gurudongmar-lake.jpg) ](/ViewAlbum.aspx)
+  * [ ![Khecheopalri-Lake](/WriteReadData/Photogallery/Khecheopalri-Lake.jpg) ](/ViewAlbum.aspx)
+  * [ ![Tsomgo-lake](/WriteReadData/Photogallery/Tsomgo-lake.jpg) ](/ViewAlbum.aspx)
+  * [ ![Blue Sheep](/WriteReadData/Photogallery/himalayan_blue_sheep.jpg) ](/ViewAlbum.aspx)
+  * [ ![Common Leopard](/WriteReadData/Photogallery/Common Leopard.jpg) ](/ViewAlbum.aspx)
+  * [ ![Satyr Tragopan](/WriteReadData/Photogallery/Satyr Tragopan.jpg) ](/ViewAlbum.aspx)
+  * [ ![Snow Leaopard](/WriteReadData/Photogallery/Snow Leopard.jpg) ](/ViewAlbum.aspx)
+  * [ ![Red Panda](/WriteReadData/Photogallery/Red-Panda.jpg) ](/ViewAlbum.aspx)
+  * [ ![Himalayan Black Bear](/WriteReadData/Photogallery/Himalayan Black Bear.jpg) ](/ViewAlbum.aspx)
+  * [ ![Red Panda](/WriteReadData/Photogallery/Red_panda1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Blood Pheasant](/WriteReadData/Photogallery/Blood-Pheasant1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Nobile Orchid](/WriteReadData/Photogallery/orchid.JPG) ](/ViewAlbum.aspx)
+  * [ ![Rhododendron niveum](/WriteReadData/Photogallery/rhododendron-niveum-web.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kids-icon.png)
+
+##  KIDS CENTER
+
+  * [ Swachchta Pakhwada August ](/KidsCentre/SwachchtaPakhwadaAugust_5016.aspx)
+  * [ Participte in the Green W ](/KidsCentre/ParticipteintheGreenW_4943.aspx)
+  * [ National Awards to Sikkim ](/KidsCentre/NationalAwardstoSikkim_4747.aspx)
+  * [ Swachhagraha Essay Compet ](/KidsCentre/SwachhagrahaEssayCompet_4916.aspx)
+
+Last Updated:29/07/2016
+
+[ More&gt;&gt; ](/KidsCentre/Swachchta Pakhwada August_5016.aspx "More" )
+
+![](WriteReadData/ModuleIcon/bookIcon1-300x296.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :28/11/2016
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\).png) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nic.in_banner.png) ](http://www.nic.in/
+"www.nic.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bottombar_MoEF.jpg) ](http://moef.gov.in
+"moef.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/sikkimbanner.jpg)
+](http://www.sikkim.gov.in/portal "www.sikkim.gov.in/portal" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/RTI-banner.jpg)
+](http://sikkimforest.gov.in/RTI/RTI.htm "sikkimforest.gov.in/RTI/RTI.htm" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bhuvan_viewer3t3.jpg)
+](http://bhuvan.nrsc.gov.in/state/SK "bhuvan.nrsc.gov.in/state/SK" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/fb-web.jpg) ](http://facebook.com/sikenvis
+"facebook.com/sikenvis" )  
+  
+---|---|---|---|---|---|---  
+  
+##  Total Visitor:  662527
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre: Sikkim  
+Status of Environment and Related Issues  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

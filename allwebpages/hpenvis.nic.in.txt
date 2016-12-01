@@ -1,0 +1,272 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF" )
+
+#  ENVIS Centre: Himachal Pradesh  
+Status of Environment and Related Issues
+
+Hosted by  [ State Council for Science Technology &amp; Environment (HPSCSTE)
+](http://www.himachal.nic.in/environment/ " State Council for Science
+Technology & Environment \(HPSCSTE\)" )  
+Sponsored by  [ Ministry of Environment and Forests, Govt of India
+](http://moef.nic.in " Ministry of Environment and Forests, Govt of India" )
+
+![ENVIS](/images/envis_logo.png)
+![HP](/WriteReadData/ThemeImage/Council%20Logo.jpg)
+
+[ Home ](/Home.aspx)
+
+  * [ Related Links ](/Content/relatedlinks_386.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+    * [ Advisory Committee of HP ENVIS Centre ](/Content/AdvisoryCommitteeofHPENVISCentre_4235.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * About Us 
+    * [ About Himachal Pradesh ](/Content/AboutHimachalPradesh_137.aspx)
+    * [ Host Institution: HPSCST&amp;E; ](/Content/HPSCSTE_4234.aspx)
+    * [ About HP ENVIS ](/Content/HPENVIS_4864.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * 
+
+![](WriteReadData/ModuleIcon/Login.jpg)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=c4a95cf7-c456-4155-855d-73b86b544ce2) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=635333452274913088)
+](CaptchaAudio.axd?guid=c4a95cf7-c456-4155-855d-73b86b544ce2)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](Content/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  PUBLICATION
+
+  * [ Newsletter ](PublicationCommon.aspx?LinkId=625)
+  * [ Books ](PublicationCommon.aspx?LinkId=626)
+  * [ Pamphlets ](PublicationCommon.aspx?LinkId=627)
+
+Last Updated:22/08/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/glossary-icon-lg.jpg)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:12/05/2016
+
+##  HP,Status of Environment and Related Issues
+
+  * [ Agriculture ](/Database/Agriculture_3768.aspx)
+  * [ Air Pollution ](/Database/AirPollution_3779.aspx)
+  * [ Biodiversity ](/Database/Biodiversity_3778.aspx)
+  * [ Rules and Acts ](/Database/Rules_and_Acts_3777.aspx)
+  * [ Demography ](/Database/Demography_3776.aspx)
+  * [ Disaster ](/Database/Disaster_3775.aspx)
+  * [ Forest ](/Database/Forest_3773.aspx)
+  * [ Industry ](/Database/Industry_3772.aspx)
+  * [ Infrastructure ](/Database/Infrastructure_3770.aspx)
+  * [ Rivers ](/Database/Rivers_3769.aspx)
+  * [ Horticulture ](/Database/Horticulture_4022.aspx)
+  *   * ** [ ISBEID Report ](isbeid.aspx) **
+
+Last Updated:19/08/2016
+
+[ More &gt;&gt; ](/Database/Agriculture_3768.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/news-icon.png)
+
+  * [    .. ](/ViewGeneralLatestNews.aspx?Id=5587&Year=2016)
+  * [    .. ](/ViewGeneralLatestNews.aspx?Id=5586&Year=2016)
+  * [      .. ](/ViewGeneralLatestNews.aspx?Id=5585&Year=2016)
+
+Last Updated:19/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/activity.JPG)
+
+  * [ Field Visit of Scienti.. ](/ViewMajorActivity.aspx?Id=5496&Year=2016)
+  * [ One day training works.. ](/ViewMajorActivity.aspx?Id=5128&Year=2016)
+  * [ Geo Spatial Database f.. ](/ViewMajorActivity.aspx?Id=4750&Year=2016)
+
+Last Updated:07/11/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/CALENDAR_ICON_02.png)
+
+##  UPCOMING EVENTS
+
+  * [ International Research Conf.... ](ViewEvents.aspx?Id=5487&Year=2016)
+  * [ Pacific Conference on Energ.... ](ViewEvents.aspx?Id=5488&Year=2016)
+  * [ Determinants of environment.... ](ViewEvents.aspx?Id=5489&Year=2016)
+
+Last Updated:23/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Business-Graph-Icon-Final_550.jpg)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![ Prof. R.A. Mashelkar, Aminant Scientist and Dr. Irfana Begum, Sr. Project Officer, EduSat](/WriteReadData/Photogallery/P1050055.JPG) ](/ViewAlbum.aspx)
+  * [ ![Students of teachers of GSSS, during lecture of  Prof. R.A. Mashelkar](/WriteReadData/Photogallery/P1050056.JPG) ](/ViewAlbum.aspx)
+  * [ ![Potentilla](/WriteReadData/Photogallery/Potentilla.jpg) ](/ViewAlbum.aspx)
+  * [ ![Anaphalis](/WriteReadData/Photogallery/Anaphalis.jpg) ](/ViewAlbum.aspx)
+  * [ ![Skit play during the workshop](/WriteReadData/Photogallery/7_skit play during the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants in the workshop](/WriteReadData/Photogallery/6_Participants in the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants in the workshop](/WriteReadData/Photogallery/5_Participants in the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants in the workshop](/WriteReadData/Photogallery/4_Participants in the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants in the workshop](/WriteReadData/Photogallery/3_Participants in the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Publishing of Biodiversity Board Newsletter during workshop](/WriteReadData/Photogallery/2Publishing of Biodivesity Board Newsletter.jpg) ](/ViewAlbum.aspx)
+  * [ ![Chief Guest, Sh. Hans Raj Chauhan, Dy. Commissioner, Kullu](/WriteReadData/Photogallery/1_Chief Guest, Sh. Chauhan.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participant asking question about Biodiversity in the workshop](/WriteReadData/Photogallery/8_Participant asking question about Biodiversity in the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants taking lunch during the workshop](/WriteReadData/Photogallery/9_Participants taking lunch during the workshop \(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants taking lunch during the workshop](/WriteReadData/Photogallery/10_Participants taking lunch during the workshop.jpg) ](/ViewAlbum.aspx)
+  * [ ![Jiont Member Secretary-cum-Coordinator ENVIS lightening the Lamp during the function](/WriteReadData/Photogallery/Jiont-Member-Secretary-cum-.jpg) ](/ViewAlbum.aspx)
+  * [ ![Panchayat Pradhans during the celebration of State Level International Biodiversity Day-2016](/WriteReadData/Photogallery/Panchayat-Pradhans-during-t.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants asking questions about Biodiversity during State Level International Biodiversity Day](/WriteReadData/Photogallery/Participants-asking-questio.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants of State Level International Biodiversity Day-2016 at Nahan](/WriteReadData/Photogallery/Participants-of-State-Level.jpg) ](/ViewAlbum.aspx)
+  * [ ![Sh. Ajay Kumar Lal, Director Environment addressing the participants](/WriteReadData/Photogallery/Sh.-Ajay-Kumar-Lal,-Directo.jpg) ](/ViewAlbum.aspx)
+  * [ ![Skit play by students during State Level International Biodiversity Day-2016](/WriteReadData/Photogallery/Skit-play-by-students-durin.jpg) ](/ViewAlbum.aspx)
+  * [ ![State Level International Biodiversity Day-2016 Celeberated at Nahan, Welocme of Chief Guest](/WriteReadData/Photogallery/State-Level-International-B.jpg) ](/ViewAlbum.aspx)
+  * [ ![State Level International Biodiversity Day-2016 Celeberated at Nahan](/WriteReadData/Photogallery/Welcome-of-Chief-Guest-on-S.jpg) ](/ViewAlbum.aspx)
+  * [ ![Participants in the training programme on Bhuvan](/WriteReadData/Photogallery/IMG_20151015_110356.jpg) ](/ViewAlbum.aspx)
+  * [ ![Chief Guest during the Inauguration](/WriteReadData/Photogallery/IMG_20151016_171423.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Hands-on Training at Jodhpur](/WriteReadData/Photogallery/BHUVAN.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Hands-on Training at Jodhpur](/WriteReadData/Photogallery/Bhuvan 1.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Hands-on Training at Jodhpur](/WriteReadData/Photogallery/Buvan 2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Western Tragopan, Jujurana \(State Bird of Himachal Pradesh\)](/WriteReadData/Photogallery/western tragopan Male.jpg) ](/ViewAlbum.aspx)
+  * [ ![Snow Leopard \(State Animal of Himachal Pradesh\)](/WriteReadData/Photogallery/Snow Leopard.jpg) ](/ViewAlbum.aspx)
+  * [ ![Pink White Rhododendron \(State Flower of Himachal Pradesh\)](/WriteReadData/Photogallery/Pink White Rhododendron.jpg) ](/ViewAlbum.aspx)
+  * [ ![Allium](/WriteReadData/Photogallery/allium.jpg) ](/ViewAlbum.aspx)
+  * [ ![Poa](/WriteReadData/Photogallery/Poa.jpg) ](/ViewAlbum.aspx)
+  * [ ![Anemone](/WriteReadData/Photogallery/anemone.jpg) ](/ViewAlbum.aspx)
+  * [ ![National EduSat Meet at Goa](/WriteReadData/Photogallery/DSC03176.jpg) ](/ViewAlbum.aspx)
+  * [ ![Edusat Workshop organised](/WriteReadData/Photogallery/DSC03180.jpg) ](/ViewAlbum.aspx)
+  * [ ![Edusat Workshop organised](/WriteReadData/Photogallery/DSC03182.jpg) ](/ViewAlbum.aspx)
+  * [ ![Carex](/WriteReadData/Photogallery/carex.jpg) ](/ViewAlbum.aspx)
+  * [ ![Polygonum](/WriteReadData/Photogallery/Polygonum.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kids_icon.png)
+
+##  KIDS CENTER
+
+  * [ NGO Running innovative ed ](/KidsCentre/NGORunninginnovativeed_846.aspx)
+  * [ Demand and Supply ](/KidsCentre/DemandandSupply_4953.aspx)
+  * [ Energy and its Forms ](/KidsCentre/EnergyanditsForms_4952.aspx)
+  * [ Energy Audit ](/KidsCentre/EnergyAudit_4951.aspx)
+
+Last Updated:23/05/2016
+
+[ More&gt;&gt; ](/KidsCentre/NGO Running innovative ed_846.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :26/11/2016
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\).png) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nic.in_banner.png) ](http://http://www.nic.in/
+"http://www.nic.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/hpgovt.jpg) ](http://www.himachal.nic.in/
+"www.himachal.nic.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/dest.jpg) ](http://www.desthp.nic.in
+"www.desthp.nic.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/council%20logo.jpg) ](http://www.hpscste.nic.in
+"www.hpscste.nic.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/cslc.jpg) ](http://www.hp.gov.in/balvigyan
+"www.hp.gov.in/balvigyan" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nvsp.jpg) ](http://www.nvsp.in "www.nvsp.in" )  
+  
+---|---|---|---|---|---|---  
+  
+##  Total Visitor:  1279292
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre: Himachal
+Pradesh  
+Status of Environment and Related Issues  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

@@ -1,0 +1,265 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF" )
+
+#  ENVIS Centre on Bioinformatics-Vector Control
+
+Hosted by  [ CSIR-Indian Institute of Chemical Technology, Hyderabad
+](http://www.iictindia.org " CSIR-Indian Institute of Chemical Technology,
+Hyderabad" )  
+Sponsored by  [ Ministry of Environment and Forests, Govt of India
+](http://moef.nic.in " Ministry of Environment and Forests, Govt of India" )
+
+![ENVIS](/images/envis_logo.png)
+![IICT](/WriteReadData/ThemeImage/iict_logo.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ Institute ](/Content/Institute_137.aspx)
+    * [ Organization Structure ](/Content/Organization_Structure_144.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * [ Related Links ](/Content/relatedlinks_386.aspx)
+    * [ Link ](/Content/Related_Link_1188.aspx)
+
+![](WriteReadData/ModuleIcon/login_icon.png)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=d449bb8c-b0de-4cb4-a09e-a22db1c516cf) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=634720094899500017)
+](CaptchaAudio.axd?guid=d449bb8c-b0de-4cb4-a09e-a22db1c516cf)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](Content/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/publication_icon.png)
+
+##  PUBLICATION
+
+  * [ Research Publications ](PublicationCommon.aspx?LinkId=809)
+  * [ News Letter ](PublicationCommon.aspx?LinkId=810)
+  * [ Response Letters ](PublicationCommon.aspx?LinkId=811)
+
+Last Updated:24/10/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Glossaryglossary_icon.png)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:05/01/2012
+
+![](/WriteReadData/ModuleImage/6.JPG)
+
+##  Bioinformatics-Vector Control (Subject Area)
+
+This Centre's major areas of research are agro-chemicals, drugs, organic
+intermediates, oils and fats, organic coatings and polymers, design
+engineering and biology...
+
+  * [ Filarasis ](/Database/Filarasis_818.aspx)
+  * [ Vb classif ](/Database/Vb_classif_819.aspx)
+  * [ More About Filarasis ](/Database/More_About_Filarasis_820.aspx)
+
+Last Updated:29/08/2016
+
+[ More &gt;&gt; ](/Database/Filarasis_818.aspx "More" )
+
+![](WriteReadData/ModuleIcon/ewnunew_e0gif13.gif)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/amca_img_hp-slideshow-01.jpg)
+
+  * [ Dengue and Chikunguny.. ](/ViewGeneralLatestNews.aspx?Id=1544&Year=2016)
+  * [ Dengue in India.. ](/ViewGeneralLatestNews.aspx?Id=1532&Year=2016)
+  * [ Chikungunya in India.. ](/ViewGeneralLatestNews.aspx?Id=1531&Year=2016)
+
+Last Updated:26/10/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/news_img.png)
+
+[ More &gt;&gt; ](/LinkPage.aspx?Mid=7&Year= "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  UPCOMING EVENTS
+
+  * [ 13th Conference on Vectors .... ](ViewEvents.aspx?Id=1520&Year=2016)
+  * [ National Conference on "Mal.... ](ViewEvents.aspx?Id=1521&Year=2016)
+  * [ International Conference on.... ](ViewEvents.aspx?Id=1522&Year=2016)
+
+Last Updated:08/08/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Annual%20Performance%20Reportnews_img.png)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![2](/WriteReadData/Photogallery/filaria2.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/filaria3.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/filaria5.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/MDA-1.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/envis_workshop-2-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/envis_workshop-1-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/Picture1.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/Picture2.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/Picture3.jpg) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/Picture4.jpg) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/Picture7.jpg) ](/ViewAlbum.aspx)
+  * [ ![7](/WriteReadData/Photogallery/Picture7.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/Picture5.jpg) ](/ViewAlbum.aspx)
+  * [ ![8](/WriteReadData/Photogallery/Picture8.jpg) ](/ViewAlbum.aspx)
+  * [ ![9](/WriteReadData/Photogallery/Picture9.jpg) ](/ViewAlbum.aspx)
+  * [ ![10](/WriteReadData/Photogallery/picture10.jpg) ](/ViewAlbum.aspx)
+  * [ ![11](/WriteReadData/Photogallery/Picture11.jpg) ](/ViewAlbum.aspx)
+  * [ ![12](/WriteReadData/Photogallery/Picture12.jpg) ](/ViewAlbum.aspx)
+  * [ ![13](/WriteReadData/Photogallery/Picture13.jpg) ](/ViewAlbum.aspx)
+  * [ ![14](/WriteReadData/Photogallery/Picture14.jpg) ](/ViewAlbum.aspx)
+  * [ ![15](/WriteReadData/Photogallery/Picture15.jpg) ](/ViewAlbum.aspx)
+  * [ ![16](/WriteReadData/Photogallery/Picture16.jpg) ](/ViewAlbum.aspx)
+  * [ ![17](/WriteReadData/Photogallery/Picture17.jpg) ](/ViewAlbum.aspx)
+  * [ ![18](/WriteReadData/Photogallery/picture18.jpg) ](/ViewAlbum.aspx)
+  * [ ![19](/WriteReadData/Photogallery/Picture19.jpg) ](/ViewAlbum.aspx)
+  * [ ![20](/WriteReadData/Photogallery/Picture20.jpg) ](/ViewAlbum.aspx)
+  * [ ![21](/WriteReadData/Photogallery/Picture21.jpg) ](/ViewAlbum.aspx)
+  * [ ![22](/WriteReadData/Photogallery/Picture22.jpg) ](/ViewAlbum.aspx)
+  * [ ![23](/WriteReadData/Photogallery/Picture23.jpg) ](/ViewAlbum.aspx)
+  * [ ![24](/WriteReadData/Photogallery/Picture24.jpg) ](/ViewAlbum.aspx)
+  * [ ![25](/WriteReadData/Photogallery/Picture25.jpg) ](/ViewAlbum.aspx)
+  * [ ![26](/WriteReadData/Photogallery/picture26.jpg) ](/ViewAlbum.aspx)
+  * [ ![27](/WriteReadData/Photogallery/Picture27.jpg) ](/ViewAlbum.aspx)
+  * [ ![28](/WriteReadData/Photogallery/Picture28.jpg) ](/ViewAlbum.aspx)
+  * [ ![29](/WriteReadData/Photogallery/Picture29.jpg) ](/ViewAlbum.aspx)
+  * [ ![30](/WriteReadData/Photogallery/Picture30.jpg) ](/ViewAlbum.aspx)
+  * [ ![31](/WriteReadData/Photogallery/Picture31.jpg) ](/ViewAlbum.aspx)
+  * [ ![32](/WriteReadData/Photogallery/Picture32.jpg) ](/ViewAlbum.aspx)
+  * [ ![33](/WriteReadData/Photogallery/Picture33.jpg) ](/ViewAlbum.aspx)
+  * [ ![34](/WriteReadData/Photogallery/Picture34.jpg) ](/ViewAlbum.aspx)
+  * [ ![35](/WriteReadData/Photogallery/Picture35.jpg) ](/ViewAlbum.aspx)
+  * [ ![36](/WriteReadData/Photogallery/Picture36.jpg) ](/ViewAlbum.aspx)
+  * [ ![18](/WriteReadData/Photogallery/18.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/1.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/2.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/3.jpg) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/4.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/5.jpg) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/6.jpg) ](/ViewAlbum.aspx)
+  * [ ![7](/WriteReadData/Photogallery/7.jpg) ](/ViewAlbum.aspx)
+  * [ ![8](/WriteReadData/Photogallery/8.jpg) ](/ViewAlbum.aspx)
+  * [ ![9](/WriteReadData/Photogallery/9.jpg) ](/ViewAlbum.aspx)
+  * [ ![10](/WriteReadData/Photogallery/10.jpg) ](/ViewAlbum.aspx)
+  * [ ![11](/WriteReadData/Photogallery/11.jpg) ](/ViewAlbum.aspx)
+  * [ ![12](/WriteReadData/Photogallery/12.jpg) ](/ViewAlbum.aspx)
+  * [ ![13](/WriteReadData/Photogallery/13.jpg) ](/ViewAlbum.aspx)
+  * [ ![14](/WriteReadData/Photogallery/14.jpg) ](/ViewAlbum.aspx)
+  * [ ![15](/WriteReadData/Photogallery/15.jpg) ](/ViewAlbum.aspx)
+  * [ ![16](/WriteReadData/Photogallery/16.jpg) ](/ViewAlbum.aspx)
+  * [ ![17](/WriteReadData/Photogallery/17.jpg) ](/ViewAlbum.aspx)
+  * [ ![DSC01225](/WriteReadData/Photogallery/DSC01225.JPG) ](/ViewAlbum.aspx)
+  * [ ![DSC01230](/WriteReadData/Photogallery/DSC01230.JPG) ](/ViewAlbum.aspx)
+  * [ ![DSC01243](/WriteReadData/Photogallery/DSC01243.JPG) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-3-2006](/WriteReadData/Photogallery/envis_workshop-3-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-4-2006](/WriteReadData/Photogallery/envis_workshop-4-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-5-2006](/WriteReadData/Photogallery/envis_workshop-5-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-6-2006](/WriteReadData/Photogallery/envis_workshop-6-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-7-2006](/WriteReadData/Photogallery/envis_workshop-7-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-8-2006](/WriteReadData/Photogallery/envis_workshop-8-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![envis_workshop-9-2006](/WriteReadData/Photogallery/envis_workshop-9-2006.jpg) ](/ViewAlbum.aspx)
+  * [ ![MDA-2](/WriteReadData/Photogallery/MDA-2.jpg) ](/ViewAlbum.aspx)
+  * [ ![MDA-4](/WriteReadData/Photogallery/MDA-4.jpg) ](/ViewAlbum.aspx)
+  * [ ![MDA-KarimNagar-Collector-1](/WriteReadData/Photogallery/MDA-KarimNagar-Collector-1.jpg) ](/ViewAlbum.aspx)
+  * [ ![MDA-KarimNagar-Collector-3](/WriteReadData/Photogallery/MDA-KarimNagar-Collector-3.jpg) ](/ViewAlbum.aspx)
+  * [ ![MDA-KarimNagar-Collector-4](/WriteReadData/Photogallery/MDA-KarimNagar-Collector-4.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kids_icon.png)
+
+##  KIDS CENTER
+
+  * [ AN ENVIRONMENTAL AWARENES ](/KidsCentre/AN ENVIRONMENTAL AWARENES_1056.aspx)
+  * [ Frequently asked question ](/KidsCentre/Frequently asked question_1304.aspx)
+  * [ Frequently asked question ](/KidsCentre/Frequently asked question_1305.aspx)
+
+Last Updated:27/06/2016
+
+[ More&gt;&gt; ](/KidsCentre/AN ENVIRONMENTAL AWARENES_1056.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Bibliographyabout_img.jpg)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :05/01/2012
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon.png) ](http://india.gov.in
+"india.gov.in" )  
+  
+---  
+  
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandCSulabh_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer-Sulabh_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre on
+Bioinformatics-Vector Control  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

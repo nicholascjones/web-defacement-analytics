@@ -1,0 +1,606 @@
+[x] 
+
+|  |  |  **  **   
+---  
+  
+  
+|  [ ![English](images/imlang/blank.png) ](javascript:doTranslate\('th|en'\)
+"English" ) [ ![Chinese \(Simplified\)](images/imlang/blank.png)
+](javascript:doTranslate\('th|zh-CN'\) "Chinese \(Simplified\)" ) [ ![Chinese
+\(Traditional\)](images/imlang/blank.png) ](javascript:doTranslate\('th|zh-
+TW'\) "Chinese \(Traditional\)" ) [ ![French](images/imlang/blank.png)
+](javascript:doTranslate\('th|fr'\) "French" ) [
+![German](images/imlang/blank.png) ](javascript:doTranslate\('th|de'\)
+"German" ) [ ![Italian](images/imlang/blank.png)
+](javascript:doTranslate\('th|it'\) "Italian" ) [
+![Japanese](images/imlang/blank.png) ](javascript:doTranslate\('th|ja'\)
+"Japanese" ) [ ![Korean](images/imlang/blank.png)
+](javascript:doTranslate\('th|ko'\) "Korean" ) [
+![Portuguese](images/imlang/blank.png) ](javascript:doTranslate\('th|pt'\)
+"Portuguese" ) [ ![Russian](images/imlang/blank.png)
+](javascript:doTranslate\('th|ru'\) "Russian" ) [
+![Spanish](images/imlang/blank.png) ](javascript:doTranslate\('th|es'\)
+"Spanish" ) [ ![Vietnamese](images/imlang/blank.png)
+](javascript:doTranslate\('th|vi'\) "Vietnamese" ) [
+![Thai](images/imlang/blank.png) ](javascript:doTranslate\('th|th'\) "Thai" )
+Select Language  English  Arabic  Bulgarian  Chinese (Simplified)  Chinese
+(Traditional)  Croatian  Czech  Danish  Dutch  Finnish  French  German  Greek
+Hindi  Italian  Japanese  Korean  Norwegian  Polish  Portuguese  Romanian
+Russian  Spanish  Swedish  Catalan  Filipino  Hebrew  Indonesian  Latvian
+Lithuanian  Serbian  Slovak  Slovenian  Ukrainian  Vietnamese  Albanian
+Estonian  Galician  Hungarian  Maltese  Thai  Turkish  
+  
+---  
+  
+**  **  
+  
+---  
+[ ![](templates/cli3/images/menu/menu_01.png) ](index.php) |  [
+![](templates/cli3/images/menu/menu_02.png) ](?name=news) |  [
+![](templates/cli3/images/menu/menu_03.png) ](?name=webboard) |  [
+![](templates/cli3/images/menu/menu_04.png) ](?name=gallery) |  [
+![](templates/cli3/images/menu/menu_05.png) ](?name=gbook) |  [
+![](templates/cli3/images/menu/menu_06.png) ](?name=admin)  
+|  ![](templates/cli3/images/config/topbig.png)  
+---  
+|  |  |    
+---  
+|  |
+
+  * [  ](index.php)
+
+  
+---  
+  
+  * [  ](index.php?name=personnel&file=detail)
+
+  
+  
+  * [  ](index.php?name=gallery)
+
+  
+  
+  * [  ](index.php?name=gbook)
+
+  
+  
+  * [  ](index.php?name=calendar)
+
+  
+  
+  * [ / ](index.php?name=news)
+
+  
+  
+  * [  ](index.php?name=knowledge)
+
+  
+  
+  * [ / ](index.php?name=workboard)
+
+  
+  
+  * [  ](index.php?name=webboard)
+
+  
+  
+  * [  ](index.php?name=download)
+
+  
+  
+  * [  ](index.php?name=research)
+
+  
+  
+  * [ contact ](index.php?name=contact)
+
+  
+  
+  * [ blog ](index.php?name=blog)
+
+  
+  
+  * [ video ](index.php?name=video)
+
+  
+  
+  * [ Administrator ](index.php?name=admin "Administrator" )
+
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  ![](images/menu/graduatelogin.gif) |  Username :  |  
+---|---  
+Password :  |  
+![](capcha/val_img.php?width=60&height=25&characters=4) |  
+[ [  ] ](?name=member&file=index) | [ [  ]
+](?name=member&file=forget_pwd)  
+![](images/admin/members\[1\].png)   4    
+---  
+![](images/admin/i_member\[1\].gif)   0    
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |
+
+  
+  
+---  
+|  **  : ** |  
+---|---  
+|  ![](capcha/CaptchaSecurityImages.php?width=60&height=25&characters=4)  
+---  
+
+
+[ ![Close](modules/smiletag/images/delete_icon.gif)
+](javascript:hideSmileyWindow\(\);)
+
+|  [ ![:\)](modules/smiletag/images/smilies/smile.gif)
+](javascript:insertSmiley\(':\)'\);) |  [
+![:D](modules/smiletag/images/smilies/laugh.gif)
+](javascript:insertSmiley\(':D'\);) |  [
+![:\(](modules/smiletag/images/smilies/sad.gif)
+](javascript:insertSmiley\(':\('\);)  
+---|---|---  
+[ ![:o](modules/smiletag/images/smilies/shock.gif)
+](javascript:insertSmiley\(':o'\);) |  [
+![:p](modules/smiletag/images/smilies/tongue.gif)
+](javascript:insertSmiley\(':p'\);) |  [
+![;\)](modules/smiletag/images/smilies/wink.gif)
+](javascript:insertSmiley\(';\)'\);)  
+[ ![:|](modules/smiletag/images/smilies/blah.gif)
+](javascript:insertSmiley\(':|'\);) |  [
+![x\(](modules/smiletag/images/smilies/mad.gif)
+](javascript:insertSmiley\('x\('\);) |  [
+![:~](modules/smiletag/images/smilies/drool.gif)
+](javascript:insertSmiley\(':~'\);)  
+  
+[ () ](http://www.kongphet.pbn3.go.th)  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+poll  
+---  
+|  |  **
+
+
+
+* * *
+
+**
+
+  1.  
+  2.  
+  3.  
+  4.  
+  5.  
+
+[  vote
+](javascript:getpage\('index3.php?name=ajoxpoll&file=resultb&poll_id=1',
+'vote_msg'\);)  
+  
+---  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](images/fader.gif) |  ![](images/topfader.gif)  
+|
+
+|  |
+
+[ ![](images/random/kkcamp.jpg) ](index.php)
+
+[ ![](images/random/aa.jpg) ](index.php)
+
+[ ![](images/random/mom16.jpg) ](index.php)
+
+[ ![](images/random/momran.jpg) ](index.php)
+
+[ ![](images/random/mombn21.jpg) ](index.php)
+
+[ ![](images/random/eat.jpg) ](index.php)  
+  
+---  
+|  ![](images/pic/news-tl.gif) |  |  ![](images/pic/news-tr.gif)  
+---|---|---  
+|  ![](templates/cli3/images/menu/cli3_news1.png)  
+|
+
+![](images/17.png) [ ** [ 25/../2559 ] **  web
+site  ](index.php?name=news&file=readnews&id=9)  
+  
+---  
+  
+( 13 / )  admin
+
+![](images/17.png) [ ** [ 23/../2559 ] **
+ .
+](index.php?name=news&file=readnews&id=3)  
+  
+( 9 / )  admin
+
+![](images/17.png) [ ** [ 22/../2559 ] **
+ . 22  2559
+](index.php?name=news&file=readnews&id=2)  
+  
+( 8 / )  admin
+
+![](images/17.png) [ ** [ 19/../2559 ] **
+
+](index.php?name=news&file=readnews&id=1)  
+  
+( 10 / )  admin  [ ![](images/admin/2_15.gif)
+](index.php?name=news&category=1)  
+|  ![](images/pic/news-bl.gif) |  |  ![](images/pic/news-br.gif)  
+  
+|  /  
+---  
+|  |  |  **  ** |  **  ** |  **  ** |  ** % **  
+---|---|---|---  
+[ ![](images/admin/2_15.gif) ](index.php?name=workboard)  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  
+---  
+[ ![](images/rss.jpg) ](modules/rss/news.xml) |  [ ![](images/admin/2_15.gif)
+](index.php?name=news&category=2)  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  |  
+![](images/menu/textmenu_gallery.gif)  
+|  [ ![](images/admin/open.gif) **  Gallery   **
+](?name=gallery)  
+---  
+|  |  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1480436468/thb_PB220082.JPG)
+](?name=gallery&op=gallery_detail&id=22) |  
+|  |  
+** [   ](?name=gallery&op=gallery_detail&id=22) **  
+( 29/../2559 )  
+
+    
+  . . 
+... [ 
+](?name=gallery&op=gallery_detail&id=22)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1480427230/thb_PB250020.JPG)
+](?name=gallery&op=gallery_detail&id=21) |  
+|  |  
+** [    ](?name=gallery&op=gallery_detail&id=21) **  
+( 29/../2559 )  
+
+    
+  
+ ... [ 
+](?name=gallery&op=gallery_detail&id=21)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1479811828/thb_BigClean6.jpg)
+](?name=gallery&op=gallery_detail&id=19) |  
+|  |  
+** [   ](?name=gallery&op=gallery_detail&id=19) **  
+( 22/../2559 )  
+
+    
+  . . 
+... [ 
+](?name=gallery&op=gallery_detail&id=19)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1475162487/thb_sillapa27.jpg)
+](?name=gallery&op=gallery_detail&id=16) |  
+|  |  
+** [    ](?name=gallery&op=gallery_detail&id=16) **  
+( 29/../2559 )  
+
+   
+   
+
+... [ 
+](?name=gallery&op=gallery_detail&id=16)  
+  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/gallery/gal_1474541391/thb_silapa1.jpg)
+](?name=gallery&op=gallery_detail&id=15) |  
+|  |  
+** [   ](?name=gallery&op=gallery_detail&id=15) **  
+( 22/../2559 )  
+
+ 
+        . .
+ ... [  ](?name=gallery&op=gallery_detail&id=15)  
+  
+[ 14 ]  
+  
+  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+ /   
+---  
+|  |  |  |  ** 22 ** |   :  ** kannikar **  
+22/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=knowledge&id=10)
+[ ![](images/printButton.png) ](print.php?name=knowledge&file=readprint&id=10
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=knowledge&id=10)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=547524583fe3c085aca2.35469608) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](icon/knowledge_1479829652.jpg)
+](?name=knowledge&file=readknowledge&id=10)  
+![](images/a.gif) [ ** 15   **
+](?name=knowledge&file=readknowledge&id=10)  
+  
+
+** 15   **   
+  
+
+[ ](?name=knowledge&file=readknowledge&id=10)  
+|  ** 22 ** |   :  ** kannikar **  
+22/../2559  [ ![](images/pdf_button.png) ](createpdf.php?mo=knowledge&id=9)
+[ ![](images/printButton.png) ](print.php?name=knowledge&file=readprint&id=9
+"" ) [ ![](images/emailButton.png)
+](popup.php?name=sendmail&mo=knowledge&id=9)  
+---|---  
+|
+
+![Not Rated
+stars](modules/rater/img/00star.gif?x=548014583fe3c085cb34.79752120) (  Not
+Rated  /  0  )  
+  
+---  
+[ ![](icon/knowledge_1474543426.jpg)
+](?name=knowledge&file=readknowledge&id=9)  
+![](images/a.gif) [ ** ""  ... **
+](?name=knowledge&file=readknowledge&id=9)  
+  
+
+ 
+
+[ ](?name=knowledge&file=readknowledge&id=9)  
+  
+![](images/17.png) [ (6/../2559)  ** 10  
+  ** ](index.php?name=knowledge&file=readknowledge&id=8)  
+  
+( 10 / ) kannikar
+
+![](images/17.png) [ (2/../2559)  ** ""....  **
+](index.php?name=knowledge&file=readknowledge&id=7)  
+  
+( 29 / ) kannikar
+
+![](images/17.png) [ (2/../2559)  ** 6
+ **
+](index.php?name=knowledge&file=readknowledge&id=6)  
+  
+( 39 / ) kannikar
+
+![](images/17.png) [ (25/../2559)  **   
+** ](index.php?name=knowledge&file=readknowledge&id=5)  
+  
+( 9 / ) yupadee
+
+![](images/17.png) [ (25/../2559)  **  **
+](index.php?name=knowledge&file=readknowledge&id=4)  
+  
+( 6 / ) apus  |  [ ![](images/admin/2_15.gif)
+](index.php?name=knowledge&category=1)  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+ download  
+---  
+|  |  |  |  ![](images/admin/open.gif) [ ** [ 25/../2559 ] **  pre
+o-net  .  ](?name=download&file=readdownload&id=3)  
+---  
+( : 1 /  : 0 )  admin  ![](images/admin/open.gif) [ ** [
+19/../2559 ] **   ](?name=download&file=readdownload&id=1)  
+( : 1 /  : 0 )  admin  |  [ ![](images/admin/2_15.gif)
+](index.php?name=download)  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+|    
+---  
+|  |  
+
+** ![](images/icon/icon_folder.gif) [  ](?name=webboard) ![](images/icon/icon_add.gif) [  ](?name=webboard&file=post_cat) **
+
+  
+|  **  (/) ** |  **  ** |  **  **  
+---|---|---  
+![](images/icon/dok.gif) ** 00004 : ** [   
+](?name=webboard&file=read&id=4) (7/0)  |  ** kannikar  ** |  2 .. 2559 :
+19:02  
+![](images/icon/dok.gif) ** 00003 : ** [ 
+](?name=webboard&file=read&id=3) (3/0)  |  ** ![](images/human.gif) ** admin
+** ** |  19 .. 2559 : 11:48  
+  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+|  |  |    
+---  
+|  |  |  [ ![](images/personnel/thb_) ](images/personnel/) |  
+  
+---|---  
+  
+|  
+[  
+** **   
+](popup.php?name=personnel&file=popdetail&pid=)  
+|
+
+  * [ **  ** ](?name=personnel&file=gdetail&id=1&op=gdetail&gr=)
+
+  
+---  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=2&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=3&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=4&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=5&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=6&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=7&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=8&op=gdetail&gr=)
+
+  
+[ ![](images/admin/2_15.gif) ](index.php?name=personnel&file=detail)  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|
+
+[ **  ** ](index.php?name=calendar&file=index
+"" )
+
+|  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |
+
+[ ![](images/gallery/gal_1480436468/thb_PB220229.JPG)
+](index.php?name=gallery&file=readgal&id=228) ** PB220229.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220225.JPG)
+](index.php?name=gallery&file=readgal&id=227) ** PB220225.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220167.JPG)
+](index.php?name=gallery&file=readgal&id=226) ** PB220167.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220151.JPG)
+](index.php?name=gallery&file=readgal&id=225) ** PB220151.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220123.JPG)
+](index.php?name=gallery&file=readgal&id=224) ** PB220123.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220118.JPG)
+](index.php?name=gallery&file=readgal&id=221) ** PB220118.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220117.JPG)
+](index.php?name=gallery&file=readgal&id=220) ** PB220117.JPG **
+
+[ ![](images/gallery/gal_1480436468/thb_PB220116.JPG)
+](index.php?name=gallery&file=readgal&id=219) ** PB220116.JPG **  
+  
+---  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  
+|  ![](images/ip.gif) **  19/../2559 **  
+---  
+**  ** 1  IP  ** **  
+---  
+|
+
+|  ![](images/human.gif)   |
+
+1   
+  
+---|---  
+![](images/group2.gif)   |
+
+9   
+  
+![](images/group2.gif)   |
+
+  
+  
+![](images/see.gif)   |
+
+9   
+  
+![](images/member2.gif)   |
+
+197   
+  
+![](images/group.gif)   |
+
+197   
+  
+** IP  ** 66.254.248.70  ** **  
+  
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/1.gif)
+![](modules/useronline/styles/57chevy/9.gif)
+![](modules/useronline/styles/57chevy/7.gif)  
+(Show/hide IP)  
+  
+** |  66.254.248  .xxx  | 
+
+1/../2559  
+  
+---|---  
+**  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](templates/cli3/images/config/footer.png)  
+---  
+  
+**  **   
+  
+ LOAD  1.1500461101532  
+@2010-2012 under [ GNU General Public License
+](http://www.gnu.org/copyleft/gpl.html) Edit&amp;Applied; by [ Chudsagorn
+phikulthong ](http://maxtom.sytes.net/ "" )
+
+Power by : [ ATOMYMAXSITE 2.5 ](http://maxtom.sytes.net)
+

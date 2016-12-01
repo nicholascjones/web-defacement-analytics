@@ -1,0 +1,24 @@
+  * [ Inicio ](/index.php) / 
+  * Login 
+
+![](images/logo.png)
+
+Iniciar Sesin
+
+_ _
+
+_ _
+
+![](/index.php?r=site/captcha&v=583f71e283529) _ _
+
+_ Captcha _
+
+Ingresar
+
+* * *
+
+** Ministerio del Poder Popular para la Cultura **
+
+desarrollado cumpliendo con los lineamientos del [ Decreto N 3390
+](http://www.indepabis.gob.ve/descargas/leyes/decreto_3390_software_libre_impulsa_soberania_tecnologica)
+

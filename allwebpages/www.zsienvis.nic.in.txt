@@ -1,0 +1,240 @@
+Print  ![](images/cross-icon.png)
+
+JavaScript must be enabled in order for you to use the Site in standard view.
+However, it seems JavaScript is either disabled or not supported by your
+browser. To use standard view, enable JavaScript by changing your browser
+options, then [ ** try again ** ](<?php echo $this->webroot; ?> "try again" )
+.
+
+![](images/cross-icon.png)
+
+###  ![](../Admin/UploadedImage/Module_634525544815312500_Login.gif) PLEASE
+LOGIN TO CONTINUE
+
+Code:  [ ![](../images/refresh.png) ](javascript:refresh\('ifrId'\);) [ Help
+](Help.aspx) | New User? [ Sign-Up ](Sign_up.aspx?langid=1)
+
+  * Skip to main content 
+  * [ Accessibility Options ](AccessibilityOption.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](ScreenReader.aspx "Screen Reader Access " )
+  * Select Theme 
+  *     * [ ![Default/Normal Theme](images/normal.gif) ](javascript:__doPostBack\('ctl00$headerUC$themedef',''\) "normal" )
+    * [ ![Yellow Theme](images/yellow.gif) ](javascript:__doPostBack\('ctl00$headerUC$yelBlacktheme',''\) "yelBlack" )
+    * [ ![Blue Theme](images/blue.gif) ](javascript:__doPostBack\('ctl00$headerUC$yelBluetheme',''\) "yelBlue" )
+    * [ ![Fusia Theme](images/fusia.gif) ](javascript:__doPostBack\('ctl00$headerUC$fusiaBlacktheme',''\) "fusiaBlack" )
+    * [ ![Brown Theme](images/brown.gif) ](javascript:__doPostBack\('ctl00$headerUC$fusiaBrowntheme',''\) "fusiaBrown" )
+  * Text Size 
+  *     * [ ![Decrease](images/decrease.gif) ](javascript:__doPostBack\('ctl00$headerUC$SmallfontAnc',''\) "Smaller Size" )
+    * [ ![Default Size](images/normal-size.gif) ](javascript:__doPostBack\('ctl00$headerUC$DefaultfontAnc',''\) "Default Size" )
+    * [ ![Increase](images/increase.gif) ](javascript:__doPostBack\('ctl00$headerUC$BiggerfontAnc',''\) "Bigger Size" )
+  * [  ](javascript:__doPostBack\('ctl00$headerUC$ChangeLangAnchor',''\))
+
+![](images/ashok_logo.png) [ ![MOEF&CC](images/moef.png) ](Index.aspx "ENVIS
+Centre on Plants and Pollution" )
+
+#  ENVIS Centre on Faunal Diversity
+
+Hosted by [ Zoological Survey of India, Kolkata ](http://www.zsi.gov.in)
+
+Sponsored by [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India Forests ](http://www.moef.gov.in/)
+
+![](../writereaddata/UploadedImage/HeaderLogo_634576451292175514.png)
+![](images/envs-logo.png)
+
+  * [ Home ](Index.aspx "Home" )
+  * About Us 
+    * [ ENVIS Centre on Faunal Diversity ](StaticPage.aspx?id=7062 "ENVIS Centre on Faunal Diversity" )
+    * [ Host Organization ](StaticPage.aspx?id=165 "Host Organization" )
+    * [ Objectives ](StaticPage.aspx?id=166 "Objectives" )
+    * [ Editorial Board ](StaticPage.aspx?id=7064 "Editorial Board " )
+    * [ Achievements ](StaticPage.aspx?id=366 "Achievements" )
+  * ENVIS Network 
+    * [ Focal Point ](StaticPage.aspx?id=157 "Focal Point" )
+    * [ ENVIS Centres ](StaticPage.aspx?id=158 "ENVIS Centres" )
+    * [ Reports / Circulars ](StaticPage.aspx?id=8904 "Reports / Circulars" )
+  * Online Query 
+  * [ Experts ](ExpertsUser.aspx "Experts" )
+  * [ FAQs ](StaticPage.aspx?id=152 "FAQs" )
+  * Related Links 
+    * [ Biodiversity Boards ](StaticPage.aspx?id=6141 "Biodiversity Boards" )
+    * [ Indian Links ](StaticPage.aspx?id=6142 "Indian Links" )
+    * [ Foreign Links ](StaticPage.aspx?id=6143 "Foreign Links" )
+  * [ Site Map ](SiteMap.aspx "Site Map" )
+  * [ Feedback ](AddFeedback.aspx "Feedback" )
+  * [ Contact Us ](StaticPage.aspx?id=156 "Contact Us" )
+
+  
+
+###  ![](writereaddata/UploadedImage/Module_634525544815312500_Login.gif)
+Login
+
+Please Sign-In if you want to download.
+
+Code:  [ ![](../images/refresh.png) ](javascript:refresh\('ifrId1'\);) [ Help
+](Help.aspx?langid=1) | New User? [ Sign-Up ](../Sign_up.aspx?langid=1)
+
+###  ![](writereaddata/UploadedImage/Module_634479806637714844_news.gif)
+Publications
+
+  * [ Checklist of Indian Fauna ](../PublicationItemList.aspx?f=1&Lid=5178&cat=Checklist of Indian Fauna)
+  * [ Animal Discoveries of India ](../PublicationItemList.aspx?f=1&Lid=7404&cat=Animal Discoveries of India)
+  * [ NewsLetters ](../PublicationItemList.aspx?f=1&Lid=334&cat=NewsLetters)
+  * [ E-Journal PROMMALIA ](../PublicationItemList.aspx?f=1&Lid=2982&cat=E-Journal PROMMALIA)
+
+Last Update November 30, 2016
+
+[ more ](PublicationItemList.aspx?cat=more)
+
+###  ![](writereaddata/UploadedImage/Module_634816710562577083_000.jpg)
+Glossary
+
+This module is enriched with the glossary items related to the "Faunal
+Diversity".
+
+  
+[ View All ](UserGlossaryList.aspx)
+
+Last Update November 30, 2016
+
+[
+![Banner](../writereaddata/UploadImageThumbnail/ENVIS_634572500776553063_6.jpg)
+](EnvisSpecificMore.aspx?ID=905) ** [ ** ENVIS ZSI **
+](EnvisSpecificMore.aspx?ID=905) ** The Zoological Survey of India, the only
+taxonomic organization in the country involved in the study of all kinds of
+animals from Protozoa ..
+
+  * [ Faunal Information ](http://zsienvis.nic.in/SpeciesSearch.aspx)
+  * [ E-Journal Prommalia ](EnvisSpecificMore.aspx?ID=1878)
+  * [ National Zoological Collections ](http://zsienvis.nic.in/ZooCollectionSearch.aspx)
+  * [ Recruitment Notice (New) ](EnvisSpecificMore.aspx?ID=8063)
+
+[ more ](EnvisSpecificMore.aspx?ID=905)
+
+Last Update November 30, 2016
+
+###  ![](writereaddata/UploadedImage/Module_634479842721328125_Login.gif)
+Major Activities
+
+[ ![](../writereaddata/UploadedImage/Major
+Activities_634539799255748874_banner.jpg) ](UserMajorActivities.aspx?ID=2499)
+
+** [ Protected Areas and Conservation Areas of Indian States ](UserMajorActivities.aspx?ID=2499) **
+
+NP - National Park WLS - Wildlife Sanctuary BR - Biosp..  
+[ more ](../UserMajorActivities.aspx?ID=2499)
+
+Last Update April 15, 2016
+
+###  ![](writereaddata/UploadedImage/Module_634479805160664062_performance-
+report.gif) Upcoming Events
+
+Last Update June 23, 2016
+
+[ Past events ](UserEvents.aspx?pe=1&ID=1039)
+
+###  ![](writereaddata/UploadedImage/Module_634525543895000000_news.gif)
+Latest News
+
+[ ![](../writereaddata/UploadedImage/Latest News_634538147443683750_latest-
+news.jpg) ](UserLatestNews.aspx?ID=9840)
+
+** [ Animal in the News (November, 2016) ](UserLatestNews.aspx?ID=9840) **
+
+Daily update of Newspaper clippings on Faunal Diversity of India for t..  
+[ more ](../UserLatestNews.aspx?ID=9840)
+
+Last Update November 30, 2016
+
+[ Past News ](UserLatestNews.aspx?arc=1&ID=3511)
+
+###  ![](writereaddata/UploadedImage/Module_634479805947607422_glossary.gif)
+Performance Reports
+
+Select Year :  
+---  
+Select  2016 - 2017  2015 - 2016  2014 - 2015  2013 - 2014  2012 - 2013  2011
+- 2012  
+Select Parameter :  
+Select  Visitors Summary  Reports Read/Downloaded  Query Answer Statistics
+Total Website Updations  Newsletter/Books Updated  Subject Area Updated  
+[ Advanced Search ](PerformanceReport.aspx)  
+  
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/634855528925078868_1.jpg) ](PhotoGallery.aspx?catid=3) [ Mammals ](PhotoGallery.aspx?catid=3)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635074275392557587_16.jpg) ](PhotoGallery.aspx?catid=7) [ Arachnida ](PhotoGallery.aspx?catid=7)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635158755968450128_3.jpg) ](PhotoGallery.aspx?catid=18) [ Crustacea ](PhotoGallery.aspx?catid=18)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635223591338569631_Scolia\(Discolia\) cruenta.jpg) ](PhotoGallery.aspx?catid=19) [ Hymenoptera ](PhotoGallery.aspx?catid=19)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635243507206867766_Tibelocephala indica Walker.jpg) ](PhotoGallery.aspx?catid=20) [ Hemiptera ](PhotoGallery.aspx?catid=20)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635279821548920218_Hieroglyphus banian\(Fabricius,1798\).jpg) ](PhotoGallery.aspx?catid=21) [ Orthoptera ](PhotoGallery.aspx?catid=21)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635338631999153896_DSC07677.jpg) ](PhotoGallery.aspx?catid=22) [ Viewers Contribution ](PhotoGallery.aspx?catid=22)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635375799171304298_Junonia almana.jpg) ](PhotoGallery.aspx?catid=24) [ Lepidoptera ](PhotoGallery.aspx?catid=24)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635375761653997546_Grassland of trans Himalaya, Spiti- by Avtar Kaur Sidhu.jpg) ](PhotoGallery.aspx?catid=23) [ Ecosystem ](PhotoGallery.aspx?catid=23)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635447470509153628_THEREVIDAE.jpg) ](PhotoGallery.aspx?catid=4) [ Diptera ](PhotoGallery.aspx?catid=4)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635766188713555884_11.jpg) ](PhotoGallery.aspx?catid=5) [ Coleoptera ](PhotoGallery.aspx?catid=5)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635766188265750747_9.jpg) ](PhotoGallery.aspx?catid=29) [ Gastropoda ](PhotoGallery.aspx?catid=29)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635766186051817022_8.jpg) ](PhotoGallery.aspx?catid=28) [ Odonata ](PhotoGallery.aspx?catid=28)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635791316542715091_Pseudolaguvia magna Tamang & Sinha, 2014.jpg) ](PhotoGallery.aspx?catid=2) [ Fish ](PhotoGallery.aspx?catid=2)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635791310134781011_Leptobrachium bompu.jpg) ](PhotoGallery.aspx?catid=6) [ Amphibia ](PhotoGallery.aspx?catid=6)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635799194339825427_Chestnut-tailed Minla \(Minla strigula\).jpg) ](PhotoGallery.aspx?catid=1) [ Birds ](PhotoGallery.aspx?catid=1)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/635913251500453796_1914691_769699619832371_1489929575707947267_n.jpg) ](PhotoGallery.aspx?catid=26) [ Official Photographs ](PhotoGallery.aspx?catid=26)
+  * [ ![](../writereaddata/UploadedImage/PhotoGallery/Thumbnail/636022904393237022_15-Manouria emys_Abhijit das.jpg) ](PhotoGallery.aspx?catid=30) [ Reptilia ](PhotoGallery.aspx?catid=30)
+
+###  ![](writereaddata/UploadedImage/Module_634558636172426788_kids-
+center.gif) Kids Corner
+
+  * [ Your Space ](UserKidsCentreDetails.aspx?ID=3494)
+  * [ Spotted Owlet ](../writereaddata/UploadedFile/KidsSection_635348886041106410_Spotted Owlet.pdf "KidsSection_635348886041106410_Spotted Owlet.pdf" )
+  * [ Quiz on Faunal Diversity ](UserKidsCentreDetails.aspx?ID=5158)
+
+[ more ](UserKidsCentreDetails.aspx?ID=1135)
+
+Last Update October 21, 2016
+
+###
+![](writereaddata/UploadedImage/Module_634546158661231312_my_library_logo.png)
+Bibliography
+
+This section has the bibliographic details on the publications (Articles,
+Journals, Books, etc.) pertaining to "Faunal Diversity".
+
+  
+
+[ Advanced Search ](AdvanceBiblioSearch.aspx)
+
+Last Update November 30, 2016
+
+[ View All ](BiblioSearch.aspx?st=all)
+
+[ ![](../writereaddata/UploadedImage/bottombar_634528346176747965_portal.gif)
+](http://www.india.gov.in) [
+![](../writereaddata/UploadedImage/bottombar_635042314549422679_ZSI1.jpg)
+](http://www.zsi.gov.in) [
+![](../writereaddata/UploadedImage/bottombar_635042310408973739_MoEF.jpg)
+](http://www.moef.nic.in) [
+![](../writereaddata/UploadedImage/bottombar_635042319778724356_NBA.jpg)
+](http://www.nbaindia.org/) [
+![](../writereaddata/UploadedImage/bottombar_635042307043795759_CZA.jpg)
+](http://www.cza.nic.in/) [
+![](../writereaddata/UploadedImage/bottombar_635042326395150849_NCA.jpg)
+](http://www.projecttiger.nic.in) [
+![](../writereaddata/UploadedImage/bottombar_635675495050416149_Bhuvan.jpg)
+](http://bhuvan.nrsc.gov.in/)
+
+Site Visitors  84023
+
+  * [ Privacy Policy ](StaticPage.aspx?id=114)
+  * [ Copyright Policy ](StaticPage.aspx?id=137)
+  * [ Terms &amp; Conditions ](StaticPage.aspx?id=160)
+  * [ Hyperlink Policy ](StaticPage.aspx?id=161)
+  * [ Disclaimer ](StaticPage.aspx?id=162)
+  * [ FaceBook ](StaticPage.aspx?id=163)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/)
+
+Contents of this website is published and managed by ENVIS Centre of [
+Zoological Survey of India, Kolkata ](http://www.zsi.gov.in)
+
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

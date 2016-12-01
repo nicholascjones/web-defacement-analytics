@@ -1,0 +1,226 @@
+  * [ Home ](/index.aspx)
+  * | 
+  * [ Feedback ](/FeedBack.aspx)
+  * | 
+  * [ Sitemap ](/sitemapt.aspx)
+
+  * Skip to Main Content 
+  * | 
+  * [ Screen Reader Access ](ScreenReader.aspx "Screen Reader Access" )
+  * | 
+  *   *   *   * | 
+  *   *   *   * 
+
+[ Jammu and Kashmir State Pollution control Board ](/index.aspx)
+
+![Emblem](/images/emblem.png)
+
+![JK-logo](/images/jkGovt.jpg)
+
+  * [ Home  (Show/Hide the sub menu)  ](/index.aspx "Home Page" )
+  * [ About Us ](/Content/AboutUs.aspx?id=2)
+    * [ Introduction ](/Content/Introduction.aspx?id=204)
+    * [ Present Board ](/Content/PresentBoard.aspx?id=206)
+    * [ Organizational Structure ](/Content/OrganizationalStructure.aspx?id=207)
+    * [ Expertise of JKSPCB ](/Content/Expertise JKSPCB.aspx?id=208)
+  * [ Environmental Acts &amp; Rules ](/Content/EnvironmentalLaw.aspx?id=4)
+    * [ Water Act 1974 ](/Content/Water_Act.aspx?id=278)
+    * [ Water Rules 1975 ](/Content/WaterRules1974.aspx?id=307)
+    * [ Air Act 1981 ](/Content/Air_Act.aspx?id=279)
+    * [ EP Act 1986 ](/Content/EP_Act.aspx?id=280)
+    * [ Rules Under Environment Protection Act 1986 ](/Content/Rules_Notification.aspx?id=281)
+    * [ Public Liability Insurance Act 1991 ](/Content/PublicLiabilityInsuranceAct.aspx?id=308)
+    * [ Public Liability Insurance Rules ](/Content/PublicLiabilityInsuranceRules.aspx?id=309)
+    * [ National Environment Tribunal Act 1995 ](/Content/NationalEnvTribunalAct.aspx?id=310)
+    * [ National Green Tribunal Act ](/Content/GreenTribunalAct.aspx?id=311)
+    * [ Slaughter House Rules, 2001 ](/Content/Srules2001.aspx?id=327)
+    * [ Amendment to EIA Notification, 2009 ](/Content/AMENDMENTTOEIANOTIFICATION2009.aspx?id=346)
+  * [ Consent Management ](/Content/ConsentManagement.aspx?id=3)
+    * [ Revised Consent Fees Structure ](/Content/ConsentFees.aspx?id=386)
+    * [ Classification of Industrial Sectors ](/Content/ClassificationofIndustrialSectors.aspx?id=385)
+    * [ Consents issued from Head Office-Red &amp; Orange ](/Content/Redorangecategory.aspx?id=368)
+      * [ Consent Status Jan-2016 ](/Content/ConsentStatusJan2016.aspx?id=371)
+      * [ Consent Status Feb-2016 ](/Content/ConsentStatusFeb2016.aspx?id=372)
+      * [ Consent Status Mar-2016 ](/Content/ConsentStatusMar2016.aspx?id=375)
+      * [ Consent-Status Apr-2016 ](/Content/ConsentStatusApr2016.aspx?id=377)
+      * [ Consent Status May-2016 ](/Content/ConsentStatusMay2016.aspx?id=383)
+      * [ Consent Status June-2016 ](/Content/ConsentStatusJune2016.aspx?id=387)
+      * [ Consent-Status July-2016 ](/Content/ConsentStatusJuly2016.aspx?id=390)
+      * [ Consent Status Aug-2016 ](/Content/ConsentStatusAug2016.aspx?id=391)
+      * [ Consent Status Sep-2016 ](/Content/ConsentStatusSep2016.aspx?id=394)
+      * [ Consent -Status Oct-2016 ](/Content/ConsentStatusOct2016.aspx?id=397)
+      * [ Consent -Status Nov-2016 ](/Content/ConsentStatusNOV2016.aspx?id=399)
+    * [ Consents-Auth issued from RO Jammu ](/Content/ConsentsROJammu.aspx?id=369)
+      * [ Status of Green Category Feb-2016 ](/Content/greencategoryfeb2016.aspx?id=373)
+      * [ Status Of Green Category Mar-2016 ](/Content/STATUSOFGREENCATEGORYFEB2016.aspx?id=376)
+      * [ Status Of Green Category April-2016 ](/Content/StatusOfGreenCategoryApril2016.aspx?id=378)
+      * [ Status of Green Category May-2016 ](/Content/StatusofGreenCategoryMay2016.aspx?id=382)
+      * [ Status of Green Category June-2016 ](/Content/StatusofGreenCategoryJune2016.aspx?id=388)
+      * [ Status of Green Category July-2016 ](/Content/StatusofGreenCategoryJuly2016.aspx?id=389)
+      * [ Status of Green Category August-2016 ](/Content/StatusofGreenCategoryAugust2016.aspx?id=393)
+      * [ Status of Green Category September-2016 ](/Content/StatusofGreenCategorySeptember-2016.aspx?id=396)
+      * [ Status of Green Category October 2016 ](/Content/StatusofGreenCategoryOctober2016.aspx?id=398)
+      * [ Status of Green Category November 2016 ](/Content/StatusofGreenCategoryNovember2016.aspx?id=400)
+    * [ Authorization under e-waste Management ](/Content/Industry Locations.aspx?id=215)
+  * [ Guidelines ](/Content/IndustrialGuidelines.aspx?id=67)
+    * [ Labs Accredited for SMR ](/Content/GuideLines.aspx?id=220)
+    * [ Draft Guidelines for Slaughter Houses ](/Content/Slaughterhouses.aspx?id=326)
+    * [ Guidelines for implementation of E-Waste Rules ](/Content/GuidelinesE-Waste.aspx?id=336)
+    * [ Guidelines for MSW ](/Content/GuidelinesforMSW.aspx?id=342)
+    * [ Citizens Guidelines ](/Content/CitizensGuidelines.aspx?id=221)
+  * [ Environmental Data ](/Content/statistics.aspx?id=79)
+    * [ Environmental Standards ](/Content/EnvStandards.aspx?id=312)
+    * [ Ambient Air Quality Monitoring data ](/Content/Amibient.aspx?id=223)
+    * [ Ambient Water Quality Monitoring Data ](/Content/AmibientWater.aspx?id=224)
+    * [ Ambient Industrial Quality Monitoring Data ](/Content/AmibientIndustrial.aspx?id=225)
+    * [ Archive-Air Quality ](/Content/ArchiveAirQuality.aspx?id=374)
+  * [ Waste Management ](/Content/Waste.aspx?id=201)
+    * [ Hazardous Waste ](/Content/Hazardous.aspx?id=226)
+    * [ Biomedical Waste ](/Content/BiomedicalWaste.aspx?id=227)
+    * [ Plastic Waste ](/Content/Plastic.aspx?id=230)
+    * [ Electronic Waste ](/Content/Electronic.aspx?id=231)
+    * [ Municipal Solid Waste Management ](/Content/Municipal.aspx?id=320)
+      * [ Reports ](/Content/Reports.aspx?id=328)
+    * [ Fly Ash Utilisation ](/Content/Fly.aspx?id=229)
+    * [ Comprehensive Environmental Pollution Index ](/Content/Comprehensive.aspx?id=232)
+  * [ Notices ](/Content/Notices.aspx?id=7)
+    * [ Tender ](/Content/Tender.aspx?id=233)
+      * [ Tender Notice ](/Content/TenderNotice.aspx?id=335)
+    * [ Public Notices ](/Content/PublicNotices.aspx?id=234)
+      * [ Noise Pollution ](/Content/noisepollution.aspx?id=333)
+      * [ Health Care Facilities ](/Content/HealthCareEstablishment.aspx?id=334)
+      * [ E-Waste ](/Content/EWaste.aspx?id=337)
+      * [ Lead Acid Batteries-Returns ](/Content/NoticeunderBatteriesRules2001.aspx?id=344)
+      * [ Lead Acid Batteries Registration ](/Content/LeadAcidBatteriesRegistrations.aspx?id=392)
+    * [ Public Hearings ](/Content/PublicHearings.aspx?id=235)
+    * [ Orders and Circulars ](/Content/OrderandCircular.aspx?id=341)
+  * [ RTI ](/Content/RTI.aspx?id=6)
+    * [ RTI Handbook ](/Content/Rti_Act.aspx?id=305)
+    * [ RTI Act of J &amp; K ](/Content/RTIAct.aspx?id=237)
+    * [ Status of Appeal before Ist Appellate Authority ](/Content/Application.aspx?id=239)
+    * [ Details Of Public Information Officer ](/Content/Details.aspx?id=238)
+  * [ Contact Us ](/Content/Contactus.aspx?id=202)
+    * [ Central or Head Office ](/Content/Central.aspx?id=240)
+    * [ Regional Office ](/Content/RegionalOffice.aspx?id=241)
+    * [ District Offices ](/Content/DisticOffices.aspx?id=242)
+
+&lt; &gt;
+
+  * ![](/WriteReadData/Banner/Images/3.jpg)
+
+When we heal the earth, We heal ourselves
+
+  * ![](/WriteReadData/Banner/Images/5.jpg)
+
+Nature is a source of unlimited resources Preserve it
+
+  * ![](/WriteReadData/Banner/Images/6.jpg)
+
+Preserving rich natural resources promoting healthy environment
+
+  * ![](/WriteReadData/Banner/Images/Mansar_Lake.gif)
+
+It takes a lot of blue to stay green
+
+  * ![](/WriteReadData/Banner/Images/Untitled.png)
+
+Play your part, be water smart
+
+[ ![](/images/button.jpg)
+
+](http://jkocmms.nic.in/ "Online Consent Management" )
+
+##  News &amp; Events
+
+Stop
+
+Play
+
+    * [ Draft Service Rules of Jammu and Kashmir State Pollution Control Board ](Latest_Updates_Desc.aspx?catid=161 "Draft Service Rules of  Jammu and Kashmir State Pollution Control Board" ) ![Recent Events](/Images/newimg.jpg)
+    * [ An awareness workshop on Feasible technologies for processing of MSW in hilly areas ](Latest_Updates_Desc.aspx?catid=159 "An awareness workshop on Feasible technologies for processing of MSW in hilly areas" )
+    * [ Circular regading draft Recruitment Rules-Cadre wise review thereof ](Latest_Updates_Desc.aspx?catid=158 "Circular regading draft Recruitment Rules-Cadre wise review thereof" ) ![Recent Events](/Images/newimg.jpg)
+
+[ View All ](Latest_Updates.aspx)
+
+##  Vision of the Board
+
+  * [ ** The Jammu and Kashmir State Pollution Control Board has been establi..."&gt;
+
+** The Jammu and Kashmir State Pollution Control Board has been establi...  **
+
+** ](ModuleDesc.aspx?Mod_ID=1&ID=108 "<p style=" )
+
+[ Read More ](ModuleDesc.aspx?Mod_ID=1&ID=108)
+
+##  What's New
+
+  * [ Labs Accredited for SMR... ](ModuleDesc.aspx?Mod_ID=2&ID=147 "Labs  Accredited  for SMR..." )
+  * [ Notices served to defaulting Health Care Facilties... ](ModuleDesc.aspx?Mod_ID=2&ID=146 "Notices served to defaulting Health Care Facilties..." )
+  * [ Rules and Notification 2016... ](ModuleDesc.aspx?Mod_ID=2&ID=144 "Rules and Notification 2016..." )
+
+[ View All ](Modules.aspx?Mod_ID=2)
+
+##  E-Governance Initiatives
+
+  * [ Tender for procurement Laboratory items... ](ModuleDesc.aspx?Mod_ID=3&ID=153 "Tender for procurement Laboratory items..." )
+  * [ Development of CMS based new JKSPCB website and hosting with NIC... ](ModuleDesc.aspx?Mod_ID=3&ID=91 "Development of CMS based new JKSPCB website and hosting with NIC..." )
+  * [ More Transparency and effectiveness in board functioning for mon... ](ModuleDesc.aspx?Mod_ID=3&ID=88 "More Transparency and effectiveness in board functioning for mon..." )
+
+[ View All ](Modules.aspx?Mod_ID=3)
+
+##  Consent Status
+
+  * [ Consent-Auth issued from Regional Office Jammu... ](ModuleDesc.aspx?Mod_ID=4&ID=140 "Consent-Auth issued from Regional Office Jammu..." )
+  * [ Consents issued from Head Office-Red and Orange category... ](ModuleDesc.aspx?Mod_ID=4&ID=139 "Consents issued from Head Office-Red and Orange category..." )
+
+[ View All ](Modules.aspx?Mod_ID=4)
+
+  * [ Personnel MIS ](/Content/PersonnelMIS.aspx?id=266 "Personnel MIS" )
+    * [ Employees of PCB ](/Content/EmployeesofPCB.aspx?id=340 "Employees of PCB" )
+  * [ Drive against Polythene ](/Content/Drive.aspx?id=265 "Drive against Polythene" )
+    * [ Enforcement of Non-Biodegradable Act ](/Content/NonBiodegradableAct.aspx?id=343 "Enforcement of Non-Biodegradable Act" )
+  * [ Laboratories ](/Content/Laboratories.aspx?id=268 "Laboratories" )
+  * [ Environmental Awareness ](/Content/EnvironmentalAwarness.aspx?id=267 "Environmental Awareness" )
+  * [ Registered Recycler ](/Content/RegisteredRecycler.aspx?id=270 "Registered Recycler" )
+  * [ Monitoring &amp; Enforcement ](/Content/MonitoringEnforcement.aspx?id=269 "Monitoring & Enforcement" )
+  * [ SEIAA ](/Content/SEIAA.aspx?id=274 "SEIAA" )
+  * [ National Environment Policy 2006 ](/Content/National.aspx?id=271 "National Environment Policy 2006" )
+  * [ Financial Management ](/Content/FinancialManagement.aspx?id=273 "Financial Management" )
+  * [ Clean Tech. &amp; Climate Change ](/Content/Clean.aspx?id=275 "Clean Tech. & Climate Change" )
+
+[ Projects ](Modules.aspx?Mod_ID=5)
+
+[ Publications &amp; Reports ](Modules.aspx?Mod_ID=6)
+
+[ Zoning Atlas ](Zoning_Atlas.aspx)
+
+[ Media Gallery ](/MediaGallery.aspx)
+
+[ Public Complents ](Grievences.aspx)
+
+![Slideshow Image 1](/images/image1.jpg)
+
+  * [ ![India Porta](/images/jk_govt.jpg) ](http://jkgad.nic.in/)
+  * [ ![CPCB](/images/cpcb.jpg) ](http://cpcb.nic.in/)
+  * [ ![MOEF](/images/moef.gif) ](http://envfor.nic.in/)
+  * [ ![India Porta](/images/portal.jpg) ](http://india.gov.in/)
+
+  * [ FAQ's ](/Content/FAQ.aspx?id=66)
+  * | 
+  * [ Sitemap ](/sitemapt.aspx)
+  * | 
+  * [ Contact Us ](/Content/Contactus.aspx?id=202)
+  * | 
+  * [ Terms of Use ](/Terms.aspx?id=263)
+
+  * [ Archive ](/Content/Archive.aspx?id=44)
+|
+
+  * [ MediaGallery ](/Content/MediaGallery.aspx?id=193)
+|
+
+  * [ Related Link ](/Content/RelatedLink.aspx?id=276)
+
+Copyright  2012 :  Jammu and Kashmir State Pollution Control Board  . All
+Rights Reserved.
+

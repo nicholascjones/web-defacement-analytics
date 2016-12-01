@@ -1,0 +1,294 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF&CC" )
+
+#  ENVIS Centre On Avian Ecology
+
+Hosted by  [ Bombay Natural History Society (BNHS) ](http://www.bnhs.org "
+Bombay Natural History Society \(BNHS\)" )  
+Sponsored by  [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forests & Climate
+Change, Govt of India " )
+
+![ENVIS](/images/envis_logo.png)
+![FRI](/WriteReadData/ThemeImage/BNHS%20logo%20\(green\).jpg)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ BNHS-ENVIS ](/Content/Brochure_137.aspx)
+    * [ ENVIS Membership ](/Content/BNHSMembershipform_144.aspx)
+    * [ Pamphlet ](/writereaddata/ENVIS Pamphlet.pdf)
+  * [ About BNHS ](/Content/BNHS_17494.aspx)
+  * [ About ENVIS ](/Content/ENVIS_17495.aspx)
+
+* ENVIS Network 
+
+  * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+  * [ Focal Point ](/Content/focalpoint_496.aspx)
+
+* [ Online Query ](/Onlinequery.aspx)
+
+* [ Experts ](/Content/experts_120.aspx)
+
+* [ Feedback ](/Feedback.aspx)
+
+* [ Site Map ](/SiteMap.aspx)
+
+* [ FAQs ](/Content/FAQs_123.aspx)
+
+* [ Contact Us ](/Content/contactus_124.aspx)
+
+* 
+
+* Related Links 
+
+  * [ List of related links ](/Content/relatedlinks_843.aspx)
+
+* 
+
+![](WriteReadData/ModuleIcon/Login.jpg)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=189e25ee-c2a0-4808-ad12-b42c7aa761e7) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=635361877578290670)
+](CaptchaAudio.axd?guid=189e25ee-c2a0-4808-ad12-b42c7aa761e7)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ ** Forgot **
+](javascript:__doPostBack\('ctl00$ContentPlaceHolder1$Home1$btnForgot',''\))
+
+[ Help ](/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/school_books_0071-0907-2807-3508_SMU.jpg)
+
+##  PUBLICATION
+
+  * [ Books ](PublicationCommon.aspx?LinkId=752)
+  * [ Pamphlet ](PublicationCommon.aspx?LinkId=753)
+  * [ Newsletter ](PublicationCommon.aspx?LinkId=754)
+
+Last Updated:18/10/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/glossary-icon-lg.jpg)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:28/09/2016
+
+![](/WriteReadData/ModuleImage/Graphic3.jpg)
+
+##
+
+BNHS ENVIS Centre on Avian Ecology is established under Environmental
+Information System (ENVIS) programme of the Ministry of Environment and
+Forests Govt. of India in the area of Avian Ecology.
+
+  * [ Marine Birds of India (BirdLife International 2015) ](/Database/MarineBirdsIndia_837.aspx)
+  * [ Endemic Birds Day Special ](/Database/2015_17327.aspx)
+  * [ Bird Sanctuaries in India ](/Database/2015_17314.aspx)
+
+Last Updated:22/11/2016
+
+[ More &gt;&gt; ](/Database/MarineBirdsIndia_837.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/Vulture%20release%20-%20Copy.jpg) [ Shrinking
+habitat pus.. ](ViewGeneralLatestNews.aspx?Id=17621&Year=2016 "Details" )
+
+[ Great Indian Bustard .. ](ViewGeneralLatestNews.aspx?Id=17618&Year=2016
+"Details" )
+
+Last Updated:02/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/PTO%20meeting%20clip%20art.jpg)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/small.jpg)
+
+  * [ Wildlife week 2016.. ](/ViewMajorActivity.aspx?Id=17619&Year=2016)
+  * [ Visit of students of A.. ](/ViewMajorActivity.aspx?Id=17491&Year=2016)
+  * [ Flamingo Festival 2015.. ](/ViewMajorActivity.aspx?Id=17307&Year=2016)
+
+Last Updated:18/10/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/January.png)
+
+##  UPCOMING EVENTS
+
+  * [ (New)* Salim Ali Bird Count.... ](ViewEvents.aspx?Id=17622&Year=2016)
+  * [ (New*) 7th International Ho.... ](ViewEvents.aspx?Id=17611&Year=2016)
+  * [ BNHS to hold pan-India Baya.... ](ViewEvents.aspx?Id=17575&Year=2016)
+
+Last Updated:17/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Business-Graph-Icon-Final_550.jpg)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![Wildlife Week 2016](/WriteReadData/Photogallery/Wildlife week.jpg) ](/ViewAlbum.aspx)
+  * [ ![Wildlife Week 2016](/WriteReadData/Photogallery/Wildlife week1.jpg) ](/ViewAlbum.aspx)
+  * [ ![International Coastal Clean Up Day](/WriteReadData/Photogallery/Coastel Cleanup Day small.jpg) ](/ViewAlbum.aspx)
+  * [ ![ World Nature Conservation Day](/WriteReadData/Photogallery/Vulture poster.jpg) ](/ViewAlbum.aspx)
+  * [ ![ World Nature Conservation Day](/WriteReadData/Photogallery/Vulture poster2.jpg) ](/ViewAlbum.aspx)
+  * [ ![World Day to Combat Desertification](/WriteReadData/Photogallery/WCDD.jpg) ](/ViewAlbum.aspx)
+  * [ ![World Ocean Day](/WriteReadData/Photogallery/WOD3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Backyard bird photo competition](/WriteReadData/Photogallery/New Picture.jpg) ](/ViewAlbum.aspx)
+  * [ ![International day of biological diversity](/WriteReadData/Photogallery/biodiversity_day.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mother Earth Day](/WriteReadData/Photogallery/Mother Earth English.jpg) ](/ViewAlbum.aspx)
+  * [ ![ Flamingo Festival 2016](/WriteReadData/Photogallery/IMG_20160305_152946.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(82\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(134\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(120\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(139\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(128\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(174\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/Picture by Noor Khan \(180\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Flamingo Festival 2016](/WriteReadData/Photogallery/IMG_20160305_151749.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of Patkar college students](/WriteReadData/Photogallery/Programm Officer explaining the ENVIS website.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival](/WriteReadData/Photogallery/Flamingofestival Indianexpress.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kite festival](/WriteReadData/Photogallery/new \(2\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Kite festival](/WriteReadData/Photogallery/kites of india copy copy.JPG) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/IMG_20151208_134751606.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/DPP_0434.JPG) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/IMG_20151208_134405688.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/IMG_20151208_135044454.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of students of ASPEE College of Horticulture and Forestry](/WriteReadData/Photogallery/4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bird Talk](/WriteReadData/Photogallery/Talk.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bird nesting video](/WriteReadData/Photogallery/Vedio.jpg) ](/ViewAlbum.aspx)
+  * [ ![Information Officer Explaining the ENVIS Website](/WriteReadData/Photogallery/website1.jpg) ](/ViewAlbum.aspx)
+  * [ ![Information Officer Explaining the ENVIS Website](/WriteReadData/Photogallery/website 3.jpg) ](/ViewAlbum.aspx)
+  * [ ![Information Officer Explaining about Website](/WriteReadData/Photogallery/website4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Students registering for BUCEROS Newsletter](/WriteReadData/Photogallery/registration.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visitor from Gujarat](/WriteReadData/Photogallery/IMG_20141121_131004.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visitor from Gujarath](/WriteReadData/Photogallery/IMG_20141121_131112.jpg) ](/ViewAlbum.aspx)
+  * [ ![Visit of Dr. Goldin Quadros, ENVIS Coordinator, SACON](/WriteReadData/Photogallery/100_4693.JPG) ](/ViewAlbum.aspx)
+  * [ ![visit of SACON ENVIS Coordinator](/WriteReadData/Photogallery/100_4694.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Nature Conservation Day](/WriteReadData/Photogallery/WNCD.jpg) ](/ViewAlbum.aspx)
+  * [ ![4th advisory committee meeting](/WriteReadData/Photogallery/100_4688.JPG) ](/ViewAlbum.aspx)
+  * [ ![4th advisory committee meeting](/WriteReadData/Photogallery/100_4689.JPG) ](/ViewAlbum.aspx)
+  * [ ![Andaman Woodpecker](/WriteReadData/Photogallery/Asif \(Andaman Woodpecker\).jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/4.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/5.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/6.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/7.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/2.jpg) ](/ViewAlbum.aspx)
+  * [ ![Flamingo festival 2015](/WriteReadData/Photogallery/3.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS participation in Flamingo festival 2015](/WriteReadData/Photogallery/1.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS center promotion in Workshop on Conservation of Wildlife in Deccan Plateau ](/WriteReadData/Photogallery/Pratik Tambe \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Mr. Pratik Tambe promoting ENVIS, BNHS](/WriteReadData/Photogallery/Pratik Tambe \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Black-crested Bulbul](/WriteReadData/Photogallery/Black-crested Bulbul Pycnonotus flaviventris.jpg) ](/ViewAlbum.aspx)
+  * [ ![Indian Skimmer](/WriteReadData/Photogallery/Indian Skimmer Rynchops albicollis.jpg) ](/ViewAlbum.aspx)
+  * [ ![Himalayan Vulture and Crows](/WriteReadData/Photogallery/Himalayan Vulture and Crows.jpg) ](/ViewAlbum.aspx)
+  * [ ![Point Calimere Wildlife Sanctuary](/WriteReadData/Photogallery/Point Calimere Wildlife Sanctuary.jpg) ](/ViewAlbum.aspx)
+  * [ ![Rain Quail](/WriteReadData/Photogallery/Rain Quail.jpg) ](/ViewAlbum.aspx)
+  * [ ![ENVIS Advisory Committee meeting 2014](/WriteReadData/Photogallery/ENVIS Meeting, BNHS, Photo by Parveen  Saikh 19 nov 2014 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![SCCS conference 2014](/WriteReadData/Photogallery/DSCN3970.JPG) ](/ViewAlbum.aspx)
+  * [ ![SCCS conference 2014](/WriteReadData/Photogallery/DSCN3986.JPG) ](/ViewAlbum.aspx)
+  * [ ![SCCS conference 2014](/WriteReadData/Photogallery/DSCN3989.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/ENVIS staff at Flamingo Festival, 2013.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 2](/WriteReadData/Photogallery/P1220703.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 4](/WriteReadData/Photogallery/P1220650.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 4](/WriteReadData/Photogallery/IMG_8243.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic1](/WriteReadData/Photogallery/Villager-from-Mardi.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic2](/WriteReadData/Photogallery/participants-at-the-worksho.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 3](/WriteReadData/Photogallery/Jagdish-Patil,-District-Col.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 4](/WriteReadData/Photogallery/Sujjt-Narwade-addressing-th.jpg) ](/ViewAlbum.aspx)
+  * [ ![pic 3](/WriteReadData/Photogallery/DSC_0293.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/Icon_KinderApp50percent.png)
+
+##  KIDS CENTER
+
+  * [ Find the bird ](/KidsCentre/Find the bird_17479.aspx)
+  * [ Bird of the Month, Decemb ](/KidsCentre/Bird of the Month, Decemb_17473.aspx)
+  * [ Bird of the Month, Novemb ](/KidsCentre/Bird of the Month, Novemb_17454.aspx)
+  * [ Bird of the Month, Septem ](/KidsCentre/Bird of the Month, Septem_17417.aspx)
+
+Last Updated:07/12/2015
+
+[ More&gt;&gt; ](/KidsCentre/Find the bird_17479.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :26/02/2015
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\).png) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nic.in_banner.png) ](http://http://www.nic.in/
+"http://www.nic.in/" )  
+  
+---|---  
+  
+##  Total Visitor:  676871
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre On Avian
+Ecology  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

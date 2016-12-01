@@ -1,0 +1,290 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF" )
+
+#  ENVIS Centre on Toxic Chemicals
+
+Hosted by  [ Indian Institute of Toxicology Research, Lucknow
+](http://www.iitrindia.org " Indian Institute of Toxicology Research, Lucknow"
+)  
+Sponsored by  [ Ministry of Environment and Forests, Govt of India
+](http://moef.nic.in " Ministry of Environment and Forests, Govt of India" )
+
+![ENVIS](/images/envis_logo.png) ![NBRI](/WriteReadData/ThemeImage/CSIR-
+LOGO.gif)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ About ENVIS ](/Content/AboutENVIS_1749.aspx)
+    * [ Organizational Structure ](/Content/OrganizationalStructure_1750.aspx)
+    * [ CSIR-IITR ENVIS Centre Objectives ](/Content/ENVIS_Objectives_3267.aspx)
+    * [ CSIR-IITR Objectives ](/Content/IITR_objective_3559.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+    * [ International Experts ](/Content/Iexperts_3186.aspx)
+    * [ National Experts ](/Content/nexp_3187.aspx)
+    * [ Advisory Committee ](/Content/Advisory_Committee_3430.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * Related Links 
+    * [ List of Related Links ](/Content/Related_Links_1624.aspx)
+
+![](WriteReadData/ModuleIcon/Login.jpg)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=fa3487fc-44ee-4254-ab31-d71c61048a87) [ ![Play
+Audio](/WebResource.axd?d=ka7D_1OgAWVfHqa6oDy3caLSIBBateUTRS8lkMp5wK9zN4uTW4LoaaXLMksNzBId1EBIeQZi6_RMhMK_oKF1LnZ3M8GcOumEHT1GixktFPeBLVpupaVhIs861pzqpi_V9iVDzw2&t=635572754665585412)
+](CaptchaAudio.axd?guid=fa3487fc-44ee-4254-ab31-d71c61048a87)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" ) [ Help ](/Help.aspx "Help" ) [ ** Forgot
+**
+](javascript:__doPostBack\('ctl00$ContentPlaceHolder1$Home1$btnForgot',''\))
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  PUBLICATION
+
+  * [ Abstracts ](PublicationCommon.aspx?LinkId=632)
+  * [ Research Publications ](PublicationCommon.aspx?LinkId=633)
+  * [ Newsletters ](PublicationCommon.aspx?LinkId=629)
+
+Last Updated:25/11/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/glossary-icon-lg.jpg)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:25/11/2016
+
+![](/WriteReadData/ModuleImage/ENVIS_634573257640793221_home-bio-waste-01.jpg)
+
+##
+
+ENVIS Centre at IITR established in 1984 is a network partner with the focal
+point at the Ministry of Environment &amp; Forests, Government of India, New
+Delhi.
+
+  * [ National Green Tribunal Rules ](/Database/N_G_T_3181.aspx)
+  * [ Did You Know ? ](/Database/dyk_3183.aspx)
+  * [ News and Views ](/Database/news_and_views_3188.aspx)
+
+Last Updated:28/07/2016
+
+[ More &gt;&gt; ](/Database/N_G_T_3181.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news-icon.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/1456844365_icon-70.png) [ Raid to Check
+Adulter.. ](ViewGeneralLatestNews.aspx?Id=3788&Year=2016 "Details" )
+
+[ Non-smokers too at ri.. ](ViewGeneralLatestNews.aspx?Id=3787&Year=2016
+"Details" )
+
+Last Updated:25/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/activity_icon.gif)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/rsz_major_activity.png)
+
+  * [ World Environment Day-.. ](/ViewMajorActivity.aspx?Id=3729&Year=2016)
+  * [ Mass Awareness Program.. ](/ViewMajorActivity.aspx?Id=3734&Year=2016)
+  * [ Swachh Bharat Pakhwada.. ](/ViewMajorActivity.aspx?Id=3727&Year=2016)
+
+Last Updated:25/11/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/new-8_e0.gif)
+
+##  UPCOMING EVENTS
+
+  * [ 9th Global Conference on He.... ](ViewEvents.aspx?Id=3784&Year=2016)
+
+Last Updated:25/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Business-Graph-Icon-Final_550.jpg)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01599JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01627JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01592JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01639JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01652JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01668JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01674JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01676JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01687JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![Mass Awareness Program in the village GARHI, Near Lucknow](/WriteReadData/Photogallery/DSC01599JPG.jpg) ](/ViewAlbum.aspx)
+  * [ ![image2](/WriteReadData/Photogallery/rsz_dsc_6416.jpg) ](/ViewAlbum.aspx)
+  * [ ![image3](/WriteReadData/Photogallery/rsz_dsc_6469.jpg) ](/ViewAlbum.aspx)
+  * [ ![image4](/WriteReadData/Photogallery/rsz_dsc_6790.jpg) ](/ViewAlbum.aspx)
+  * [ ![image1](/WriteReadData/Photogallery/rsz_1dsc_5162.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/_DSC8803.JPG) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/_DSC8807.JPG) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/_DSC8824.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/10419747_968093309943394_1729101504_n.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/10705334_968086919944033_1126459473_n.jpg) ](/ViewAlbum.aspx)
+  * [ ![Our Director Dr. Alok Dhawan presenting Momento to Dr. Marthanda Varma Sankaran Valiathan](/WriteReadData/Photogallery/DSC_1118.JPG) ](/ViewAlbum.aspx)
+  * [ ![Indian Institute of Toxicology Research](/WriteReadData/Photogallery/DSC_0911.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/envis_visit.jpg) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/5.JPG) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/1.JPG) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/6.JPG) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/4.JPG) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/3.JPG) ](/ViewAlbum.aspx)
+  * [ ![Warm welcome to new director ](/WriteReadData/Photogallery/DSC_5325.JPG) ](/ViewAlbum.aspx)
+  * [ ![Director](/WriteReadData/Photogallery/DSC04195.JPG) ](/ViewAlbum.aspx)
+  * [ ![Selfie with Director](/WriteReadData/Photogallery/DSC04217.JPG) ](/ViewAlbum.aspx)
+  * [ ![Team CSIR Lucknow](/WriteReadData/Photogallery/DSC_6445.JPG) ](/ViewAlbum.aspx)
+  * [ ![Prof. Alok Dhawan, takes charge as new Director of CSIR-IITR](/WriteReadData/Photogallery/DSC03973.JPG) ](/ViewAlbum.aspx)
+  * [ ![Interaction with CSIR-IITR Staff](/WriteReadData/Photogallery/DSC_5353.JPG) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/6_15.JPG) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/5_15.JPG) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/4_15.JPG) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/p3.JPG) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/2.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/p1_15.JPG) ](/ViewAlbum.aspx)
+  * [ ![Clean India Campaign](/WriteReadData/Photogallery/2_1.JPG) ](/ViewAlbum.aspx)
+  * [ ![Clean Environment](/WriteReadData/Photogallery/2_2.JPG) ](/ViewAlbum.aspx)
+  * [ ![Clean India](/WriteReadData/Photogallery/2_3.JPG) ](/ViewAlbum.aspx)
+  * [ ![Cleanliness Drive](/WriteReadData/Photogallery/2_4.JPG) ](/ViewAlbum.aspx)
+  * [ ![Cleanliness Drive](/WriteReadData/Photogallery/2_5.JPG) ](/ViewAlbum.aspx)
+  * [ !["Clean India Campaign" Poster ](/WriteReadData/Photogallery/cm1.JPG) ](/ViewAlbum.aspx)
+  * [ ![Cleanliness Drive](/WriteReadData/Photogallery/2.JPG) ](/ViewAlbum.aspx)
+  * [ ![Cleanliness Drive Poster](/WriteReadData/Photogallery/cm2.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/634813408813997453_1.JPG) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/634813414191805046_3.JPG) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/634813413934090306_2.JPG) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/634813414491152168_4.JPG) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/634813414790059264_5.JPG) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/634813415004391524_6.JPG) ](/ViewAlbum.aspx)
+  * [ ![7](/WriteReadData/Photogallery/634813415233854648_7.JPG) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/634817998237427872_101.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/634817998457890481_102.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/634817998713715114_103.jpg) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/634817998959149152_104.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/634817999219794060_105.jpg) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/634951415328613012_Charbagh.jpg) ](/ViewAlbum.aspx)
+  * [ ![1](/WriteReadData/Photogallery/634817719542047408_1.jpg) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/634817721190411689_2.JPG) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/634817722260442891_3.JPG) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/634817723134762899_4.JPG) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/634817725134887300_5.JPG) ](/ViewAlbum.aspx)
+  * [ ![6](/WriteReadData/Photogallery/634817725443554955_6.JPG) ](/ViewAlbum.aspx)
+  * [ ![2](/WriteReadData/Photogallery/635134626595147923_2.jpg) ](/ViewAlbum.aspx)
+  * [ ![3](/WriteReadData/Photogallery/635134623537998107_3.jpg) ](/ViewAlbum.aspx)
+  * [ ![4](/WriteReadData/Photogallery/635134623679516243_4.jpg) ](/ViewAlbum.aspx)
+  * [ ![5](/WriteReadData/Photogallery/635134623799008909_5.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/Icon_KinderApp50percent.png)
+
+##  KIDS CENTER
+
+  * [ Brochure on Cancer ](/KidsCentre/Brochure on Cancer_1771.aspx)
+  * [ Important Annual Days ](/KidsCentre/Important Annual Days_1772.aspx)
+  * [ Painting Competition On W ](/KidsCentre/Painting Competition On W_1773.aspx)
+
+Last Updated:01/03/2016
+
+[ More&gt;&gt; ](/KidsCentre/Brochure on Cancer_1771.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :25/11/2016
+
+[ ![](WriteReadData/FooterIcon/indiaportal2.gif) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bottombar_634950660536980994_govt%20site.png)
+](http://www.upgov.nic.in "www.upgov.nic.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/bhuvan.png)
+](http://bhuvan.nrsc.gov.in/bhuvan_links.php
+"bhuvan.nrsc.gov.in/bhuvan_links.php" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/ncsjp.jpg)
+](http://www.ncs.gov.in/Pages/default.aspx "www.ncs.gov.in/Pages/default.aspx"
+)
+
+|
+
+[ ![](WriteReadData/FooterIcon/facebook_2015_logo_detail.png)
+](http://www.facebook.com/iitrenvis/ "www.facebook.com/iitrenvis/" )  
+  
+---|---|---|---|---  
+  
+##  Total Visitor:  382286
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Disclaimer ](/Content/Discalimer_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  ENVIS Centre on Toxic
+Chemicals  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

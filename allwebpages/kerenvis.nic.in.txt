@@ -1,0 +1,352 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![Hariyali](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF&CC" )
+
+#  ENVIS Centre: Kerala  
+State of Environment and Related Issues
+
+Hosted by  [ Kerala State Council for Science, Technology and Environment
+](http://www.kscste.kerala.gov.in/ " Kerala State Council for Science,
+Technology and Environment" )  
+Sponsored by  [ Ministry of Environment, Forests &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forests & Climate
+Change, Govt of India " )
+
+![ENVIS](/images/envis_logo.png)
+![KERALA](/WriteReadData/ThemeImage/sulabh_logo.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ Introduction ](/Content/Introduction_137.aspx)
+    * [ Institute ](/Content/Institute_2210.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/ENVISCentres_491.aspx)
+    * [ Focal Point ](/Content/Focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+    * [ FAQ ](/Content/FAQ_1783.aspx)
+  * [ Experts ](/Content/Experts_120.aspx)
+  * [ Legislation ](/Content/StateNational_123.aspx)
+    * [ Policy ](/Content/Policy_1787.aspx)
+    * [ Notifications &amp; Orders ](/Content/notificationsorders_1795.aspx)
+    * [ Coastal Zone Management Plan ](/Content/coastalzonemanagementplan_1851.aspx)
+  * [ Related Links ](/Content/State_386.aspx)
+    * [ State ](/Content/State_1777.aspx)
+    * [ National ](/Content/National_1779.aspx)
+    * [ International ](/Content/International_1781.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Contact ](/Content/Contact_124.aspx)
+
+![](WriteReadData/ModuleIcon/login_icon.png)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=1cc8ffb1-5964-4ba5-8aee-0b6f730f04e8) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=634710366974258066)
+](CaptchaAudio.axd?guid=1cc8ffb1-5964-4ba5-8aee-0b6f730f04e8)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](Content/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/publication_icon.png)
+
+##  PUBLICATION
+
+  * [ KSCSTE Reports ](PublicationCommon.aspx?LinkId=810)
+  * [ ENVIS Annual Reports ](PublicationCommon.aspx?LinkId=816)
+  * [ ENVIS Newsletters ](PublicationCommon.aspx?LinkId=845)
+
+Last Updated:24/11/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Glossaryglossary_icon.png)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:11/11/2015
+
+##  KERALA: STATE OF ENVIRONMENT AND RELATED ISSUES
+
+  * [ Agriculture ](/Database/Agriculture_828.aspx)
+  * [ Air Pollution ](/Database/Air_Pollution_835.aspx)
+  * [ Biodiversity ](/Database/BIODIVERSITY_824.aspx)
+  * [ Climate ](/Database/CLIMATE_811.aspx)
+  * [ Demography ](/Database/Demography_1059.aspx)
+  * [ Disaster ](/Database/DISASTER_826.aspx)
+  * [ Energy ](/Database/Energy_1058.aspx)
+  * [ Forest ](/Database/FOREST_819.aspx)
+  * [ Industry ](/Database/Industry_829.aspx)
+  * [ Infrastructure ](/Database/INFRASTRUCTURE_812.aspx)
+  * [ Land ](/Database/Land_817.aspx)
+  * [ Rivers ](/Database/Rivers_1073.aspx)
+  * [ Soil ](/Database/Soil_818.aspx)
+  * [ Tourism &amp; Heritage ](/Database/Tourism_and_Heritage_832.aspx)
+  * [ Wasteland ](/Database/Wasteland_1054.aspx)
+  * [ Water ](/Database/WATER_820.aspx)
+  *   * ** [ ISBEID Report ](isbeid.aspx) **
+
+Last Updated:26/11/2016
+
+[ More &gt;&gt; ](/Database/ISBEID_808.aspx "More" )
+
+![](WriteReadData/ModuleIcon/new5x2.GIF)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/latest.JPG)
+
+  * [ Well water recharge t.. ](/ViewGeneralLatestNews.aspx?Id=2327&Year=2016)
+  * [ Bio-mining helps in t.. ](/ViewGeneralLatestNews.aspx?Id=2323&Year=2016)
+  * [ Dams close to glacial.. ](/ViewGeneralLatestNews.aspx?Id=2317&Year=2016)
+
+Last Updated:26/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/activity.JPG)
+
+  * [ Environmental monitor.. ](/ViewMajorActivity.aspx?Id=1771&Year=2014)
+  * [ Training program on En.. ](/ViewMajorActivity.aspx?Id=1755&Year=2014)
+  * [ Preparation of SoE Rep.. ](/ViewMajorActivity.aspx?Id=1072&Year=2014)
+
+Last Updated:04/02/2015
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2014&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  UPCOMING EVENTS
+
+  * [ Kerala Science Congress.... ](ViewEvents.aspx?Id=2326&Year=2016)
+  * [ NCSC 2016.... ](ViewEvents.aspx?Id=2162&Year=2016)
+
+Last Updated:09/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Annual%20Performance%20Reportnews_img.png)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014  2012-2013  2011-2012
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0982.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0983.JPG) ](/ViewAlbum.aspx)
+  * [ ![Wold Environment Day 2016](/WriteReadData/Photogallery/IMG_0932.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0997.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0993.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0979.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0973.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0968.JPG) ](/ViewAlbum.aspx)
+  * [ ![Wold Environment Day 2016](/WriteReadData/Photogallery/IMG_0972.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0960.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0947.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0939.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day 2016](/WriteReadData/Photogallery/IMG_0930.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Environment Day](/WriteReadData/Photogallery/IMG_0924.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day](/WriteReadData/Photogallery/IMG_0654.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0658.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day2016](/WriteReadData/Photogallery/IMG_0663.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0669.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day](/WriteReadData/Photogallery/IMG_0677.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day](/WriteReadData/Photogallery/IMG_0679.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0681.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0694.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0695.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0702.JPG) ](/ViewAlbum.aspx)
+  * [ ![World Earth Day 2016](/WriteReadData/Photogallery/IMG_0703.JPG) ](/ViewAlbum.aspx)
+  * [ ![SECAS](/WriteReadData/Photogallery/IMG_20160318_110013.jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS](/WriteReadData/Photogallery/IMG_20160318_103310.jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS](/WriteReadData/Photogallery/IMG_20160318_103002.jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS](/WriteReadData/Photogallery/IMG_20160318_114007.jpg) ](/ViewAlbum.aspx)
+  * [ ![SECAS](/WriteReadData/Photogallery/IMG_20160318_110640.jpg) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6976.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6977.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6980.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED](/WriteReadData/Photogallery/IMG_6986.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED](/WriteReadData/Photogallery/IMG_6997.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6974.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6970.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6972.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6973.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6963.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6965.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6966.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6967.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6954 - Copy.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6934.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6936.JPG) ](/ViewAlbum.aspx)
+  * [ ![WED 2015](/WriteReadData/Photogallery/IMG_6945.JPG) ](/ViewAlbum.aspx)
+  * [ ![Training1](/WriteReadData/Photogallery/MG_4984-683x1024.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo2](/WriteReadData/Photogallery/20150204_183427-1024x614.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo2](/WriteReadData/Photogallery/MG_5059-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo](/WriteReadData/Photogallery/MG_5005-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo4](/WriteReadData/Photogallery/MG_5078-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo5](/WriteReadData/Photogallery/MG_4993-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo](/WriteReadData/Photogallery/20150204_183720-1024x614.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo](/WriteReadData/Photogallery/MG_5065-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Training Photo](/WriteReadData/Photogallery/MG_5071-1024x683.jpg) ](/ViewAlbum.aspx)
+  * [ ![Arjuna Nirttam](/WriteReadData/Photogallery/Arjuna Nirttam.jpg) ](/ViewAlbum.aspx)
+  * [ ![aivar kaliivar kali](/WriteReadData/Photogallery/aivar kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Aadivedan kali](/WriteReadData/Photogallery/Aadivedan kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Chakyaar koothu](/WriteReadData/Photogallery/chakyaar koothu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kaaliyuttu](/WriteReadData/Photogallery/kaaliyuttu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kakarishi kali](/WriteReadData/Photogallery/kakarishi kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kalamezuthu](/WriteReadData/Photogallery/kalamezuthu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kambadi kali](/WriteReadData/Photogallery/kambadi kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kothaamuriyattam](/WriteReadData/Photogallery/kothaamuriyattam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kummatikali](/WriteReadData/Photogallery/kummatikali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Kuttiyottam](/WriteReadData/Photogallery/kuttiyottam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Nangyar koothu](/WriteReadData/Photogallery/nangyar koothu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Oppana](/WriteReadData/Photogallery/oppana.jpg) ](/ViewAlbum.aspx)
+  * [ ![Sopanasangeetham](/WriteReadData/Photogallery/sopanasangeetham.jpg) ](/ViewAlbum.aspx)
+  * [ ![Sarppam Thullal](/WriteReadData/Photogallery/Sarppam Thullal.jpg) ](/ViewAlbum.aspx)
+  * [ ![Theeyattu Kali](/WriteReadData/Photogallery/Theeyattu Kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Theyyam](/WriteReadData/Photogallery/Theyyam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thidambu Nrittam](/WriteReadData/Photogallery/Thidambu Nrittam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thiruvathira Kali](/WriteReadData/Photogallery/Thiruvathira Kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Tholpaavakoottu](/WriteReadData/Photogallery/Tholpaavakoottu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thullal](/WriteReadData/Photogallery/Thullal.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vadithallu](/WriteReadData/Photogallery/Vadithallu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vatta Kali](/WriteReadData/Photogallery/Vatta Kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vedan Thullal](/WriteReadData/Photogallery/Vedan Thullal.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vela Kali](/WriteReadData/Photogallery/Vela Kali.jpg) ](/ViewAlbum.aspx)
+  * [ ![Villadichan Pattu](/WriteReadData/Photogallery/Villadichan Pattu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Yakshagana](/WriteReadData/Photogallery/Yakshagana.jpg) ](/ViewAlbum.aspx)
+  * [ ![Anjengo Fort](/WriteReadData/Photogallery/Anjengo Fort.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bekal fort](/WriteReadData/Photogallery/Bekal fort.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bolghatty Palace ](/WriteReadData/Photogallery/Bolghatty Palace .jpg) ](/ViewAlbum.aspx)
+  * [ ![Chendamangalam](/WriteReadData/Photogallery/Chendamangalam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Dutch Palace, Mattancherry](/WriteReadData/Photogallery/Dutch Palace, Mattancherry.jpg) ](/ViewAlbum.aspx)
+  * [ ![EdakkalCaves](/WriteReadData/Photogallery/EdakkalCaves.jpg) ](/ViewAlbum.aspx)
+  * [ ![Gundert Bungalow](/WriteReadData/Photogallery/Gundert Bungalow.jpg) ](/ViewAlbum.aspx)
+  * [ ![Hill Palace ](/WriteReadData/Photogallery/Hill Palace .jpg) ](/ViewAlbum.aspx)
+  * [ ![Kannur Arakkal kettu](/WriteReadData/Photogallery/Kannur Arakkal kettu.jpg) ](/ViewAlbum.aspx)
+  * [ ![KaviyoorRockCutCaveTemple](/WriteReadData/Photogallery/KaviyoorRockCutCaveTemple.jpg) ](/ViewAlbum.aspx)
+  * [ ![Koyikkal Palace, Nedumangad](/WriteReadData/Photogallery/Koyikkal Palace, Nedumangad.jpg) ](/ViewAlbum.aspx)
+  * [ ![Krishnapuram Palace](/WriteReadData/Photogallery/Krishnapuram Palace.jpg) ](/ViewAlbum.aspx)
+  * [ ![MattancherryPalace](/WriteReadData/Photogallery/MattancherryPalace.jpg) ](/ViewAlbum.aspx)
+  * [ ![Meshan Mani](/WriteReadData/Photogallery/Meshan Mani.jpg) ](/ViewAlbum.aspx)
+  * [ ![Napier Museum ](/WriteReadData/Photogallery/Napier Museum .jpg) ](/ViewAlbum.aspx)
+  * [ ![Padmanabhapuram Palace](/WriteReadData/Photogallery/Padmanabhapuram Palace.jpg) ](/ViewAlbum.aspx)
+  * [ ![Palakkad Fort ](/WriteReadData/Photogallery/Palakkad Fort .jpg) ](/ViewAlbum.aspx)
+  * [ ![Pierce Leslie Bungalow](/WriteReadData/Photogallery/Pierce Leslie Bungalow.jpg) ](/ViewAlbum.aspx)
+  * [ ![Poonjar Palace in Kottayam](/WriteReadData/Photogallery/Poonjar Palace in Kottayam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Poonthanam Illam, Kizhattoor, Perinthalmanna](/WriteReadData/Photogallery/Poonthanam Illam, Kizhattoor, Perinthalmanna.jpg) ](/ViewAlbum.aspx)
+  * [ ![Shakthan Thampuran Palace ](/WriteReadData/Photogallery/Shakthan Thampuran Palace .jpg) ](/ViewAlbum.aspx)
+  * [ ![St. Angelo fort](/WriteReadData/Photogallery/St. Angelo fort.jpg) ](/ViewAlbum.aspx)
+  * [ ![Synagogue at Chennamangalam, Ernakulam](/WriteReadData/Photogallery/Synagogue at Chennamangalam, Ernakulam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Synagogue, Ernakulam](/WriteReadData/Photogallery/Synagogue, Ernakulam.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thalasseri Fort](/WriteReadData/Photogallery/Thalasseri Fort.jpg) ](/ViewAlbum.aspx)
+  * [ ![The Dutch Cemetery](/WriteReadData/Photogallery/The Dutch Cemetery.jpg) ](/ViewAlbum.aspx)
+  * [ ![The Kanakakunnu Palace](/WriteReadData/Photogallery/The_Kanakakunnu_Palace.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thrithala](/WriteReadData/Photogallery/Thrithala.jpg) ](/ViewAlbum.aspx)
+  * [ ![Thunchan Memorial, Tirur](/WriteReadData/Photogallery/Thunchan_Memorial_Tirur.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vasco da Gama Square](/WriteReadData/Photogallery/Vasco_da_Gama_Square.jpg) ](/ViewAlbum.aspx)
+  * [ ![Vizhinjam Rock Cut Cave Temple](/WriteReadData/Photogallery/Vizhinjam_Rock_Cut_Cave_Temple.jpg) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/kids_icon.png)
+
+##  KIDS CORNER
+
+  * [ National Green Corps ](/KidsCentre/National Green Corps_929.aspx)
+  * [ Environmental Quiz ](/KidsCentre/Environmental Quiz_1061.aspx)
+  * [ NCSC-2016 ](/KidsCentre/NCSC-2016_1818.aspx)
+
+Last Updated:28/11/2016
+
+[ More&gt;&gt; ](/KidsCentre/National Green Corps_929.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Bibliographybiblio_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :09/11/2016
+
+[ ![](WriteReadData/FooterIcon/india_gov_icon\(17\).png) ](http://india.gov.in
+"india.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/gov.png) ](http://www.kerala.gov.in/
+"www.kerala.gov.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/KCZMA.jpg) ](http://keralaczma.gov.in/
+"keralaczma.gov.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/GEO_PORTAL.jpg) ](http://bhuvan.nrsc.gov.in
+"bhuvan.nrsc.gov.in" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/nic.in_banner.png) ](http://www.nic.in/
+"www.nic.in/" )
+
+|
+
+[ ![](WriteReadData/FooterIcon/ENVIS_footer\(1\).JPG) ](http://envis.nic.in/
+"envis.nic.in/" )  
+  
+---|---|---|---|---|---  
+  
+##  Total Visitor:  2627464
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Help ](/Content/Help_770.aspx)
+  * [ Disclaimer ](/Content/Discalimer-Kerala_170.aspx)
+
+Site designed, developed and hosted by [ National Informatics Center
+](http://www.nic.in/ "National Informatics Center" )  
+Contents of this website is published and managed by  ENVIS Centre: Kerala  
+State of Environment and Related Issues  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

@@ -1,0 +1,94 @@
+---  
+|  |  |
+
+  * ![menubg](../Images/navimg2_03.png)
+  * [ MoEF ](http://moef.nic.in/index.php)
+  * ![menubg](../images/navimg2_03.png)
+  * [ HSMD ](http://moef.gov.in/divisions/hsmd/hsmd.html)
+  * ![menubg](../images/navimg2_03.png)
+  * [ NHWIS ](../../SPages/AboutUs.aspx)
+  * ![menubg](../images/navimg2_03.png)
+  * [ FAQ ](../../SPages/FAQ.aspx)
+  * ![menubg](../images/navimg2_03.png)
+  * [ Feedback ](../../SPages/FeedBack.aspx)
+  * ![menubg](../images/navimg1_02.png)
+  * [ Contact Us ](../../SPages/ContactUs.aspx)
+
+  
+  
+---  
+|  |  |  |  
+---  
+  
+NHWIS is Online Web based Hazardous Waste Information System which gives the
+status of Hazardous Waste Management in the country.
+
+The database will be regularly updated by all State Pollution Control Boards
+on Web &amp; this will ensure updated status at all times. The NHWIS project
+has been developed by Environment &amp; Forest Informatics.
+
+[ ![icon](../images/moreicon.png) ](../../SPages/AboutUs.aspx)  
+|  |  |  
+---  
+  
+Status of Compliance to the Enviornment Regulation.
+
+Queries/ Reports on Hazardous Waste Management for Authority &amp; General
+Public.
+
+Data on Available Disposal Option.
+
+Contain records of Management of Hazardous Waste by Generating Units.
+
+[ ![icon](../images/moreicon.png) ](../../SPages/AboutUs.aspx)  
+|  |  |  
+---  
+  
+A compliance Monitoring &amp; Enforcement Tool.
+
+No hassle of client side installation and redistribution in case of change in
+the s/w Generating Industries.
+
+[ ![icon](../images/moreicon.png) ](../../SPages/AboutUs.aspx)  
+|  
+---  
+  
+Compliance Status over Web.
+
+Online Data Updation by all State Pollution Control Boards with password
+Security over Web.
+
+[ ![icon](../images/moreicon.png) ](../../SPages/AboutUs.aspx)  
+|  
+---  
+  
+|  State Login  Industry Login  
+---  
+  
+User Name
+
+|  
+  
+Password
+
+|  
+![](../Captcha.aspx?id=9470e946-8439-4c7d-af81-99a35bed24f1)  
+  
+Code
+
+|  
+|  [ Forgot Password ](javascript:__doPostBack\('lnk_Forgptpwd',''\)) [
+Industry Registration ](javascript:__doPostBack\('lnk_reg',''\)) |  
+---|---  
+  
+|  ![title](../images/latestnewsbutn_04.jpg)  
+---  
+  
+NHWIS project has been developed by Environment &amp; Forest Informatics
+Division of NIC in close consultation with Hazardous  
+  
+![title](../images/photogallery-butn_05.jpg)  
+![img1](../images/Photogallery-img_06.png)  
+  
+---
+

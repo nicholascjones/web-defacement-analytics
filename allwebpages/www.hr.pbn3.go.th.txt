@@ -1,0 +1,270 @@
+[x] 
+
+|  |  |  **  **   
+---  
+  
+  
+|  [ ![English](images/imlang/blank.png) ](javascript:doTranslate\('th|en'\)
+"English" ) [ ![Chinese \(Simplified\)](images/imlang/blank.png)
+](javascript:doTranslate\('th|zh-CN'\) "Chinese \(Simplified\)" ) [ ![Chinese
+\(Traditional\)](images/imlang/blank.png) ](javascript:doTranslate\('th|zh-
+TW'\) "Chinese \(Traditional\)" ) [ ![French](images/imlang/blank.png)
+](javascript:doTranslate\('th|fr'\) "French" ) [
+![German](images/imlang/blank.png) ](javascript:doTranslate\('th|de'\)
+"German" ) [ ![Italian](images/imlang/blank.png)
+](javascript:doTranslate\('th|it'\) "Italian" ) [
+![Japanese](images/imlang/blank.png) ](javascript:doTranslate\('th|ja'\)
+"Japanese" ) [ ![Korean](images/imlang/blank.png)
+](javascript:doTranslate\('th|ko'\) "Korean" ) [
+![Portuguese](images/imlang/blank.png) ](javascript:doTranslate\('th|pt'\)
+"Portuguese" ) [ ![Russian](images/imlang/blank.png)
+](javascript:doTranslate\('th|ru'\) "Russian" ) [
+![Spanish](images/imlang/blank.png) ](javascript:doTranslate\('th|es'\)
+"Spanish" ) [ ![Vietnamese](images/imlang/blank.png)
+](javascript:doTranslate\('th|vi'\) "Vietnamese" ) [
+![Thai](images/imlang/blank.png) ](javascript:doTranslate\('th|th'\) "Thai" )
+Select Language  English  Arabic  Bulgarian  Chinese (Simplified)  Chinese
+(Traditional)  Croatian  Czech  Danish  Dutch  Finnish  French  German  Greek
+Hindi  Italian  Japanese  Korean  Norwegian  Polish  Portuguese  Romanian
+Russian  Spanish  Swedish  Catalan  Filipino  Hebrew  Indonesian  Latvian
+Lithuanian  Serbian  Slovak  Slovenian  Ukrainian  Vietnamese  Albanian
+Estonian  Galician  Hungarian  Maltese  Thai  Turkish  
+  
+---  
+[ ![](templates/cli3/images/menu/menu_01.png) ](index.php) |  [
+![](templates/cli3/images/menu/menu_02.png) ](?name=news) |  [
+![](templates/cli3/images/menu/menu_03.png) ](?name=webboard) |  [
+![](templates/cli3/images/menu/menu_04.png) ](?name=gallery) |  [
+![](templates/cli3/images/menu/menu_05.png) ](?name=gbook) |  [
+![](templates/cli3/images/menu/menu_06.png) ](?name=admin)  
+|  ![](templates/cli3/images/config/headerread1.jpg)  
+---  
+|  |  |    
+---  
+|  |
+
+  * [  ](index.php)
+
+  
+---  
+  
+  * [  ](index.php?name=gallery)
+
+  
+  
+  * [  ](index.php?name=calendar)
+
+  
+  
+  * [ / ](index.php?name=news)
+
+  
+  
+  * [ video ](index.php?name=video)
+
+  
+  
+  * [ Administrator ](index.php?name=admin "Administrator" )
+
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  ![](images/menu/graduatelogin.gif) |  Username :  |  
+---|---  
+Password :  |  
+![](capcha/val_img.php?width=60&height=25&characters=4) |  
+[ [  ] ](?name=member&file=index) | [ [  ]
+](?name=member&file=forget_pwd)  
+![](images/admin/members\[1\].png)   1    
+---  
+![](images/admin/i_member\[1\].gif)   0    
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](images/fader.gif) |  ![](images/topfader.gif)  
+|
+
+|  
+---  
+|  ![](images/pic/news-tl.gif) |  |  ![](images/pic/news-tr.gif)  
+---|---|---  
+|  ![](templates/cli3/images/menu/cli3_news1.png)  
+|  [ ![](images/admin/2_15.gif) ](index.php?name=news&category=1)  
+---  
+![](images/pic/news-bl.gif) |  |  ![](images/pic/news-br.gif)  
+  
+|    
+---  
+|  |  
+---  
+[ ![](images/rss.jpg) ](modules/rss/news.xml) |  [ ![](images/admin/2_15.gif)
+](index.php?name=news&category=2)  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  |  
+![](images/menu/textmenu_gallery.gif)  
+|  [ ![](images/admin/open.gif) **  Gallery   **
+](?name=gallery)  
+---  
+|  |  |  |  |  
+---|---|---  
+|  [ ![](images/news_blank.gif) ](?name=gallery&op=gallery_detail&id=3) |  
+|  |  
+** [  ](?name=gallery&op=gallery_detail&id=3) **  
+( 3/../2559 )  
+... [  ](?name=gallery&op=gallery_detail&id=3)  
+|  |  |  |  
+---|---|---  
+|  [ ![](images/news_blank.gif) ](?name=gallery&op=gallery_detail&id=2) |  
+|  |  
+** [   ](?name=gallery&op=gallery_detail&id=2) **  
+( 21/../2559 )  
+... [  ](?name=gallery&op=gallery_detail&id=2)  
+[ 2 ]  
+  
+  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  |  |    
+---  
+|  |  |  [ ![](images/personnel/thb_1470140412_138717282.jpg)
+](images/personnel/1470140412_138717282.jpg) |  
+  
+---|---  
+  
+|  
+[    
+**   3  **   
+  ](popup.php?name=personnel&file=popdetail&pid=3)  
+|
+
+  * [ **  ** ](?name=personnel&file=gdetail&id=1&op=gdetail&gr=)
+
+  
+---  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=2&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=3&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=4&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=5&op=gdetail&gr=)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=6&op=gdetail&gr=)
+
+  
+  
+  * [ **  .  3 ** ](?name=personnel&file=gdetail&id=7&op=gdetail&gr= .  3)
+
+  
+  
+  * [ **  ** ](?name=personnel&file=gdetail&id=8&op=gdetail&gr=)
+
+  
+[ ![](images/admin/2_15.gif) ](index.php?name=personnel&file=detail)  
+|  ![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|
+
+[ **  ** ](index.php?name=calendar&file=index
+"" )
+
+|  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  |  
+  
+---  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+  
+---  
+|  
+|  ![](images/ip.gif) **  27/../2559 **  
+---  
+**  ** 1  IP  ** **  
+---  
+|
+
+|  ![](images/human.gif)   |
+
+1   
+  
+---|---  
+![](images/group2.gif)   |
+
+4   
+  
+![](images/group2.gif)   |
+
+  
+  
+![](images/see.gif)   |
+
+4   
+  
+![](images/member2.gif)   |
+
+3387   
+  
+![](images/group.gif)   |
+
+3387   
+  
+** IP  ** 66.254.248.70  ** **  
+  
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/0.gif)
+![](modules/useronline/styles/57chevy/3.gif)
+![](modules/useronline/styles/57chevy/3.gif)
+![](modules/useronline/styles/57chevy/8.gif)
+![](modules/useronline/styles/57chevy/7.gif)  
+(Show/hide IP)  
+  
+** |  66.254.248  .xxx  | 
+
+1/../2559  
+  
+---|---  
+**  
+  
+![](templates/cli3/images/menu/ict_04.png) |
+![](templates/cli3/images/menu/ict_05.png) |
+![](templates/cli3/images/menu/ict_06.png)  
+|  ![](templates/cli3/images/config/footer.png)  
+---  
+  
+**  **   
+  
+ LOAD  0.56766200065613  
+@2010-2012 under [ GNU General Public License
+](http://www.gnu.org/copyleft/gpl.html) Edit&amp;Applied; by [ Chudsagorn
+phikulthong ](http://maxtom.sytes.net/ "" )
+
+Power by : [ ATOMYMAXSITE 2.5 ](http://maxtom.sytes.net)
+

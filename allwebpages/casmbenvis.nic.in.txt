@@ -1,0 +1,394 @@
+  * Skip to Main Content 
+  *   * [ Accessibility Options ](/AccessibilityOptions.aspx "Accessibility Options" )
+  * [ Screen Reader Access ](/ScreenReaderAccess.aspx "Screen Reader Access" )
+  * Select Theme 
+  *   * 
+
+![Satyamev Jayte](/images/satymev_jayte.png) [ ![MOEF&CC](/images/moef.png)
+](http://moef.nic.in/index.php "MoEF" )
+
+#  Environmental Information System
+
+Hosted by  [ Centre of Advanced Study in Marine Biology, Faculty of Marine
+Sciences, Annamalai University ](http://www.annamalaiuniversity.ac.in " Centre
+of Advanced Study in Marine Biology, Faculty of Marine Sciences, Annamalai
+University" )  
+Sponsored by  [ Ministry of Environment, Forest &amp; Climate Change, Govt of
+India ](http://moef.nic.in " Ministry of Environment, Forest & Climate Change,
+Govt of India" )
+
+![ENVIS](/images/envis_logo.png)
+![IIPS](/WriteReadData/ThemeImage/anna_logo.png)
+
+[ Home ](/Home.aspx)
+
+  * About Us 
+    * [ Awards ](/Content/Awards_4079.aspx)
+    * [ About Faculty of Marine Sciences ](/Content/AboutFaculty_4080.aspx)
+    * [ ENVIS Team ](/Content/ENVISTeam_4081.aspx)
+    * [ Introduction ](/Content/Introduction_4082.aspx)
+  * ENVIS Network 
+    * [ ENVIS Centres ](/Content/enviscentres_491.aspx)
+    * [ Focal Point ](/Content/focalpoint_496.aspx)
+  * [ Online Query ](/Onlinequery.aspx)
+  * [ Experts ](/Content/experts_120.aspx)
+    * [ LAGOONS ](/Content/LAGOONS_4075.aspx)
+    * [ CORAL REEFS ](/Content/CORALREEFS_4076.aspx)
+    * [ MANGROVES ](/Content/MANGROVES_4077.aspx)
+    * [ ESTUARIES ](/Content/ESTUARIES_4078.aspx)
+  * [ Feedback ](/Feedback.aspx)
+  * [ Site Map ](/SiteMap.aspx)
+  * [ FAQs ](/Content/FAQs_123.aspx)
+    * [ Tranquil waterbodies ](/Content/Tranquil_waterbodies_4070.aspx)
+    * [ underwater forests ](/Content/underwater_forests_4071.aspx)
+    * [ amphibious plants ](/Content/amphibious_plants_4072.aspx)
+    * [ cradles of ocean life ](/Content/cradles_4073.aspx)
+  * [ Contact Us ](/Content/contactus_124.aspx)
+  * Related Links 
+    * [ List of related links ](/Content/related_links_4074.aspx)
+
+![](WriteReadData/ModuleIcon/Login.jpg)
+
+##  LOGIN
+
+Username :
+
+Password :
+
+![](CaptchaImage.axd?guid=e8c87dd5-54b4-466f-9406-3c381e341f2e) [ ![Play
+Audio](/WebResource.axd?d=7DMm5HnXLriJbVfyh5XDZd57u1FSofo9-PHz3x7Z0AVp-
+y84pRJ3y-5rSg95ar-
+Ulmyr0n_AFdpgHHmy6s5Cx73alwU6LOwXFS9L_PKf1CL9ZqXTKoWMxbgXH4MiwAj_RSulsg2&t=635412771283023140)
+](CaptchaAudio.axd?guid=e8c87dd5-54b4-466f-9406-3c381e341f2e)
+
+[ Sign-Up ](/Signup.aspx "Sign-Up" )
+
+[ Help ](/Help.aspx "Help" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  PUBLICATION
+
+  * [ Special Publications ](PublicationCommon.aspx?LinkId=630)
+  * [ State-of-the-art Reports ](PublicationCommon.aspx?LinkId=631)
+  * [ Identification Manuals ](PublicationCommon.aspx?LinkId=629)
+
+Last Updated:27/10/2016
+
+[ More&gt;&gt; ](/Publication.aspx "More" )
+
+![](WriteReadData/ModuleIcon/glossary-icon-lg.jpg)
+
+##  GLOSSARY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkGlossary", "",
+true, "", "", false, true\)\))
+
+Last Updated:10/11/2016
+
+![](/WriteReadData/ModuleImage/univ.jpg)
+
+##  Welcome to Environmental Information System
+
+In 1982, the Ministry established the Environmental Information System as a
+Plan Scheme for environmental information collection, collation, storage,
+retrieval and dissemination to public.
+
+  * [ Estuaries ](/Database/Tamilnadu_3894.aspx)
+  * [ Coral Reefs ](/Database/CoralReefs_3892.aspx)
+  * [ Lagoons ](/Database/Lagoons_3891.aspx)
+  * [ Mangrove taxo informatics ](/Database/Mangrove_taxo_informatics_10762.aspx)
+
+Last Updated:10/11/2016
+
+[ More &gt;&gt; ](/Database/Tamilnadu_3894.aspx "More" )
+
+![](WriteReadData/ModuleIcon/news_img.png)
+
+##  LATEST NEWS
+
+![](WriteReadData/ModuleImage/index.jpg) [ Creep Show: Video Cap..
+](ViewGeneralLatestNews.aspx?Id=13533&Year=2016 "Details" )
+
+....
+
+[ Coral Reefs Flourish .. ](ViewGeneralLatestNews.aspx?Id=13526&Year=2016
+"Details" )
+
+....
+
+Last Updated:10/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=4 "More" )
+
+![](WriteReadData/ModuleIcon/activity_icon.gif)
+
+##  MAJOR ACTIVITY
+
+![](WriteReadData/ModuleImage/activity.jpg)
+
+  * [ Coral 'Twilight Zone' .. ](/ViewMajorActivity.aspx?Id=13532&Year=2016)
+  * [ CO2 in oceans sets off.. ](/ViewMajorActivity.aspx?Id=13525&Year=2016)
+  * [ China Fish Fossil Reve.. ](/ViewMajorActivity.aspx?Id=13518&Year=2016)
+
+Last Updated:15/11/2016
+
+[ More &gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=7 "More" )
+
+![](WriteReadData/ModuleIcon/UpcomingEventsIcon.jpg)
+
+##  UPCOMING EVENTS
+
+  * [ Geospatial World Forum 2017.... ](ViewEvents.aspx?Id=13540&Year=2016)
+  * [ Spaces &amp; Flows: Eighth Inte.... ](ViewEvents.aspx?Id=13534&Year=2016)
+  * [ The Asian Conference on Sus.... ](ViewEvents.aspx?Id=13527&Year=2016)
+
+Last Updated:15/11/2016
+
+[ More&gt;&gt; ](/LinkPage.aspx?Year=2016&Mid=5 "More" )
+
+![](WriteReadData/ModuleIcon/Business-Graph-Icon-Final_550.jpg)
+
+##  PERFORMANCE REPORT
+
+Select Year:
+
+Select Year:  2016-2017  2015-2016  2014-2015  2013-2014
+
+Parameter :
+
+Parameter  Visitor Summary  Reports Read/Downloaded  Query Answer Statistics
+Frequency of Updating Website  Publications Updated  Subject Area Updated
+
+Periodicity:
+
+Periodicity  Yearly  Quarterly  Monthly  Weekly
+
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9562.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9564.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9570.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9580.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9619.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit ](/WriteReadData/Photogallery/DSCN9611.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor visit ](/WriteReadData/Photogallery/DSCN9550.JPG) ](/ViewAlbum.aspx)
+  * [ ![Shri. M. Kannan, Economic Advisor - Visit](/WriteReadData/Photogallery/DSCN9559.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00540.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00549.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00566.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00566.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06908.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06916.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06921.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06922.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06923.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06925.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06934.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06947.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06947.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06949.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC06958.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00534.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00535.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor - visit ](/WriteReadData/Photogallery/DSC00536.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ms. Vandana Agarwal, Economic Advisor visit to our ENVIS Centre](/WriteReadData/Photogallery/DSC00530.JPG) ](/ViewAlbum.aspx)
+  * [ ![1 \(2\)](/WriteReadData/Photogallery/1 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(11\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(12\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(12\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(13\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(13\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(14\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(14\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(15\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(15\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(16\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(16\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(17\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(17\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(18\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(18\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(19\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(19\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(20\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(20\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal clean-up day \(2\)](/WriteReadData/Photogallery/Coastal clean-up day -cleanliness campaign \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(3\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(4\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(5\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(6\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(7\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(8\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(9\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day -cleanliness campaign \(10\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Coastal cleanup day \(1\)](/WriteReadData/Photogallery/Coastal cleanup day -cleanliness campaign \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Barracudas and Razor belly scads](/WriteReadData/Photogallery/31 \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Tiger shrimp, Penaeus monodon](/WriteReadData/Photogallery/31 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Whitefin wolf herring, Chirocentrus nudus](/WriteReadData/Photogallery/31 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Obtuse barracuda, Sphyraena barracuda](/WriteReadData/Photogallery/31 \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Groupers, snappers, jobfishes and squirrelfishes](/WriteReadData/Photogallery/31 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Cephalopholis sp.](/WriteReadData/Photogallery/31 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Brownstripe red snapper, \(Lutjanus vitta\)](/WriteReadData/Photogallery/31 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Rusty jobfish, Aphareus rutilans](/WriteReadData/Photogallery/31 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Bullseye, Priacanthus hamrur](/WriteReadData/Photogallery/31 \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Indian anchovy, Stolephorus indicus](/WriteReadData/Photogallery/30 \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Tiger shrimp, Penaeus monodon](/WriteReadData/Photogallery/30 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Dasyatis sp.](/WriteReadData/Photogallery/30 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Small scale terapon, Terapon puta](/WriteReadData/Photogallery/30 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Sand whiting, Sillago sihama](/WriteReadData/Photogallery/30 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Emperor fish](/WriteReadData/Photogallery/30 \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Marsupenaeus japonicus](/WriteReadData/Photogallery/30 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Metapenaeus sp.](/WriteReadData/Photogallery/30 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Frigate tunas \(Auxis thazard\).](/WriteReadData/Photogallery/29\(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Milk-fis \(Chanos chanos\)](/WriteReadData/Photogallery/29\(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Catch of mullets, milk-fishes and tenpounders](/WriteReadData/Photogallery/29\(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Deep flounder \(Pseudorhombus sp.\)](/WriteReadData/Photogallery/29\(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Obtuse barracuda \(Sphyraena obtusata\)](/WriteReadData/Photogallery/29\(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![29\(12\)](/WriteReadData/Photogallery/) ](/ViewAlbum.aspx)
+  * [ ![Portunus pelagicus](/WriteReadData/Photogallery/29\(13\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Indo-Pacific king mackerel \(Scomberomorus guttatus\)](/WriteReadData/Photogallery/29\(14\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Silver belly \(Leiognathus sp.\)](/WriteReadData/Photogallery/29\(15\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Greasy grouper \(epinephelus tauvina\)](/WriteReadData/Photogallery/DSCN3796.JPG) ](/ViewAlbum.aspx)
+  * [ ![Indian mackerel \(Rastralliger kanagurta\)](/WriteReadData/Photogallery/DSCN3799.JPG) ](/ViewAlbum.aspx)
+  * [ ![Russells snapper \(Lutjanus russelli\)](/WriteReadData/Photogallery/DSCN3801.JPG) ](/ViewAlbum.aspx)
+  * [ ![Catch of grunts and snappers](/WriteReadData/Photogallery/DSCN3802.JPG) ](/ViewAlbum.aspx)
+  * [ ![Greasy grouper \(Epinephelus tauvina\)](/WriteReadData/Photogallery/DSCN3804.JPG) ](/ViewAlbum.aspx)
+  * [ ![Frigate tune \(Auxis thazard\)](/WriteReadData/Photogallery/DSCN3806.JPG) ](/ViewAlbum.aspx)
+  * [ ![Anchored trawlers at Mudasalodai fish landing centre](/WriteReadData/Photogallery/28 \(1\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Portunid crabs \(Portunus sp.\)](/WriteReadData/Photogallery/28 \(2\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Marine invertebrate egg-case](/WriteReadData/Photogallery/28 \(3\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Trawl by-catch](/WriteReadData/Photogallery/28 \(4\).JPG) ](/ViewAlbum.aspx)
+  * [ ![FRP boat with sardine catch](/WriteReadData/Photogallery/28 \(5\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Removing catch from the gear](/WriteReadData/Photogallery/28 \(6\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Engraulids \(Thryssas\)](/WriteReadData/Photogallery/28 \(7\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Engraulids \(Thryssas\)](/WriteReadData/Photogallery/28 \(8\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Assorted trawl catch](/WriteReadData/Photogallery/28 \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![28 \(9\)](/WriteReadData/Photogallery/28 \(9\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Trawl catch for auction](/WriteReadData/Photogallery/28 \(10\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Mixed catch of anchovies and engrauids](/WriteReadData/Photogallery/28 \(11\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Trawl catch of anchovies](/WriteReadData/Photogallery/28 \(12\).JPG) ](/ViewAlbum.aspx)
+  * [ ![Sun drying of surplus catch](/WriteReadData/Photogallery/23.JPG) ](/ViewAlbum.aspx)
+  * [ ![Penaeid shrimps](/WriteReadData/Photogallery/24.JPG) ](/ViewAlbum.aspx)
+  * [ ![Thryssas, silver bellies and croakers](/WriteReadData/Photogallery/25.JPG) ](/ViewAlbum.aspx)
+  * [ ![Silver bellies and Thryssas](/WriteReadData/Photogallery/26.JPG) ](/ViewAlbum.aspx)
+  * [ ![Trawl catch of anchovies and lesser sardines](/WriteReadData/Photogallery/27.JPG) ](/ViewAlbum.aspx)
+  * [ ![Sea urchin](/WriteReadData/Photogallery/DSCN2758.JPG) ](/ViewAlbum.aspx)
+  * [ ![Crab - Podophthalmus vigil](/WriteReadData/Photogallery/DSCN2764.JPG) ](/ViewAlbum.aspx)
+  * [ ![Penaeid shrimps](/WriteReadData/Photogallery/13.JPG) ](/ViewAlbum.aspx)
+  * [ ![Marine catfish](/WriteReadData/Photogallery/14.JPG) ](/ViewAlbum.aspx)
+  * [ ![Estuarine catch \(Scats, Rabbit fishes, Pearl spots, Ten-pounders, Flatheads, Eels, Mullets, crabs\)](/WriteReadData/Photogallery/15.JPG) ](/ViewAlbum.aspx)
+  * [ ![Penaeid shrimps](/WriteReadData/Photogallery/16.JPG) ](/ViewAlbum.aspx)
+  * [ ![Thread fins, Sciaenids](/WriteReadData/Photogallery/17.JPG) ](/ViewAlbum.aspx)
+  * [ ![Rays - Dasyatis sp](/WriteReadData/Photogallery/18.JPG) ](/ViewAlbum.aspx)
+  * [ ![Black tip shark - Carcharhinuslimbatus](/WriteReadData/Photogallery/19.JPG) ](/ViewAlbum.aspx)
+  * [ ![Bulls eye - Priacanthus sp.](/WriteReadData/Photogallery/20.JPG) ](/ViewAlbum.aspx)
+  * [ ![Tiger shrimp - Penaeus monodon](/WriteReadData/Photogallery/21.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ribbon fish - Trichiurus lepturus](/WriteReadData/Photogallery/22.JPG) ](/ViewAlbum.aspx)
+  * [ ![Loligo sp - squids](/WriteReadData/Photogallery/11.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ribbon fishes](/WriteReadData/Photogallery/12.JPG) ](/ViewAlbum.aspx)
+  * [ ![Carangids](/WriteReadData/Photogallery/DSCN3161.jpg) ](/ViewAlbum.aspx)
+  * [ ![10](/WriteReadData/Photogallery/DSCN3162.jpg) ](/ViewAlbum.aspx)
+  * [ ![Indian oil sardines ](/WriteReadData/Photogallery/DSCN3156.JPG) ](/ViewAlbum.aspx)
+  * [ ![Catfishes](/WriteReadData/Photogallery/DSCN3160.JPG) ](/ViewAlbum.aspx)
+  * [ ![Indian mackerel  \(Rastrelliger kanagurta\)](/WriteReadData/Photogallery/DSCN3143.JPG) ](/ViewAlbum.aspx)
+  * [ ![Tuna](/WriteReadData/Photogallery/DSCN3149.JPG) ](/ViewAlbum.aspx)
+  * [ ![Silver bellies](/WriteReadData/Photogallery/DSCN3115.JPG) ](/ViewAlbum.aspx)
+  * [ ![Anchovies](/WriteReadData/Photogallery/DSCN3128.JPG) ](/ViewAlbum.aspx)
+  * [ ![Ribbon fishes, Croakers and Thread fins ](/WriteReadData/Photogallery/DSCN3114.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mullets ](/WriteReadData/Photogallery/DSCN3108.JPG) ](/ViewAlbum.aspx)
+  * [ ![Boat ride in the mangrove waters](/WriteReadData/Photogallery/Boat ride in the mangrove waters.JPG) ](/ViewAlbum.aspx)
+  * [ ![Boat ride in the mangrove waters1](/WriteReadData/Photogallery/Boat ride in the mangrove waters1.JPG) ](/ViewAlbum.aspx)
+  * [ ![Degradation of mangroves due to hypersaline condition](/WriteReadData/Photogallery/Degradation of mangroves due to hypersaline condition.jpg) ](/ViewAlbum.aspx)
+  * [ ![Excoecaria agallocha - the sacred tree of Sri Natarajan temple at Chidambaram](/WriteReadData/Photogallery/Excoecaria agallocha - the sacred tree of Sri Natarajan temple at Chidambaram.jpg) ](/ViewAlbum.aspx)
+  * [ ![Excreton of excess salt by Aegiceras corniculatum](/WriteReadData/Photogallery/Excreton of excess salt by Aegiceras corniculatum.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangroves the home away from home for migratory birds](/WriteReadData/Photogallery/Mangroves the home away from home for migratory birds.jpg) ](/ViewAlbum.aspx)
+  * [ ![Pneumatophores of Avicennia marina](/WriteReadData/Photogallery/Pneumatophores of Avicennia marina.JPG) ](/ViewAlbum.aspx)
+  * [ ![Pneumatophores of Sonneratia species and knee roots of Ceriops species](/WriteReadData/Photogallery/Pneumatophores of Sonneratia species and knee roots of Ceriops species.jpg) ](/ViewAlbum.aspx)
+  * [ ![Seeds of Avicennia species](/WriteReadData/Photogallery/Seeds of Avicennia species.jpg) ](/ViewAlbum.aspx)
+  * [ ![Seeds of Sonneratia apetala](/WriteReadData/Photogallery/Seeds of Sonneratia apetala.jpg) ](/ViewAlbum.aspx)
+  * [ ![Supporting roots of Rhizophora species](/WriteReadData/Photogallery/Supporting roots of Rhizophora species.JPG) ](/ViewAlbum.aspx)
+  * [ ![View of mangrove forest](/WriteReadData/Photogallery/View of mangrove forest.jpg) ](/ViewAlbum.aspx)
+  * [ ![View of mangrove forest-](/WriteReadData/Photogallery/View of mangrove forest-.JPG) ](/ViewAlbum.aspx)
+  * [ ![Viviparous seeds of Rhizophora mucronata](/WriteReadData/Photogallery/Viviparous seeds of Rhizophora mucronata.JPG) ](/ViewAlbum.aspx)
+  * [ ![A mangrove patch near Tuticorin harbour](/WriteReadData/Photogallery/A mangrove patch near Tuticorin harbour.jpg) ](/ViewAlbum.aspx)
+  * [ ![Acropora before bleaching](/WriteReadData/Photogallery/Acropora before bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Acropora after bleaching](/WriteReadData/Photogallery/Acropora after bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Porites before bleaching](/WriteReadData/Photogallery/Porites before bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Porites after bleaching](/WriteReadData/Photogallery/Porites after bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Lobophytum before bleaching](/WriteReadData/Photogallery/Lobophytum before bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Lobophytum after bleaching](/WriteReadData/Photogallery/Lobophytum after bleaching.jpg) ](/ViewAlbum.aspx)
+  * [ ![Acanthus ilicifolius with flower](/WriteReadData/Photogallery/Acanthus ilicifolius with flower.jpg) ](/ViewAlbum.aspx)
+  * [ ![A colony of sea anemones in the reefs of Agathi island](/WriteReadData/Photogallery/A colony of sea anemones in the reefs of Agathi island.JPG) ](/ViewAlbum.aspx)
+  * [ ![Algal \(Helimeda macroloba\) growth on the healthy reefs of Kavarathi island](/WriteReadData/Photogallery/Algal \(Helimeda macroloba\) growth on the healthy reefs of Kavarathi island.JPG) ](/ViewAlbum.aspx)
+  * [ ![An Acropora in Kavarathi island showing necrotic \(green colour\) patches](/WriteReadData/Photogallery/An Acropora in Kavarathi island showing necrotic \(green colour\) patches.JPG) ](/ViewAlbum.aspx)
+  * [ ![Corals supporting faunal \(fish\) diversity](/WriteReadData/Photogallery/Corals supporting faunal \(fish\) diversity.JPG) ](/ViewAlbum.aspx)
+  * [ ![Dense reef in Agathi island having Acropora spp.](/WriteReadData/Photogallery/Dense reef in Agathi island having Acropora spp..JPG) ](/ViewAlbum.aspx)
+  * [ ![Profusion of corals - Acropora spp. and Favia spp.](/WriteReadData/Photogallery/Profusion of corals - Acropora spp. and Favia spp..JPG) ](/ViewAlbum.aspx)
+  * [ ![Corals find their settlement even in the inlet canal of Tuticorin Thermal Power Station in Tamil Nadu](/WriteReadData/Photogallery/Corals find their settlement even in the inlet canal of Tuticorin Thermal Power Station in Tamil Nadu.jpg) ](/ViewAlbum.aspx)
+  * [ ![Amphiprion clarkii & Entacmaea sp. - Under water photo taken from the Kavaratti Island of Lakshadweep](/WriteReadData/Photogallery/Amphiprion clarkii & Entacmaea sp. - Under water photo taken from the Kavaratti Island of Lakshadweep.jpg) ](/ViewAlbum.aspx)
+  * [ ![Diploastrea heliopora \(Lamarck, 1816\).](/WriteReadData/Photogallery/Diploastrea heliopora \(Lamarck, 1816\)..JPG) ](/ViewAlbum.aspx)
+  * [ ![Underwater view of coral Platygyra sp. in Agatti island, Lakshadweep \(May, 2010\)](/WriteReadData/Photogallery/Underwater view of coral Platygyra sp. in Agatti island, Lakshadweep \(May, 2010\).jpg) ](/ViewAlbum.aspx)
+  * [ ![School of yellow stripe snapper Lutjanus kasmira in the waters of Agatti Island, Lakshadweep](/WriteReadData/Photogallery/School of yellow stripe snapper Lutjanus kasmira in the waters of Agatti Island, Lakshadweep.jpg) ](/ViewAlbum.aspx)
+  * [ ![Coral acropora humilis with mucus strands in Agatti Island, Lakshadweep](/WriteReadData/Photogallery/Coral acropora humilis with mucus strands in Agatti Island, Lakshadweep.jpg) ](/ViewAlbum.aspx)
+  * [ ![Exposed corals of Acropora spp. lying scattered during low tide in Agatti island](/WriteReadData/Photogallery/Exposed corals of Acropora spp. lying scattered during low tide in Agatti island.JPG) ](/ViewAlbum.aspx)
+  * [ ![A view of Paravanar estuary, Cuddalore, Tamil Nadu](/WriteReadData/Photogallery/A view of Paravanar estuary, Cuddalore, Tamil Nadu.JPG) ](/ViewAlbum.aspx)
+  * [ ![A view of Paravanar estuary, Cuddalore, Tamil Nadu.](/WriteReadData/Photogallery/A view of Paravanar estuary, Cuddalore, Tamil Nadu..JPG) ](/ViewAlbum.aspx)
+  * [ ![A view of Vellar estuary, Tamil Nadu](/WriteReadData/Photogallery/A view of Vellar estuary, Tamil Nadu.JPG) ](/ViewAlbum.aspx)
+  * [ ![Planted mangroves on the northern bank of Vellar estuary, Tamil Nadu](/WriteReadData/Photogallery/Planted mangroves on the northern bank of Vellar estuary, Tamil Nadu.JPG) ](/ViewAlbum.aspx)
+  * [ ![A view of bleached corals in about 2m depth of Agatti lagoon](/WriteReadData/Photogallery/A view of bleached corals in about 2m depth of Agatti lagoon.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bleached and healthy corals in the shallow waters of Agatti](/WriteReadData/Photogallery/Bleached and healthy corals in the shallow waters of Agatti.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bleached giant clam, Tridacna maxima](/WriteReadData/Photogallery/Bleached giant clam, Tridacna maxima.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bleaching or recovering from bleaching, Acropora sp.](/WriteReadData/Photogallery/Bleaching or recovering from bleaching, Acropora sp..jpg) ](/ViewAlbum.aspx)
+  * [ ![Partially bleached tentacle anemone Heteractis magnifica with clownfish Amphiprion nigripes](/WriteReadData/Photogallery/Partially bleached tentacle anemone Heteractis magnifica with clownfish Amphiprion nigripes.jpg) ](/ViewAlbum.aspx)
+  * [ ![School of Yelloback sergeant and Bluestriped surgeon fishes with bleached corals](/WriteReadData/Photogallery/School of Yelloback sergeant and Bluestriped surgeon fishes with bleached corals.jpg) ](/ViewAlbum.aspx)
+  * [ ![A view of bleached Acropora spp with black streak surgeon fish](/WriteReadData/Photogallery/A view of bleached Acropora spp with black streak surgeon fish.jpg) ](/ViewAlbum.aspx)
+  * [ ![Bhitarkanika](/WriteReadData/Photogallery/Bhitarkanika-1.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 9](/WriteReadData/Photogallery/S7300797.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 8](/WriteReadData/Photogallery/S7300811.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove1](/WriteReadData/Photogallery/S7300852.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove2](/WriteReadData/Photogallery/S7300844.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove3](/WriteReadData/Photogallery/S7300843.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 4](/WriteReadData/Photogallery/S7300838.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 5](/WriteReadData/Photogallery/S7300836.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 6](/WriteReadData/Photogallery/S7300832.JPG) ](/ViewAlbum.aspx)
+  * [ ![Mangrove 7](/WriteReadData/Photogallery/S7300831.JPG) ](/ViewAlbum.aspx)
+
+![](WriteReadData/ModuleIcon/Icon_KinderApp50percent.png)
+
+##  KIDS CENTER
+
+  * [ Kids discover spotlights ](/KidsCentre/Kids discover spotlights _4066.aspx)
+  * [ National Geographic - Cor ](/KidsCentre/National Geographic - Cor_4067.aspx)
+  * [ Mangrove Quiz ](/KidsCentre/Mangrove Quiz_4068.aspx)
+
+Last Updated:10/11/2016
+
+[ More&gt;&gt; ](/KidsCentre/Kids discover spotlights _4066.aspx "More" )
+
+![](WriteReadData/ModuleIcon/Book_icon.png)
+
+##  BIBLIOGRAPHY
+
+[ See All ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliography", "",
+true, "", "", false, true\)\))
+
+[ Advanced Search ](javascript:WebForm_DoPostBackWithOptions\(new
+WebForm_PostBackOptions\("ctl00$ContentPlaceHolder1$Home1$LkBibliographyAdvancedSearch",
+"", true, "", "", false, true\)\))
+
+Last Updated: :10/11/2016
+
+[ ![](WriteReadData/FooterIcon/bhuvan_viewer3t3.png.jpg)
+](http://bhuvan.nrsc.gov.in/bhuvan_links.php
+"bhuvan.nrsc.gov.in/bhuvan_links.php" )  
+  
+---  
+  
+##  Total Visitor:  759427
+
+  * [ Privacy Policy ](/Content/Privacy_165.aspx)
+  * [ Copyright Policy ](/Content/Copyright_166.aspx)
+  * [ Terms &amp; Conditions ](/Content/TandC-CASMB_168.aspx)
+  * [ Hyperlinking Policy ](/Content/Hyperlinking_164.aspx)
+  * [ Disclaimer ](/Content/Discalimer-CASMB_170.aspx)
+  * [ Help ](/Content/Privacy_770.aspx)
+
+Site designed, developed and hosted by [ National Informatics Centre
+](http://www.nic.in/ "National Informatics Centre" )  
+Contents of this website is published and managed by  Environmental
+Information System  
+Copyright (c) 2011 by Ministry of Environment &amp; Forests, Govt. of India.
+All rights reserved.
+

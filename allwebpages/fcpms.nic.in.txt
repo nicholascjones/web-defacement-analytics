@@ -1,0 +1,46 @@
+WBPMS-Main Page  |  ** Web Based Proposal Monitoring System  **  
+---  
+![](\\wbpms\\images\\gov_logo.gif)  
+---  
+  
+##  GOVERNMENT OF INDIA  
+MINISTRY OF ENVIRONMENT &amp; FORESTS
+
+  
+
+###  _ Monitoring Cell of FC-Division  _
+
+|  ![](/wbpms/images/min_logo.gif)  
+
+* * *
+
+|  |  ** Login Now  ** ![](/wbpms/images/bullet.gif)  
+---  
+![](/wbpms/images/bullet.gif) Please Select Region:  |  \- - - Select Any One-
+- -  BANGALORE  BHOPAL  BHUBNESHWAR  CENTRAL  CHANDIGARH  LUCKNOW  SHILONG  
+---|---  
+![](/wbpms/images/bullet.gif) Enter Your ID:  |  |
+![](/wbpms/images/bullet.gif) Enter Your Password:  |  
+  
+  
+  
+  
+---  
+  
+
+* * *
+
+Website content owned, maintained &amp; updated by the Ministry of Environment
+&amp; Forests.  
+All queries/comments regarding the content on this website may be sent to:  
+[ 1: _ monitoring-fc@nic.in _ ](http://mail.nic.in)  
+  
+  
+---  
+[ 2: _ http://envfor.nic.in _ ](http://envfor.nic.in)  
+** Designed,Developed and Hosted by   
+**  
+---  
+[ ** ![](/wbpms/images/bullet.gif) National Informatics Centre  **
+![](/wbpms/images/bullet.gif) ](http://indiaimage.nic.in)
+
