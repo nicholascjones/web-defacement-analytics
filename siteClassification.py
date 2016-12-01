@@ -102,7 +102,7 @@ for w in urlTest:
 tf.close()
 
 
-"""
+
 tf = open("classOutput.csv", "w")
 
 st = "url"
@@ -123,7 +123,6 @@ for key,value in urlTest.iteritems():
 
 tf.close()
 
-"""
 
 
 

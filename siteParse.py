@@ -11,7 +11,7 @@ exSet = set(exList)
 
 
 for x,y,z in os.walk("./allwebpages/"):
-	sList = z
+	aList = z
 
 
 for fil in sList:
@@ -54,11 +54,12 @@ for fil in sList:
 
 	f.close()
 
-
+"""
 ii = 0
 for li in mList:
 	print str(ii) + "\n\n\n\n\n\n"
 	print li
 	ii += 1
+"""
 
 
